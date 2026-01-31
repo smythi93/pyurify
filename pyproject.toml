@@ -6,7 +6,7 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "tcp"
+name = "test-case-purification"
 version = "0.0.1"
 authors = [
     { name = "Marius Smytzek", email = "marius.smytzek@cispa.de" },
@@ -29,8 +29,9 @@ tcp = "tcp.cli:main"
 
 [project.optional-dependencies]
 test = [
-    "pytest>=8.3.4",
-    "pytest-html>=4.2.0"
+    "pytest>=9.0.2",
+    "pytest-html>=4.2.0",
+    "pytest-cov>=7.0.0"
 ]
 
 [tool.black]

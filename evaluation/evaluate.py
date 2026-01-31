@@ -14,6 +14,7 @@ from sflkit import Config, Analyzer
 from sflkit.analysis.analysis_type import AnalysisType
 from sflkit.analysis.factory import LineFactory
 from sflkit.analysis.spectra import Spectrum
+from sflkit.analysis.suggestion import Suggestion
 from sflkit.evaluation import Rank, Scenario
 from sflkit.events.event_file import EventFile
 from sflkit.events.mapping import EventMapping
@@ -33,6 +34,7 @@ from tests4py.sfl.constants import DEFAULT_EXCLUDES
 from tests4py.tests.utils import get_pytest_skip
 
 from tcp import purify_tests
+from tcp.purification import rank_refinement
 
 
 def parse_test_id(test_id: str) -> tuple:
@@ -355,6 +357,26 @@ def collect(
     report[identifier]["time"]["test"] = time.time() - start
     if r.successful:
         report[identifier]["test"] = "successful"
+
+        # For TCP, save mapping of event files to purified test names
+        if tcp and (events_base / "failing").exists():
+            test_event_mapping = {}
+            # Map each event file to its corresponding test name
+            # Event files are numbered starting from 0
+            # The test order matches project.test_cases
+            for run_id, filename in enumerate(
+                sorted(os.listdir(events_base / "failing"))
+            ):
+                if run_id < len(project.test_cases):
+                    test_name = project.test_cases[run_id]
+                    test_event_mapping[filename] = test_name
+
+            # Save the mapping
+            mapping_dir = Path("tcp_mappings")
+            mapping_dir.mkdir(exist_ok=True)
+            mapping_file = mapping_dir / f"{identifier}.json"
+            with open(mapping_file, "w") as f:
+                json.dump(test_event_mapping, f, indent=2)
     else:
         report[identifier]["test"] = "failed"
         report[identifier]["error"] = traceback.format_exception(r.raised)
@@ -552,6 +574,56 @@ def analyze_project(
         time.time() - start
     )
     analyzer.dump(analysis_file, indent=1)
+
+    # For TCP, extract and save purified spectra
+    if tcp:
+        identifier = project.get_identifier()
+        purified_spectra = []
+
+        # Load the test-event mapping if available
+        mapping_dir = Path("tcp_mappings")
+        tcp_mapping_file = mapping_dir / f"{identifier}.json"
+        test_event_mapping = {}
+        if tcp_mapping_file.exists():
+            with open(tcp_mapping_file, "r") as f:
+                test_event_mapping = json.load(f)
+
+        # Extract coverage from each failing event file (purified test)
+        for event_file in failing:
+            spectrum = {}
+
+            # Get the test name for this event file
+            event_filename = Path(event_file.path).name
+            test_name = test_event_mapping.get(
+                event_filename, f"unknown_{event_filename}"
+            )
+            for ao in analyzer.get_analysis():
+                ao: Spectrum
+                if event_file in ao.hits:
+                    if any(
+                        ao.hits[event_file][thread_id]
+                        for thread_id in ao.hits[event_file]
+                    ):
+                        spectrum[f"{ao.file}:{ao.line}"] = 1
+                    else:
+                        spectrum[f"{ao.file}:{ao.line}"] = 0
+                else:
+                    spectrum[f"{ao.file}:{ao.line}"] = 0
+            purified_spectra.append(
+                {
+                    "test_name": test_name,
+                    "spectrum": spectrum,
+                }
+            )
+        # Save purified spectra to file
+        spectra_dir = Path("tcp_spectra")
+        spectra_dir.mkdir(exist_ok=True)
+        spectra_file = spectra_dir / f"{identifier}.json"
+        with open(spectra_file, "w") as f:
+            json.dump(purified_spectra, f, indent=2)
+
+        print(f"Saved {len(purified_spectra)} purified spectra for {identifier}")
+
     return analyzer
 
 
@@ -586,6 +658,7 @@ def get_results_for_type(
     location,
     faulty_lines,
     eval_metric=max,
+    tcp=False,
 ):
     results = dict()
     times = dict()
@@ -597,6 +670,72 @@ def get_results_for_type(
         time_start = time.time()
         suggestions = analyzer.get_sorted_suggestions(location, metric, type_)
         times[metric.__name__] = time.time() - time_start
+
+        # If TCP, adjust ranks using rank_refinement
+        if tcp:
+            try:
+                # Build mapping: statement string -> (original Suggestion, Location)
+                stmt_to_location = {}
+                original_scores = {}
+
+                for suggestion in suggestions:
+                    for location in suggestion.lines:
+                        stmt = str(location)
+                        stmt_to_location[stmt] = location
+                        original_scores[stmt] = suggestion.suspiciousness
+
+                # Load purified spectra from saved file
+                identifier = project.get_identifier()
+                spectra_dir = Path("tcp_spectra")
+                spectra_file = spectra_dir / f"{identifier}.json"
+
+                if not spectra_file.exists():
+                    print(f"Warning: TCP spectra file not found: {spectra_file}")
+                    print("Run analysis step first to generate TCP spectra")
+                else:
+                    with open(spectra_file, "r") as f:
+                        purified_data = json.load(f)
+
+                    # Extract just the spectra (without test names)
+                    purified_spectra = [item["spectrum"] for item in purified_data]
+
+                    # Apply rank refinement
+                    if purified_spectra:
+                        refined_scores = rank_refinement(
+                            original_scores, purified_spectra, technique="combined"
+                        )
+
+                        # Rebuild suggestions as Suggestion objects with refined scores
+                        # Group by score (statements with same score go in one Suggestion)
+                        score_to_locations = {}
+                        for stmt, score in refined_scores.items():
+                            if score not in score_to_locations:
+                                score_to_locations[score] = []
+                            if stmt in stmt_to_location:
+                                score_to_locations[score].append(stmt_to_location[stmt])
+
+                        # Create Suggestion objects sorted by score
+                        suggestions = [
+                            Suggestion(locations, score)
+                            for score, locations in sorted(
+                                score_to_locations.items(),
+                                key=lambda x: x[0],
+                                reverse=True,
+                            )
+                        ]
+
+                        print(
+                            f"TCP rank refinement applied: {len(purified_spectra)} spectra used"
+                        )
+                    else:
+                        print("Warning: No purified spectra found in file")
+
+            except Exception as e:
+                print(f"TCP rank refinement failed: {e}")
+                import traceback
+
+                traceback.print_exc()
+
         rank = Rank(
             suggestions, total_number_of_locations=project.loc, metric=eval_metric
         )
@@ -654,7 +793,7 @@ def evaluate(project_name, bug_id, start=None, end=None):
                 subject_results[f"line{suffix}"],
                 subject_times[f"line{suffix}"],
             ) = get_results_for_type(
-                AnalysisType.LINE, analyzer, project, location, faulty_lines
+                AnalysisType.LINE, analyzer, project, location, faulty_lines, tcp=tcp
             )
         results[project.get_identifier()] = subject_results
         time_report[project.get_identifier()] = subject_times

@@ -2,11 +2,11 @@
  "fastapi_1": {
   "status": "completed",
   "time": {
-   "purification": 17.341548919677734,
-   "instrument": 17.08323097229004,
-   "test": 4.519960165023804
+   "purification": 7.549000263214111,
+   "instrument": 29.743530988693237,
+   "test": 4.629714727401733
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -27,11 +27,11 @@
  "fastapi_2": {
   "status": "completed",
   "time": {
-   "purification": 10.056842803955078,
-   "instrument": 16.769901275634766,
-   "test": 12.2066969871521
+   "purification": 4.115742921829224,
+   "instrument": 27.3267080783844,
+   "test": 13.030146837234497
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -48,11 +48,11 @@
  "fastapi_3": {
   "status": "completed",
   "time": {
-   "purification": 46.59332299232483,
-   "instrument": 15.20682406425476,
-   "test": 6.996789216995239
+   "purification": 41.94879627227783,
+   "instrument": 19.269959926605225,
+   "test": 7.471101999282837
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -111,11 +111,11 @@
  "fastapi_4": {
   "status": "completed",
   "time": {
-   "purification": 10.085355043411255,
-   "instrument": 16.7570219039917,
-   "test": 2.0465919971466064
+   "purification": 4.998118877410889,
+   "instrument": 23.669235944747925,
+   "test": 2.5645828247070312
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -132,11 +132,11 @@
  "fastapi_5": {
   "status": "completed",
   "time": {
-   "purification": 10.238958835601807,
-   "instrument": 20.3802170753479,
-   "test": 6.119819164276123
+   "purification": 4.37927508354187,
+   "instrument": 20.246716022491455,
+   "test": 6.115374803543091
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -153,11 +153,11 @@
  "fastapi_6": {
   "status": "completed",
   "time": {
-   "purification": 28.21468710899353,
-   "instrument": 17.6551251411438,
-   "test": 7.380651950836182
+   "purification": 21.764374017715454,
+   "instrument": 19.091121912002563,
+   "test": 7.607618093490601
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -198,11 +198,11 @@
  "fastapi_7": {
   "status": "completed",
   "time": {
-   "purification": 15.565090894699097,
-   "instrument": 19.60694909095764,
-   "test": 4.793061971664429
+   "purification": 9.296366930007935,
+   "instrument": 19.460931062698364,
+   "test": 4.894625902175903
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -223,11 +223,11 @@
  "fastapi_8": {
   "status": "completed",
   "time": {
-   "purification": 13.507631063461304,
-   "instrument": 16.605702877044678,
-   "test": 11.86020827293396
+   "purification": 12.032788038253784,
+   "instrument": 26.425557851791382,
+   "test": 11.960625886917114
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -252,11 +252,11 @@
  "fastapi_9": {
   "status": "completed",
   "time": {
-   "purification": 9.83719801902771,
-   "instrument": 16.901631116867065,
-   "test": 6.476117134094238
+   "purification": 8.743796348571777,
+   "instrument": 21.982467889785767,
+   "test": 6.387217283248901
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -277,11 +277,11 @@
  "fastapi_10": {
   "status": "completed",
   "time": {
-   "purification": 6.017648935317993,
-   "instrument": 20.33780026435852,
-   "test": 12.57015585899353
+   "purification": 4.230932950973511,
+   "instrument": 30.82908868789673,
+   "test": 12.193804025650024
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -298,11 +298,11 @@
  "fastapi_11": {
   "status": "completed",
   "time": {
-   "purification": 54.09174823760986,
-   "instrument": 17.842991828918457,
-   "test": 8.6680588722229
+   "purification": 52.54528307914734,
+   "instrument": 29.74578881263733,
+   "test": 8.512507200241089
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -373,11 +373,11 @@
  "fastapi_12": {
   "status": "completed",
   "time": {
-   "purification": 9.549267053604126,
-   "instrument": 17.44136691093445,
-   "test": 12.378818035125732
+   "purification": 8.113250970840454,
+   "instrument": 19.36149001121521,
+   "test": 12.157747983932495
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -398,11 +398,11 @@
  "fastapi_13": {
   "status": "completed",
   "time": {
-   "purification": 6.26914381980896,
-   "instrument": 17.404505014419556,
-   "test": 4.993649244308472
+   "purification": 5.226207256317139,
+   "instrument": 28.45480179786682,
+   "test": 5.240461826324463
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -419,11 +419,11 @@
  "fastapi_14": {
   "status": "completed",
   "time": {
-   "purification": 6.3551859855651855,
-   "instrument": 17.28950309753418,
-   "test": 8.664652109146118
+   "purification": 5.174295902252197,
+   "instrument": 20.689295053482056,
+   "test": 8.607264041900635
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -440,11 +440,11 @@
  "fastapi_15": {
   "status": "completed",
   "time": {
-   "purification": 10.797983884811401,
-   "instrument": 16.90220284461975,
-   "test": 5.119112014770508
+   "purification": 9.661151885986328,
+   "instrument": 20.9181809425354,
+   "test": 5.118704795837402
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -467,11 +467,11 @@
  "fastapi_16": {
   "status": "completed",
   "time": {
-   "purification": 5.250105857849121,
-   "instrument": 16.254719018936157,
-   "test": 3.0480988025665283
+   "purification": 4.147605895996094,
+   "instrument": 19.806358098983765,
+   "test": 3.713404893875122
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {

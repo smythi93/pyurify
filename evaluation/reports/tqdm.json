@@ -2,11 +2,11 @@
  "tqdm_1": {
   "status": "completed",
   "time": {
-   "purification": 4.340195178985596,
-   "instrument": 4.135202884674072,
-   "test": 1.7786378860473633
+   "purification": 4.013039827346802,
+   "instrument": 8.92565107345581,
+   "test": 2.2341179847717285
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -23,11 +23,11 @@
  "tqdm_2": {
   "status": "completed",
   "time": {
-   "purification": 635.3258640766144,
-   "instrument": 5.065559148788452,
-   "test": 63.74708914756775
+   "purification": 643.2395250797272,
+   "instrument": 5.4978718757629395,
+   "test": 68.11481189727783
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -720,11 +720,11 @@
  "tqdm_3": {
   "status": "completed",
   "time": {
-   "purification": 30.85801124572754,
-   "instrument": 5.377086877822876,
-   "test": 19.65151309967041
+   "purification": 30.58139204978943,
+   "instrument": 4.454737901687622,
+   "test": 19.4369900226593
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -769,11 +769,11 @@
  "tqdm_4": {
   "status": "completed",
   "time": {
-   "purification": 4.8480682373046875,
-   "instrument": 4.17490029335022,
-   "test": 16.130944967269897
+   "purification": 4.287286996841431,
+   "instrument": 4.818490028381348,
+   "test": 18.39191699028015
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -790,11 +790,11 @@
  "tqdm_5": {
   "status": "completed",
   "time": {
-   "purification": 22.377261877059937,
-   "instrument": 4.766830205917358,
-   "test": 15.782376050949097
+   "purification": 21.352593898773193,
+   "instrument": 4.888994932174683,
+   "test": 15.022425174713135
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -831,11 +831,11 @@
  "tqdm_6": {
   "status": "completed",
   "time": {
-   "purification": 3.4223952293395996,
-   "instrument": 4.547231912612915,
-   "test": 5.451467990875244
+   "purification": 2.8158838748931885,
+   "instrument": 4.62426495552063,
+   "test": 5.36423134803772
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -852,11 +852,11 @@
  "tqdm_7": {
   "status": "completed",
   "time": {
-   "purification": 5.661514043807983,
-   "instrument": 4.458781957626343,
-   "test": 14.231907844543457
+   "purification": 5.215713024139404,
+   "instrument": 4.279262065887451,
+   "test": 13.043114185333252
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -877,11 +877,11 @@
  "tqdm_8": {
   "status": "completed",
   "time": {
-   "purification": 9.674526929855347,
-   "instrument": 4.34247899055481,
-   "test": 10.982844114303589
+   "purification": 8.750852108001709,
+   "instrument": 4.456840753555298,
+   "test": 9.810973882675171
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -902,11 +902,11 @@
  "tqdm_9": {
   "status": "completed",
   "time": {
-   "purification": 16.04100203514099,
-   "instrument": 4.9285149574279785,
-   "test": 3.9310951232910156
+   "purification": 14.349525928497314,
+   "instrument": 4.479084014892578,
+   "test": 3.996638298034668
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {

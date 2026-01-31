@@ -2,11 +2,11 @@
  "httpie_1": {
   "status": "completed",
   "time": {
-   "purification": 56.51309013366699,
-   "instrument": 5.375103235244751,
-   "test": 0.9893651008605957
+   "purification": 57.41893815994263,
+   "instrument": 7.3973069190979,
+   "test": 0.942734956741333
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -83,11 +83,11 @@
  "httpie_2": {
   "status": "completed",
   "time": {
-   "purification": 5.587827920913696,
-   "instrument": 5.122762203216553,
-   "test": 9.8540518283844
+   "purification": 5.034569025039673,
+   "instrument": 6.155399799346924,
+   "test": 9.725158929824829
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -104,11 +104,11 @@
  "httpie_3": {
   "status": "completed",
   "time": {
-   "purification": 1.1724181175231934,
-   "instrument": 4.7821948528289795,
-   "test": 15.95560598373413
+   "purification": 0.40761280059814453,
+   "instrument": 6.107809066772461,
+   "test": 16.17903709411621
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {},
@@ -118,11 +118,11 @@
  "httpie_4": {
   "status": "completed",
   "time": {
-   "purification": 6.784945249557495,
-   "instrument": 5.103845834732056,
-   "test": 10.954693078994751
+   "purification": 6.120739221572876,
+   "instrument": 5.944845199584961,
+   "test": 13.008611917495728
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
@@ -139,11 +139,11 @@
  "httpie_5": {
   "status": "completed",
   "time": {
-   "purification": 4.076938152313232,
-   "instrument": 6.020936012268066,
-   "test": 10.714564085006714
+   "purification": 3.378178119659424,
+   "instrument": 6.65474009513855,
+   "test": 11.475704193115234
   },
-  "checkout": "successful",
+  "checkout": "cached",
   "build": "successful",
   "purification": "successful",
   "purified_tests": {
