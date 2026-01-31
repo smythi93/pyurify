@@ -1,5 +1,12 @@
 # Pyurify: Purifying Python Tests for Precise Fault Localization
 
+[![Python Version](https://img.shields.io/pypi/pyversions/pyurify)](https://pypi.org/project/pyurify/)
+[![PyPI](https://img.shields.io/pypi/v/pyurify)](https://pypi.org/project/pyurify/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/smythi93/pyurify/test-pyurify.yml?branch=main)](https://img.shields.io/github/actions/workflow/status/smythi93/pyurify/test-pyurify.yml?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/smythi93/pyurify/badge.svg?branch=main)](https://coveralls.io/github/smythi93/pyurify?branch=main)
+[![Licence](https://img.shields.io/github/license/smythi93/pyurify)](https://img.shields.io/github/license/smythi93/pyurify)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 A Python package for purifying test cases to improve fault localization effectiveness through test case atomization and dynamic program slicing.
 
 ## Features
