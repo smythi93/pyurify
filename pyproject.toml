@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyurify"
-version = "0.0.1"
+dynamic = ["version"]
 authors = [
     { name = "Marius Smytzek", email = "marius.smytzek@cispa.de" },
 ]
@@ -34,6 +34,13 @@ dependencies = []
 
 [project.scripts]
 pyurify = "pyurify.cli:main"
+
+[tool.setuptools.dynamic]
+version = {attr = "pyurify.__version__"}
+
+# only include packages in src/
+[tool.setuptools.packages.find]
+where = ["src"]
 
 [project.optional-dependencies]
 test = [
