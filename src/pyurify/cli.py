@@ -35,14 +35,14 @@ def main(args: list[str] | None = None) -> int:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Basic purification without slicing
+  # Basic purification with slicing
   pyurify --src-dir tests/ --dst-dir purified/ \\
       --failing-tests "test_math.py::test_add"
   
-  # With dynamic slicing enabled
+  # With dynamic slicing disabled
   pyurify --src-dir tests/ --dst-dir purified/ \\
       --failing-tests "test_math.py::test_add" \\
-      --enable-slicing
+      --disable-slicing
   
   # Multiple failing tests
   pyurify --src-dir tests/ --dst-dir purified/ \\
@@ -85,8 +85,8 @@ Examples:
     # Add slicing option
     parser.add_argument(
         "--disable-slicing",
-        default=True,
-        action="store_false",
+        default=False,
+        action="store_true",
         help="Enable dynamic slicing to remove irrelevant code",
     )
 
@@ -129,7 +129,6 @@ Examples:
     LOGGER.info(f"Purifying tests from {args.src_dir} to {args.dst_dir}")
     LOGGER.info(f"Failing tests: {', '.join(args.failing_tests)}")
     LOGGER.info(f"Slicing enabled: {not args.disable_slicing}")
-    LOGGER.info()
 
     try:
         # Call the purify_tests function
@@ -145,17 +144,16 @@ Examples:
         # Print results
         total_purified = 0
         for test_id, file_param_tuples in result.items():
-            LOGGER.info(f"✓ {test_id}")
+            LOGGER.info(f"Test {test_id}")
             # NEW: Unpack tuples (file, param_suffix)
             for purified_file, param_suffix in file_param_tuples:
                 rel_path = purified_file.relative_to(args.dst_dir)
                 if param_suffix:
-                    LOGGER.info(f"  → {rel_path} [params: {param_suffix}]")
+                    LOGGER.info(f"  purified in {rel_path} [params: {param_suffix}]")
                 else:
-                    LOGGER.info(f"  → {rel_path}")
+                    LOGGER.info(f"  purified in {rel_path}")
                 total_purified += 1
 
-        LOGGER.info()
         LOGGER.info(
             f"Successfully purified {len(result)} test(s) into {total_purified} file(s)"
         )
@@ -164,7 +162,7 @@ Examples:
 
     except Exception as e:
         # Handle errors
-        LOGGER.info(f"Error during purification: {e}", file=sys.stderr)
+        LOGGER.error(f"Error during purification: {e}")
         if args.verbose:
             import traceback
 

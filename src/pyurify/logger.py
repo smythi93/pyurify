@@ -8,7 +8,10 @@ import logging
 
 # Configure the logger
 LOGGER = logging.getLogger("pyurify")
-LOGGER.setLevel(logging.INFO)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(name)s :: %(levelname)-8s :: %(message)s",
+)
 
 
 def debug():
