@@ -25,7 +25,7 @@ jobs:
         pip install -e .[test]
     - name: Test with pytest
       run: |
-        python3 -m pytest --html=report.html --self-contained-html --cov-report xml:coverage.xml --cov-report term --cov-config=.coveragerc --cov=tcp tests/
+        python3 -m pytest --html=report.html --self-contained-html --cov-report xml:coverage.xml --cov-report term --cov-config=.coveragerc --cov=pyurify tests/
         python3 -m coverage lcov
     - uses: actions/upload-artifact@v4
       with:
