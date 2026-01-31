@@ -24,6 +24,10 @@ classifiers = [
 ]
 dependencies = []
 
+[project.urls]
+"Homepage" = "https://github.com/smythi93/pyurify/"
+"Bug Tracker" = "https://github.com/smythi93/pyurify/issues"
+
 [project.scripts]
 pyurify = "pyurify.cli:main"
 
