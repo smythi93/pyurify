@@ -1,0 +1,160 @@
+{
+ "httpie_1": {
+  "status": "completed",
+  "time": {
+   "purification": 56.51309013366699,
+   "instrument": 5.375103235244751,
+   "test": 0.9893651008605957
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.bar-0-foo.bar]": [
+    {
+     "file": "test_downloads_test_unique_filename_foo_bar_0_foo_bar_assertion_117.py",
+     "params": "foo.bar-0-foo.bar"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.bar-1-foo.bar-1]": [
+    {
+     "file": "test_downloads_test_unique_filename_foo_bar_1_foo_bar_1_assertion_117.py",
+     "params": "foo.bar-1-foo.bar-1"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.bar-10-foo.bar-10]": [
+    {
+     "file": "test_downloads_test_unique_filename_foo_bar_10_foo_bar_10_assertion_117.py",
+     "params": "foo.bar-10-foo.bar-10"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA-0-AAAAAAAAAA]": [
+    {
+     "file": "test_downloads_test_unique_filename_AAAAAAAAAAAAAAAAAAAA_0_AAAAAAAAAA_assertion_117.py",
+     "params": "AAAAAAAAAAAAAAAAAAAA-0-AAAAAAAAAA"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA-1-AAAAAAAA-1]": [
+    {
+     "file": "test_downloads_test_unique_filename_AAAAAAAAAAAAAAAAAAAA_1_AAAAAAAA_1_assertion_117.py",
+     "params": "AAAAAAAAAAAAAAAAAAAA-1-AAAAAAAA-1"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA-10-AAAAAAA-10]": [
+    {
+     "file": "test_downloads_test_unique_filename_AAAAAAAAAAAAAAAAAAAA_10_AAAAAAA_10_assertion_117.py",
+     "params": "AAAAAAAAAAAAAAAAAAAA-10-AAAAAAA-10"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA.txt-0-AAAAAA.txt]": [
+    {
+     "file": "test_downloads_test_unique_filename_AAAAAAAAAAAAAAAAAAAA_txt_0_AAAAAA_txt_assertion_117.py",
+     "params": "AAAAAAAAAAAAAAAAAAAA.txt-0-AAAAAA.txt"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA.txt-1-AAAA.txt-1]": [
+    {
+     "file": "test_downloads_test_unique_filename_AAAAAAAAAAAAAAAAAAAA_txt_1_AAAA_txt_1_assertion_117.py",
+     "params": "AAAAAAAAAAAAAAAAAAAA.txt-1-AAAA.txt-1"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.AAAAAAAAAAAAAAAAAAAA-0-foo.AAAAAA]": [
+    {
+     "file": "test_downloads_test_unique_filename_foo_AAAAAAAAAAAAAAAAAAAA_0_foo_AAAAAA_assertion_117.py",
+     "params": "foo.AAAAAAAAAAAAAAAAAAAA-0-foo.AAAAAA"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.AAAAAAAAAAAAAAAAAAAA-1-foo.AAAA-1]": [
+    {
+     "file": "test_downloads_test_unique_filename_foo_AAAAAAAAAAAAAAAAAAAA_1_foo_AAAA_1_assertion_117.py",
+     "params": "foo.AAAAAAAAAAAAAAAAAAAA-1-foo.AAAA-1"
+    }
+   ],
+   "tests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.AAAAAAAAAAAAAAAAAAAA-10-foo.AAA-10]": [
+    {
+     "file": "test_downloads_test_unique_filename_foo_AAAAAAAAAAAAAAAAAAAA_10_foo_AAA_10_assertion_117.py",
+     "params": "foo.AAAAAAAAAAAAAAAAAAAA-10-foo.AAA-10"
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "httpie_2": {
+  "status": "completed",
+  "time": {
+   "purification": 5.587827920913696,
+   "instrument": 5.122762203216553,
+   "test": 9.8540518283844
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tests/test_redirects.py::TestRedirects::test_max_redirects": [
+    {
+     "file": "test_redirects_test_max_redirects_assertion_22.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "httpie_3": {
+  "status": "completed",
+  "time": {
+   "purification": 1.1724181175231934,
+   "instrument": 4.7821948528289795,
+   "test": 15.95560598373413
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {},
+  "test": "successful",
+  "check": "successful"
+ },
+ "httpie_4": {
+  "status": "completed",
+  "time": {
+   "purification": 6.784945249557495,
+   "instrument": 5.103845834732056,
+   "test": 10.954693078994751
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tests/test_regressions.py::test_Host_header_overwrite": [
+    {
+     "file": "test_regressions_test_Host_header_overwrite_assertion_17.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "httpie_5": {
+  "status": "completed",
+  "time": {
+   "purification": 4.076938152313232,
+   "instrument": 6.020936012268066,
+   "test": 10.714564085006714
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tests/tests.py::TestItemParsing::test_escape_longsep": [
+    {
+     "file": "tests_test_escape_longsep_assertion_83.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ }
+}

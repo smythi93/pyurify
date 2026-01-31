@@ -1,0 +1,6668 @@
+[
+ {
+  "file": "tqdm/_main.py",
+  "line": 1,
+  "id": 0,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 2,
+  "id": 1,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 3,
+  "id": 2,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 4,
+  "id": 3,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 5,
+  "id": 4,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 6,
+  "id": 5,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 10,
+  "id": 6,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 11,
+  "id": 7,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 12,
+  "id": 8,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 13,
+  "id": 9,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 14,
+  "id": 10,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 15,
+  "id": 11,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 17,
+  "id": 12,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 18,
+  "id": 13,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 21,
+  "id": 14,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 22,
+  "id": 15,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 23,
+  "id": 16,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 24,
+  "id": 17,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 25,
+  "id": 18,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 27,
+  "id": 19,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 28,
+  "id": 20,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 29,
+  "id": 21,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 31,
+  "id": 22,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 32,
+  "id": 23,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 34,
+  "id": 24,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 47,
+  "id": 25,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 50,
+  "id": 26,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 51,
+  "id": 27,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 52,
+  "id": 28,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 55,
+  "id": 29,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 56,
+  "id": 30,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 57,
+  "id": 31,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 59,
+  "id": 32,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 60,
+  "id": 33,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 63,
+  "id": 34,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 65,
+  "id": 35,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 66,
+  "id": 36,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 69,
+  "id": 37,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 70,
+  "id": 38,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 71,
+  "id": 39,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 72,
+  "id": 40,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 73,
+  "id": 41,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 74,
+  "id": 42,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 76,
+  "id": 43,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 77,
+  "id": 44,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 78,
+  "id": 45,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 80,
+  "id": 46,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 81,
+  "id": 47,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 83,
+  "id": 48,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 84,
+  "id": 49,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 85,
+  "id": 50,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 86,
+  "id": 51,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 90,
+  "id": 52,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 92,
+  "id": 53,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 95,
+  "id": 54,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 98,
+  "id": 55,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 123,
+  "id": 56,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 124,
+  "id": 57,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 126,
+  "id": 58,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 130,
+  "id": 59,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 131,
+  "id": 60,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 134,
+  "id": 61,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 136,
+  "id": 62,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 138,
+  "id": 63,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 141,
+  "id": 64,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 142,
+  "id": 65,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 144,
+  "id": 66,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 147,
+  "id": 67,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 148,
+  "id": 68,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 149,
+  "id": 69,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 152,
+  "id": 70,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 162,
+  "id": 71,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 163,
+  "id": 72,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 164,
+  "id": 73,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 165,
+  "id": 74,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 166,
+  "id": 75,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 167,
+  "id": 76,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 169,
+  "id": 77,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 170,
+  "id": 78,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 172,
+  "id": 79,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 173,
+  "id": 80,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 175,
+  "id": 81,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 176,
+  "id": 82,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 177,
+  "id": 83,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 178,
+  "id": 84,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 179,
+  "id": 85,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 181,
+  "id": 86,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 182,
+  "id": 87,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 184,
+  "id": 88,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 185,
+  "id": 89,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 186,
+  "id": 90,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 187,
+  "id": 91,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 189,
+  "id": 92,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 190,
+  "id": 93,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 191,
+  "id": 94,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 192,
+  "id": 95,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 193,
+  "id": 96,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 194,
+  "id": 97,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 195,
+  "id": 98,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 196,
+  "id": 99,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 197,
+  "id": 100,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 198,
+  "id": 101,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 200,
+  "id": 102,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 201,
+  "id": 103,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 202,
+  "id": 104,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 203,
+  "id": 105,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 205,
+  "id": 106,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 206,
+  "id": 107,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_main.py",
+  "line": 207,
+  "id": 108,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 2,
+  "id": 109,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 3,
+  "id": 110,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 5,
+  "id": 111,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 8,
+  "id": 112,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 11,
+  "id": 113,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 15,
+  "id": 114,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 16,
+  "id": 115,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 17,
+  "id": 116,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 18,
+  "id": 117,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 20,
+  "id": 118,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 21,
+  "id": 119,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 23,
+  "id": 120,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 24,
+  "id": 121,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 26,
+  "id": 122,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 28,
+  "id": 123,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 29,
+  "id": 124,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 31,
+  "id": 125,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 34,
+  "id": 126,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 37,
+  "id": 127,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 40,
+  "id": 128,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 41,
+  "id": 129,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 42,
+  "id": 130,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 43,
+  "id": 131,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 44,
+  "id": 132,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 48,
+  "id": 133,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 51,
+  "id": 134,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 52,
+  "id": 135,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 53,
+  "id": 136,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 55,
+  "id": 137,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 56,
+  "id": 138,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 58,
+  "id": 139,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_version.py",
+  "line": 59,
+  "id": 140,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 1,
+  "id": 141,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 2,
+  "id": 142,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 3,
+  "id": 143,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 4,
+  "id": 144,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 10,
+  "id": 145,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 28,
+  "id": 146,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 29,
+  "id": 147,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 32,
+  "id": 148,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 33,
+  "id": 149,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 34,
+  "id": 150,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 35,
+  "id": 151,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 36,
+  "id": 152,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 37,
+  "id": 153,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 38,
+  "id": 154,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 39,
+  "id": 155,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 41,
+  "id": 156,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 42,
+  "id": 157,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 43,
+  "id": 158,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 45,
+  "id": 159,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 46,
+  "id": 160,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 49,
+  "id": 161,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 50,
+  "id": 162,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 51,
+  "id": 163,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 55,
+  "id": 164,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 60,
+  "id": 165,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 61,
+  "id": 166,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 64,
+  "id": 167,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 66,
+  "id": 168,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 68,
+  "id": 169,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 69,
+  "id": 170,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 72,
+  "id": 171,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 73,
+  "id": 172,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 75,
+  "id": 173,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 76,
+  "id": 174,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 78,
+  "id": 175,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 79,
+  "id": 176,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 82,
+  "id": 177,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 87,
+  "id": 178,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 89,
+  "id": 179,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 90,
+  "id": 180,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 91,
+  "id": 181,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_monitor.py",
+  "line": 96,
+  "id": 182,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 15,
+  "id": 183,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 16,
+  "id": 184,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 18,
+  "id": 185,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 19,
+  "id": 186,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 22,
+  "id": 187,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 23,
+  "id": 188,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 34,
+  "id": 189,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 35,
+  "id": 190,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 36,
+  "id": 191,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 37,
+  "id": 192,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 39,
+  "id": 193,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 42,
+  "id": 194,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 43,
+  "id": 195,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 45,
+  "id": 196,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 46,
+  "id": 197,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 47,
+  "id": 198,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 48,
+  "id": 199,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 51,
+  "id": 200,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 52,
+  "id": 201,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 54,
+  "id": 202,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 55,
+  "id": 203,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 57,
+  "id": 204,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 58,
+  "id": 205,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 59,
+  "id": 206,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 60,
+  "id": 207,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 62,
+  "id": 208,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 63,
+  "id": 209,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 64,
+  "id": 210,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 65,
+  "id": 211,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 66,
+  "id": 212,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 67,
+  "id": 213,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 68,
+  "id": 214,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 69,
+  "id": 215,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 70,
+  "id": 216,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 71,
+  "id": 217,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 74,
+  "id": 218,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 78,
+  "id": 219,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 79,
+  "id": 220,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 80,
+  "id": 221,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 81,
+  "id": 222,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 82,
+  "id": 223,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 84,
+  "id": 224,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 85,
+  "id": 225,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 86,
+  "id": 226,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 88,
+  "id": 227,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 91,
+  "id": 228,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 92,
+  "id": 229,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 93,
+  "id": 230,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 99,
+  "id": 231,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 100,
+  "id": 232,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 101,
+  "id": 233,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 102,
+  "id": 234,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 103,
+  "id": 235,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 106,
+  "id": 236,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 107,
+  "id": 237,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 108,
+  "id": 238,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 109,
+  "id": 239,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 110,
+  "id": 240,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 111,
+  "id": 241,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 112,
+  "id": 242,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 113,
+  "id": 243,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 114,
+  "id": 244,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 115,
+  "id": 245,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 116,
+  "id": 246,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 118,
+  "id": 247,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 119,
+  "id": 248,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 120,
+  "id": 249,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 122,
+  "id": 250,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 123,
+  "id": 251,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 124,
+  "id": 252,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 125,
+  "id": 253,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 126,
+  "id": 254,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 127,
+  "id": 255,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 128,
+  "id": 256,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 130,
+  "id": 257,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 131,
+  "id": 258,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 134,
+  "id": 259,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 135,
+  "id": 260,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 137,
+  "id": 261,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 138,
+  "id": 262,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 139,
+  "id": 263,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 140,
+  "id": 264,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 141,
+  "id": 265,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 143,
+  "id": 266,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 144,
+  "id": 267,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 150,
+  "id": 268,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 152,
+  "id": 269,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 154,
+  "id": 270,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 156,
+  "id": 271,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 157,
+  "id": 272,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 158,
+  "id": 273,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 163,
+  "id": 274,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 164,
+  "id": 275,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 165,
+  "id": 276,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 166,
+  "id": 277,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 168,
+  "id": 278,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 169,
+  "id": 279,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 170,
+  "id": 280,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 171,
+  "id": 281,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 172,
+  "id": 282,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 174,
+  "id": 283,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 175,
+  "id": 284,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 176,
+  "id": 285,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 177,
+  "id": 286,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 178,
+  "id": 287,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 180,
+  "id": 288,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 182,
+  "id": 289,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 183,
+  "id": 290,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 184,
+  "id": 291,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 185,
+  "id": 292,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 186,
+  "id": 293,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 187,
+  "id": 294,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 188,
+  "id": 295,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 189,
+  "id": 296,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 191,
+  "id": 297,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 192,
+  "id": 298,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 193,
+  "id": 299,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 195,
+  "id": 300,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 200,
+  "id": 301,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 204,
+  "id": 302,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 205,
+  "id": 303,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 207,
+  "id": 304,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 208,
+  "id": 305,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 211,
+  "id": 306,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 214,
+  "id": 307,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 218,
+  "id": 308,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 219,
+  "id": 309,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 223,
+  "id": 310,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 224,
+  "id": 311,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 225,
+  "id": 312,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 230,
+  "id": 313,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 231,
+  "id": 314,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 233,
+  "id": 315,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 234,
+  "id": 316,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 235,
+  "id": 317,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 237,
+  "id": 318,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 238,
+  "id": 319,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 240,
+  "id": 320,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 241,
+  "id": 321,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 242,
+  "id": 322,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 243,
+  "id": 323,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 245,
+  "id": 324,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 246,
+  "id": 325,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 252,
+  "id": 326,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 253,
+  "id": 327,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 256,
+  "id": 328,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 258,
+  "id": 329,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 260,
+  "id": 330,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 262,
+  "id": 331,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 263,
+  "id": 332,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 266,
+  "id": 333,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 267,
+  "id": 334,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 268,
+  "id": 335,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 269,
+  "id": 336,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 271,
+  "id": 337,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 272,
+  "id": 338,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 273,
+  "id": 339,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 274,
+  "id": 340,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 275,
+  "id": 341,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 277,
+  "id": 342,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 278,
+  "id": 343,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 279,
+  "id": 344,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 280,
+  "id": 345,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 281,
+  "id": 346,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 283,
+  "id": 347,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 285,
+  "id": 348,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 286,
+  "id": 349,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 287,
+  "id": 350,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 288,
+  "id": 351,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 289,
+  "id": 352,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 290,
+  "id": 353,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 291,
+  "id": 354,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 292,
+  "id": 355,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 294,
+  "id": 356,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 295,
+  "id": 357,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 296,
+  "id": 358,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 298,
+  "id": 359,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 304,
+  "id": 360,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 311,
+  "id": 361,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 312,
+  "id": 362,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 313,
+  "id": 363,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 315,
+  "id": 364,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 316,
+  "id": 365,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 320,
+  "id": 366,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 324,
+  "id": 367,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 325,
+  "id": 368,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 330,
+  "id": 369,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 331,
+  "id": 370,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 333,
+  "id": 371,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 335,
+  "id": 372,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 338,
+  "id": 373,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 340,
+  "id": 374,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 341,
+  "id": 375,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 342,
+  "id": 376,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 343,
+  "id": 377,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_gui.py",
+  "line": 351,
+  "id": 378,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 14,
+  "id": 379,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 15,
+  "id": 380,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 17,
+  "id": 381,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 20,
+  "id": 382,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 22,
+  "id": 383,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 23,
+  "id": 384,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 24,
+  "id": 385,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 26,
+  "id": 386,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 27,
+  "id": 387,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 28,
+  "id": 388,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 29,
+  "id": 389,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 31,
+  "id": 390,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 33,
+  "id": 391,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 34,
+  "id": 392,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 36,
+  "id": 393,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 37,
+  "id": 394,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 38,
+  "id": 395,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 39,
+  "id": 396,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 40,
+  "id": 397,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 42,
+  "id": 398,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 44,
+  "id": 399,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 46,
+  "id": 400,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 47,
+  "id": 401,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 48,
+  "id": 402,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 49,
+  "id": 403,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 51,
+  "id": 404,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 53,
+  "id": 405,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 54,
+  "id": 406,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 55,
+  "id": 407,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 56,
+  "id": 408,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 57,
+  "id": 409,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 59,
+  "id": 410,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 61,
+  "id": 411,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 62,
+  "id": 412,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 64,
+  "id": 413,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 67,
+  "id": 414,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 68,
+  "id": 415,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 70,
+  "id": 416,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 73,
+  "id": 417,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 74,
+  "id": 418,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 95,
+  "id": 419,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 96,
+  "id": 420,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 97,
+  "id": 421,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 99,
+  "id": 422,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 100,
+  "id": 423,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 101,
+  "id": 424,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 104,
+  "id": 425,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 109,
+  "id": 426,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 110,
+  "id": 427,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 112,
+  "id": 428,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 114,
+  "id": 429,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 116,
+  "id": 430,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 118,
+  "id": 431,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 119,
+  "id": 432,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 121,
+  "id": 433,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 122,
+  "id": 434,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 123,
+  "id": 435,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 124,
+  "id": 436,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 125,
+  "id": 437,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 126,
+  "id": 438,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 137,
+  "id": 439,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 139,
+  "id": 440,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 140,
+  "id": 441,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 142,
+  "id": 442,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 143,
+  "id": 443,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 144,
+  "id": 444,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 147,
+  "id": 445,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 148,
+  "id": 446,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 151,
+  "id": 447,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 152,
+  "id": 448,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 153,
+  "id": 449,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 154,
+  "id": 450,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 157,
+  "id": 451,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 160,
+  "id": 452,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 161,
+  "id": 453,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 164,
+  "id": 454,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 165,
+  "id": 455,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 166,
+  "id": 456,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 168,
+  "id": 457,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 171,
+  "id": 458,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 172,
+  "id": 459,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 174,
+  "id": 460,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 178,
+  "id": 461,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 179,
+  "id": 462,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 182,
+  "id": 463,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 183,
+  "id": 464,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 186,
+  "id": 465,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 187,
+  "id": 466,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 188,
+  "id": 467,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 189,
+  "id": 468,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 196,
+  "id": 469,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 199,
+  "id": 470,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 201,
+  "id": 471,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 204,
+  "id": 472,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 205,
+  "id": 473,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 208,
+  "id": 474,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 209,
+  "id": 475,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 211,
+  "id": 476,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 214,
+  "id": 477,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 215,
+  "id": 478,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 218,
+  "id": 479,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 219,
+  "id": 480,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 223,
+  "id": 481,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 224,
+  "id": 482,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 227,
+  "id": 483,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 229,
+  "id": 484,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 232,
+  "id": 485,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 233,
+  "id": 486,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 235,
+  "id": 487,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 236,
+  "id": 488,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 238,
+  "id": 489,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 242,
+  "id": 490,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 252,
+  "id": 491,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_notebook.py",
+  "line": 260,
+  "id": 492,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 1,
+  "id": 493,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 2,
+  "id": 494,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 3,
+  "id": 495,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 4,
+  "id": 496,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 5,
+  "id": 497,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 6,
+  "id": 498,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 7,
+  "id": 499,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 8,
+  "id": 500,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 9,
+  "id": 501,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 13,
+  "id": 502,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 24,
+  "id": 503,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 25,
+  "id": 504,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 33,
+  "id": 505,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__init__.py",
+  "line": 34,
+  "id": 506,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 14,
+  "id": 507,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 17,
+  "id": 508,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 19,
+  "id": 509,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 20,
+  "id": 510,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 21,
+  "id": 511,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 22,
+  "id": 512,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 24,
+  "id": 513,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 25,
+  "id": 514,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 26,
+  "id": 515,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 28,
+  "id": 516,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 30,
+  "id": 517,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 37,
+  "id": 518,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 41,
+  "id": 519,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 50,
+  "id": 520,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 51,
+  "id": 521,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 54,
+  "id": 522,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 59,
+  "id": 523,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 64,
+  "id": 524,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 69,
+  "id": 525,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 74,
+  "id": 526,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 75,
+  "id": 527,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 77,
+  "id": 528,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 79,
+  "id": 529,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 80,
+  "id": 530,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 81,
+  "id": 531,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 83,
+  "id": 532,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 94,
+  "id": 533,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 95,
+  "id": 534,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 98,
+  "id": 535,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 99,
+  "id": 536,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 102,
+  "id": 537,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 103,
+  "id": 538,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 106,
+  "id": 539,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 109,
+  "id": 540,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 119,
+  "id": 541,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 120,
+  "id": 542,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 121,
+  "id": 543,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 143,
+  "id": 544,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 144,
+  "id": 545,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 145,
+  "id": 546,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 146,
+  "id": 547,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 147,
+  "id": 548,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 148,
+  "id": 549,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 149,
+  "id": 550,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 150,
+  "id": 551,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 151,
+  "id": 552,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 167,
+  "id": 553,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 168,
+  "id": 554,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 169,
+  "id": 555,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 170,
+  "id": 556,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 172,
+  "id": 557,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 181,
+  "id": 558,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 182,
+  "id": 559,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 185,
+  "id": 560,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 186,
+  "id": 561,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 188,
+  "id": 562,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 191,
+  "id": 563,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 192,
+  "id": 564,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 193,
+  "id": 565,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 195,
+  "id": 566,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 262,
+  "id": 567,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 263,
+  "id": 568,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 266,
+  "id": 569,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 267,
+  "id": 570,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 268,
+  "id": 571,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 269,
+  "id": 572,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 271,
+  "id": 573,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 272,
+  "id": 574,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 276,
+  "id": 575,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 277,
+  "id": 576,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 278,
+  "id": 577,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 279,
+  "id": 578,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 280,
+  "id": 579,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 283,
+  "id": 580,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 286,
+  "id": 581,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 288,
+  "id": 582,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 289,
+  "id": 583,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 290,
+  "id": 584,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 293,
+  "id": 585,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 294,
+  "id": 586,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 296,
+  "id": 587,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 297,
+  "id": 588,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 299,
+  "id": 589,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 302,
+  "id": 590,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 304,
+  "id": 591,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 305,
+  "id": 592,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 307,
+  "id": 593,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 311,
+  "id": 594,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 313,
+  "id": 595,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 314,
+  "id": 596,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 316,
+  "id": 597,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 317,
+  "id": 598,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 318,
+  "id": 599,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 321,
+  "id": 600,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 322,
+  "id": 601,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 324,
+  "id": 602,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 327,
+  "id": 603,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 349,
+  "id": 604,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 350,
+  "id": 605,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 353,
+  "id": 606,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 356,
+  "id": 607,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 357,
+  "id": 608,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 358,
+  "id": 609,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 361,
+  "id": 610,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 365,
+  "id": 611,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 369,
+  "id": 612,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 370,
+  "id": 613,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 373,
+  "id": 614,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 374,
+  "id": 615,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 378,
+  "id": 616,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 380,
+  "id": 617,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 381,
+  "id": 618,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 385,
+  "id": 619,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 386,
+  "id": 620,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 389,
+  "id": 621,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 393,
+  "id": 622,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 397,
+  "id": 623,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 403,
+  "id": 624,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 405,
+  "id": 625,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 406,
+  "id": 626,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 407,
+  "id": 627,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 408,
+  "id": 628,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 409,
+  "id": 629,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 410,
+  "id": 630,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 412,
+  "id": 631,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 414,
+  "id": 632,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 415,
+  "id": 633,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 417,
+  "id": 634,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 420,
+  "id": 635,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 422,
+  "id": 636,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 427,
+  "id": 637,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 429,
+  "id": 638,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 437,
+  "id": 639,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 438,
+  "id": 640,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 439,
+  "id": 641,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 441,
+  "id": 642,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 442,
+  "id": 643,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 444,
+  "id": 644,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 446,
+  "id": 645,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 447,
+  "id": 646,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 450,
+  "id": 647,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 451,
+  "id": 648,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 452,
+  "id": 649,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 453,
+  "id": 650,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 455,
+  "id": 651,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 457,
+  "id": 652,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 464,
+  "id": 653,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 465,
+  "id": 654,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 467,
+  "id": 655,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 468,
+  "id": 656,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 477,
+  "id": 657,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 479,
+  "id": 658,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 480,
+  "id": 659,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 482,
+  "id": 660,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 483,
+  "id": 661,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 487,
+  "id": 662,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 489,
+  "id": 663,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 490,
+  "id": 664,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 491,
+  "id": 665,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 493,
+  "id": 666,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 494,
+  "id": 667,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 495,
+  "id": 668,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 496,
+  "id": 669,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 500,
+  "id": 670,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 504,
+  "id": 671,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 540,
+  "id": 672,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 541,
+  "id": 673,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 542,
+  "id": 674,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 543,
+  "id": 675,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 545,
+  "id": 676,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 547,
+  "id": 677,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 548,
+  "id": 678,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 550,
+  "id": 679,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 553,
+  "id": 680,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 556,
+  "id": 681,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 572,
+  "id": 682,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 573,
+  "id": 683,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 574,
+  "id": 684,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 575,
+  "id": 685,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 576,
+  "id": 686,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 577,
+  "id": 687,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 578,
+  "id": 688,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 581,
+  "id": 689,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 583,
+  "id": 690,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 586,
+  "id": 691,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 587,
+  "id": 692,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 588,
+  "id": 693,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 590,
+  "id": 694,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 592,
+  "id": 695,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 594,
+  "id": 696,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 607,
+  "id": 697,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 608,
+  "id": 698,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 612,
+  "id": 699,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 615,
+  "id": 700,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 616,
+  "id": 701,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 618,
+  "id": 702,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 622,
+  "id": 703,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 623,
+  "id": 704,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 624,
+  "id": 705,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 625,
+  "id": 706,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 627,
+  "id": 707,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 628,
+  "id": 708,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 629,
+  "id": 709,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 631,
+  "id": 710,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 632,
+  "id": 711,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 634,
+  "id": 712,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 635,
+  "id": 713,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 636,
+  "id": 714,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 638,
+  "id": 715,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 639,
+  "id": 716,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 745,
+  "id": 717,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 746,
+  "id": 718,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 748,
+  "id": 719,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 749,
+  "id": 720,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 751,
+  "id": 721,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 752,
+  "id": 722,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 753,
+  "id": 723,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 754,
+  "id": 724,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 755,
+  "id": 725,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 756,
+  "id": 726,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 757,
+  "id": 727,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 759,
+  "id": 728,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 760,
+  "id": 729,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 761,
+  "id": 730,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 762,
+  "id": 731,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 763,
+  "id": 732,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 769,
+  "id": 733,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 770,
+  "id": 734,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 771,
+  "id": 735,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 773,
+  "id": 736,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 775,
+  "id": 737,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 777,
+  "id": 738,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 778,
+  "id": 739,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 779,
+  "id": 740,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 780,
+  "id": 741,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 784,
+  "id": 742,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 785,
+  "id": 743,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 786,
+  "id": 744,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 790,
+  "id": 745,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 791,
+  "id": 746,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 792,
+  "id": 747,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 794,
+  "id": 748,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 796,
+  "id": 749,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 797,
+  "id": 750,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 799,
+  "id": 751,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 800,
+  "id": 752,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 802,
+  "id": 753,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 803,
+  "id": 754,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 805,
+  "id": 755,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 807,
+  "id": 756,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 809,
+  "id": 757,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 810,
+  "id": 758,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 813,
+  "id": 759,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 814,
+  "id": 760,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 815,
+  "id": 761,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 816,
+  "id": 762,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 817,
+  "id": 763,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 818,
+  "id": 764,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 819,
+  "id": 765,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 820,
+  "id": 766,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 821,
+  "id": 767,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 822,
+  "id": 768,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 823,
+  "id": 769,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 824,
+  "id": 770,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 825,
+  "id": 771,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 826,
+  "id": 772,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 827,
+  "id": 773,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 828,
+  "id": 774,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 829,
+  "id": 775,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 830,
+  "id": 776,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 831,
+  "id": 777,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 832,
+  "id": 778,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 833,
+  "id": 779,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 834,
+  "id": 780,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 835,
+  "id": 781,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 836,
+  "id": 782,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 837,
+  "id": 783,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 839,
+  "id": 784,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 842,
+  "id": 785,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 843,
+  "id": 786,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 847,
+  "id": 787,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 848,
+  "id": 788,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 849,
+  "id": 789,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 851,
+  "id": 790,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 853,
+  "id": 791,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 855,
+  "id": 792,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 856,
+  "id": 793,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 857,
+  "id": 794,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 858,
+  "id": 795,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 859,
+  "id": 796,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 860,
+  "id": 797,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 861,
+  "id": 798,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 864,
+  "id": 799,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 866,
+  "id": 800,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 869,
+  "id": 801,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 875,
+  "id": 802,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 878,
+  "id": 803,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 879,
+  "id": 804,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 882,
+  "id": 805,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 885,
+  "id": 806,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 895,
+  "id": 807,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 898,
+  "id": 808,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 904,
+  "id": 809,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 908,
+  "id": 810,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 909,
+  "id": 811,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 910,
+  "id": 812,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 912,
+  "id": 813,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 913,
+  "id": 814,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 914,
+  "id": 815,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 915,
+  "id": 816,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 916,
+  "id": 817,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 917,
+  "id": 818,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 918,
+  "id": 819,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 919,
+  "id": 820,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 920,
+  "id": 821,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 921,
+  "id": 822,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 923,
+  "id": 823,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 924,
+  "id": 824,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 926,
+  "id": 825,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 930,
+  "id": 826,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 931,
+  "id": 827,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 934,
+  "id": 828,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 936,
+  "id": 829,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 937,
+  "id": 830,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 938,
+  "id": 831,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 939,
+  "id": 832,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 940,
+  "id": 833,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 941,
+  "id": 834,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 943,
+  "id": 835,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 944,
+  "id": 836,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 949,
+  "id": 837,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 950,
+  "id": 838,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 951,
+  "id": 839,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 952,
+  "id": 840,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 954,
+  "id": 841,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 955,
+  "id": 842,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 956,
+  "id": 843,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 960,
+  "id": 844,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 961,
+  "id": 845,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 963,
+  "id": 846,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 965,
+  "id": 847,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 968,
+  "id": 848,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 969,
+  "id": 849,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 972,
+  "id": 850,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 978,
+  "id": 851,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 981,
+  "id": 852,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 982,
+  "id": 853,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 983,
+  "id": 854,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 987,
+  "id": 855,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 988,
+  "id": 856,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 989,
+  "id": 857,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 990,
+  "id": 858,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1013,
+  "id": 859,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1014,
+  "id": 860,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1016,
+  "id": 861,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1017,
+  "id": 862,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1018,
+  "id": 863,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1021,
+  "id": 864,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1022,
+  "id": 865,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1023,
+  "id": 866,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1024,
+  "id": 867,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1025,
+  "id": 868,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1028,
+  "id": 869,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1029,
+  "id": 870,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1034,
+  "id": 871,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1035,
+  "id": 872,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1039,
+  "id": 873,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1040,
+  "id": 874,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1041,
+  "id": 875,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1044,
+  "id": 876,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1046,
+  "id": 877,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1047,
+  "id": 878,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1054,
+  "id": 879,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1055,
+  "id": 880,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1056,
+  "id": 881,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1057,
+  "id": 882,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1060,
+  "id": 883,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1062,
+  "id": 884,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1063,
+  "id": 885,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1069,
+  "id": 886,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1072,
+  "id": 887,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1073,
+  "id": 888,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1079,
+  "id": 889,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1080,
+  "id": 890,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1083,
+  "id": 891,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1086,
+  "id": 892,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1087,
+  "id": 893,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1090,
+  "id": 894,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1091,
+  "id": 895,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1095,
+  "id": 896,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1097,
+  "id": 897,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1098,
+  "id": 898,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1100,
+  "id": 899,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1101,
+  "id": 900,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1102,
+  "id": 901,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1104,
+  "id": 902,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1105,
+  "id": 903,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1106,
+  "id": 904,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1108,
+  "id": 905,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1109,
+  "id": 906,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1111,
+  "id": 907,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1112,
+  "id": 908,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1113,
+  "id": 909,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1114,
+  "id": 910,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1115,
+  "id": 911,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1118,
+  "id": 912,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1120,
+  "id": 913,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1121,
+  "id": 914,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1122,
+  "id": 915,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1124,
+  "id": 916,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1130,
+  "id": 917,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1131,
+  "id": 918,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1132,
+  "id": 919,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1144,
+  "id": 920,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1145,
+  "id": 921,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1146,
+  "id": 922,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1152,
+  "id": 923,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1153,
+  "id": 924,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1154,
+  "id": 925,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1169,
+  "id": 926,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1170,
+  "id": 927,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1171,
+  "id": 928,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1173,
+  "id": 929,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1175,
+  "id": 930,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1176,
+  "id": 931,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1178,
+  "id": 932,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1179,
+  "id": 933,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1182,
+  "id": 934,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1184,
+  "id": 935,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1185,
+  "id": 936,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1191,
+  "id": 937,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1192,
+  "id": 938,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1193,
+  "id": 939,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1196,
+  "id": 940,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1197,
+  "id": 941,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1203,
+  "id": 942,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1204,
+  "id": 943,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1206,
+  "id": 944,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1207,
+  "id": 945,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1208,
+  "id": 946,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1209,
+  "id": 947,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1210,
+  "id": 948,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1211,
+  "id": 949,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1212,
+  "id": 950,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1213,
+  "id": 951,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1219,
+  "id": 952,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1220,
+  "id": 953,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1222,
+  "id": 954,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1223,
+  "id": 955,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1224,
+  "id": 956,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1225,
+  "id": 957,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1226,
+  "id": 958,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1227,
+  "id": 959,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1228,
+  "id": 960,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm.py",
+  "line": 1236,
+  "id": 961,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 1,
+  "id": 962,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 3,
+  "id": 963,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 4,
+  "id": 964,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 34,
+  "id": 965,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 36,
+  "id": 966,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 38,
+  "id": 967,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 41,
+  "id": 968,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 43,
+  "id": 969,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_tqdm_pandas.py",
+  "line": 46,
+  "id": 970,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__main__.py",
+  "line": 1,
+  "id": 971,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/__main__.py",
+  "line": 2,
+  "id": 972,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 1,
+  "id": 973,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 2,
+  "id": 974,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 3,
+  "id": 975,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 4,
+  "id": 976,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 5,
+  "id": 977,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 6,
+  "id": 978,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 12,
+  "id": 979,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 13,
+  "id": 980,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 14,
+  "id": 981,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 16,
+  "id": 982,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 18,
+  "id": 983,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 19,
+  "id": 984,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 21,
+  "id": 985,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 23,
+  "id": 986,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 24,
+  "id": 987,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 26,
+  "id": 988,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 28,
+  "id": 989,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 29,
+  "id": 990,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 30,
+  "id": 991,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 31,
+  "id": 992,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 33,
+  "id": 993,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 35,
+  "id": 994,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 37,
+  "id": 995,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 38,
+  "id": 996,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 40,
+  "id": 997,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 42,
+  "id": 998,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 43,
+  "id": 999,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 45,
+  "id": 1000,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 47,
+  "id": 1001,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 48,
+  "id": 1002,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 50,
+  "id": 1003,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 51,
+  "id": 1004,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 54,
+  "id": 1005,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 59,
+  "id": 1006,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 60,
+  "id": 1007,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 62,
+  "id": 1008,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 63,
+  "id": 1009,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 64,
+  "id": 1010,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 67,
+  "id": 1011,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 68,
+  "id": 1012,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 71,
+  "id": 1013,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 72,
+  "id": 1014,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 73,
+  "id": 1015,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 76,
+  "id": 1016,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 77,
+  "id": 1017,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 80,
+  "id": 1018,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 83,
+  "id": 1019,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 86,
+  "id": 1020,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 87,
+  "id": 1021,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 88,
+  "id": 1022,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 89,
+  "id": 1023,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 90,
+  "id": 1024,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 93,
+  "id": 1025,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 94,
+  "id": 1026,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 95,
+  "id": 1027,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 96,
+  "id": 1028,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 99,
+  "id": 1029,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 100,
+  "id": 1030,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 101,
+  "id": 1031,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 102,
+  "id": 1032,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 103,
+  "id": 1033,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 104,
+  "id": 1034,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 107,
+  "id": 1035,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 108,
+  "id": 1036,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 111,
+  "id": 1037,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 115,
+  "id": 1038,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 116,
+  "id": 1039,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 117,
+  "id": 1040,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 118,
+  "id": 1041,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 124,
+  "id": 1042,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 127,
+  "id": 1043,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 130,
+  "id": 1044,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 133,
+  "id": 1045,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 136,
+  "id": 1046,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 139,
+  "id": 1047,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 143,
+  "id": 1048,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 144,
+  "id": 1049,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 146,
+  "id": 1050,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 148,
+  "id": 1051,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 149,
+  "id": 1052,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 151,
+  "id": 1053,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 153,
+  "id": 1054,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 157,
+  "id": 1055,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 158,
+  "id": 1056,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 160,
+  "id": 1057,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 168,
+  "id": 1058,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 169,
+  "id": 1059,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 170,
+  "id": 1060,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 171,
+  "id": 1061,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 172,
+  "id": 1062,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 173,
+  "id": 1063,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 174,
+  "id": 1064,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 175,
+  "id": 1065,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 179,
+  "id": 1066,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 180,
+  "id": 1067,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 181,
+  "id": 1068,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 182,
+  "id": 1069,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 184,
+  "id": 1070,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 185,
+  "id": 1071,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 186,
+  "id": 1072,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 187,
+  "id": 1073,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 188,
+  "id": 1074,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 190,
+  "id": 1075,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 191,
+  "id": 1076,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 192,
+  "id": 1077,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 193,
+  "id": 1078,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 194,
+  "id": 1079,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 197,
+  "id": 1080,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 199,
+  "id": 1081,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 200,
+  "id": 1082,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 205,
+  "id": 1083,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 206,
+  "id": 1084,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 207,
+  "id": 1085,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 209,
+  "id": 1086,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 211,
+  "id": 1087,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 212,
+  "id": 1088,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 217,
+  "id": 1089,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 218,
+  "id": 1090,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 219,
+  "id": 1091,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 220,
+  "id": 1092,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 222,
+  "id": 1093,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 224,
+  "id": 1094,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 225,
+  "id": 1095,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 227,
+  "id": 1096,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 228,
+  "id": 1097,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 230,
+  "id": 1098,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/_utils.py",
+  "line": 234,
+  "id": 1099,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 1,
+  "id": 1100,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 2,
+  "id": 1101,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 3,
+  "id": 1102,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 4,
+  "id": 1103,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 6,
+  "id": 1104,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 8,
+  "id": 1105,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 9,
+  "id": 1106,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 10,
+  "id": 1107,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 11,
+  "id": 1108,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 12,
+  "id": 1109,
+  "event_type": 0
+ },
+ {
+  "file": "tqdm/autonotebook/__init__.py",
+  "line": 15,
+  "id": 1110,
+  "event_type": 0
+ }
+]

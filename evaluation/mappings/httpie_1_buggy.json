@@ -1,0 +1,8282 @@
+[
+ {
+  "file": "httpie/sessions.py",
+  "line": 4,
+  "id": 0,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 5,
+  "id": 1,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 7,
+  "id": 2,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 9,
+  "id": 3,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 10,
+  "id": 4,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 11,
+  "id": 5,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 14,
+  "id": 6,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 15,
+  "id": 7,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 16,
+  "id": 8,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 20,
+  "id": 9,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 29,
+  "id": 10,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 30,
+  "id": 11,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 31,
+  "id": 12,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 33,
+  "id": 13,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 35,
+  "id": 14,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 37,
+  "id": 15,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 40,
+  "id": 16,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 41,
+  "id": 17,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 46,
+  "id": 18,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 47,
+  "id": 19,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 49,
+  "id": 20,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 50,
+  "id": 21,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 51,
+  "id": 22,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 52,
+  "id": 23,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 54,
+  "id": 24,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 55,
+  "id": 25,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 60,
+  "id": 26,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 61,
+  "id": 27,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 63,
+  "id": 28,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 65,
+  "id": 29,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 66,
+  "id": 30,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 68,
+  "id": 31,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 71,
+  "id": 32,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 72,
+  "id": 33,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 73,
+  "id": 34,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 74,
+  "id": 35,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 78,
+  "id": 36,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 79,
+  "id": 37,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 82,
+  "id": 38,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 83,
+  "id": 39,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 84,
+  "id": 40,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 85,
+  "id": 41,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 86,
+  "id": 42,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 93,
+  "id": 43,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 103,
+  "id": 44,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 105,
+  "id": 45,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 106,
+  "id": 46,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 108,
+  "id": 47,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 109,
+  "id": 48,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 110,
+  "id": 49,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 112,
+  "id": 50,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 113,
+  "id": 51,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 114,
+  "id": 52,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 116,
+  "id": 53,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 120,
+  "id": 54,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 124,
+  "id": 55,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 125,
+  "id": 56,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 126,
+  "id": 57,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 128,
+  "id": 58,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 129,
+  "id": 59,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 137,
+  "id": 60,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 138,
+  "id": 61,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 139,
+  "id": 62,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 140,
+  "id": 63,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 147,
+  "id": 64,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 148,
+  "id": 65,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 149,
+  "id": 66,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 150,
+  "id": 67,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 151,
+  "id": 68,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 155,
+  "id": 69,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/sessions.py",
+  "line": 156,
+  "id": 70,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 1,
+  "id": 71,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 2,
+  "id": 72,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 3,
+  "id": 73,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 5,
+  "id": 74,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 6,
+  "id": 75,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 9,
+  "id": 76,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 18,
+  "id": 77,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 19,
+  "id": 78,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 20,
+  "id": 79,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 23,
+  "id": 80,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 27,
+  "id": 81,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 32,
+  "id": 82,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 33,
+  "id": 83,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 34,
+  "id": 84,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 36,
+  "id": 85,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 37,
+  "id": 86,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 38,
+  "id": 87,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 41,
+  "id": 88,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 44,
+  "id": 89,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 45,
+  "id": 90,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 46,
+  "id": 91,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 47,
+  "id": 92,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 49,
+  "id": 93,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 53,
+  "id": 94,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 55,
+  "id": 95,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 56,
+  "id": 96,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 59,
+  "id": 97,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 62,
+  "id": 98,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 63,
+  "id": 99,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 65,
+  "id": 100,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 66,
+  "id": 101,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 68,
+  "id": 102,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 69,
+  "id": 103,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 70,
+  "id": 104,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 73,
+  "id": 105,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 74,
+  "id": 106,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 76,
+  "id": 107,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 77,
+  "id": 108,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 82,
+  "id": 109,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 83,
+  "id": 110,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 84,
+  "id": 111,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 86,
+  "id": 112,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 91,
+  "id": 113,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 92,
+  "id": 114,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 93,
+  "id": 115,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 96,
+  "id": 116,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 97,
+  "id": 117,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 100,
+  "id": 118,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 104,
+  "id": 119,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 105,
+  "id": 120,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 107,
+  "id": 121,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 109,
+  "id": 122,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 110,
+  "id": 123,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 111,
+  "id": 124,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/config.py",
+  "line": 112,
+  "id": 125,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 5,
+  "id": 126,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 8,
+  "id": 127,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 9,
+  "id": 128,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 10,
+  "id": 129,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 11,
+  "id": 130,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 12,
+  "id": 131,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 13,
+  "id": 132,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 16,
+  "id": 133,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 17,
+  "id": 134,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 18,
+  "id": 135,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 19,
+  "id": 136,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 20,
+  "id": 137,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 21,
+  "id": 138,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 24,
+  "id": 139,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 26,
+  "id": 140,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 29,
+  "id": 141,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 31,
+  "id": 142,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 33,
+  "id": 143,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 36,
+  "id": 144,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 38,
+  "id": 145,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 39,
+  "id": 146,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 44,
+  "id": 147,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 71,
+  "id": 148,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 72,
+  "id": 149,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 74,
+  "id": 150,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 75,
+  "id": 151,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 77,
+  "id": 152,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 78,
+  "id": 153,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 81,
+  "id": 154,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 83,
+  "id": 155,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 84,
+  "id": 156,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 85,
+  "id": 157,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 88,
+  "id": 158,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 89,
+  "id": 159,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 90,
+  "id": 160,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 91,
+  "id": 161,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 92,
+  "id": 162,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 95,
+  "id": 163,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 96,
+  "id": 164,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 97,
+  "id": 165,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 98,
+  "id": 166,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 101,
+  "id": 167,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 102,
+  "id": 168,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 103,
+  "id": 169,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 104,
+  "id": 170,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 105,
+  "id": 171,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 108,
+  "id": 172,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 109,
+  "id": 173,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 110,
+  "id": 174,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 111,
+  "id": 175,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 112,
+  "id": 176,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 115,
+  "id": 177,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 116,
+  "id": 178,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 117,
+  "id": 179,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 118,
+  "id": 180,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 120,
+  "id": 181,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 121,
+  "id": 182,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 122,
+  "id": 183,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 125,
+  "id": 184,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 126,
+  "id": 185,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 127,
+  "id": 186,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 128,
+  "id": 187,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 129,
+  "id": 188,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 130,
+  "id": 189,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 131,
+  "id": 190,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 132,
+  "id": 191,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 135,
+  "id": 192,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 137,
+  "id": 193,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 138,
+  "id": 194,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 139,
+  "id": 195,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 140,
+  "id": 196,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 141,
+  "id": 197,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 142,
+  "id": 198,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 143,
+  "id": 199,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 144,
+  "id": 200,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 147,
+  "id": 201,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 148,
+  "id": 202,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 149,
+  "id": 203,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 152,
+  "id": 204,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 157,
+  "id": 205,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 158,
+  "id": 206,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 159,
+  "id": 207,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 160,
+  "id": 208,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 163,
+  "id": 209,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 164,
+  "id": 210,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 165,
+  "id": 211,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 166,
+  "id": 212,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 167,
+  "id": 213,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 168,
+  "id": 214,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 169,
+  "id": 215,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 170,
+  "id": 216,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/compat.py",
+  "line": 173,
+  "id": 217,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 1,
+  "id": 218,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 8,
+  "id": 219,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 12,
+  "id": 220,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 16,
+  "id": 221,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 21,
+  "id": 222,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 26,
+  "id": 223,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 31,
+  "id": 224,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 36,
+  "id": 225,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 37,
+  "id": 226,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 38,
+  "id": 227,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 39,
+  "id": 228,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 46,
+  "id": 229,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 49,
+  "id": 230,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 54,
+  "id": 231,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 56,
+  "id": 232,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 63,
+  "id": 233,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 68,
+  "id": 234,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 69,
+  "id": 235,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 72,
+  "id": 236,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 77,
+  "id": 237,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 79,
+  "id": 238,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 83,
+  "id": 239,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 89,
+  "id": 240,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 96,
+  "id": 241,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 99,
+  "id": 242,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 103,
+  "id": 243,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 105,
+  "id": 244,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 111,
+  "id": 245,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 112,
+  "id": 246,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 113,
+  "id": 247,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 115,
+  "id": 248,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 123,
+  "id": 249,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 124,
+  "id": 250,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 126,
+  "id": 251,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 128,
+  "id": 252,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 129,
+  "id": 253,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 133,
+  "id": 254,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 137,
+  "id": 255,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 138,
+  "id": 256,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 140,
+  "id": 257,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/models.py",
+  "line": 141,
+  "id": 258,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 1,
+  "id": 259,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 2,
+  "id": 260,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 3,
+  "id": 261,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 5,
+  "id": 262,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 6,
+  "id": 263,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 7,
+  "id": 264,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 9,
+  "id": 265,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 10,
+  "id": 266,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 11,
+  "id": 267,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 12,
+  "id": 268,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 13,
+  "id": 269,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 14,
+  "id": 270,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 16,
+  "id": 271,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 18,
+  "id": 272,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 24,
+  "id": 273,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 27,
+  "id": 274,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 28,
+  "id": 275,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 29,
+  "id": 276,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 35,
+  "id": 277,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 36,
+  "id": 278,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 39,
+  "id": 279,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 40,
+  "id": 280,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 44,
+  "id": 281,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 45,
+  "id": 282,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 49,
+  "id": 283,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 50,
+  "id": 284,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 51,
+  "id": 285,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 53,
+  "id": 286,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 59,
+  "id": 287,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 60,
+  "id": 288,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 61,
+  "id": 289,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 63,
+  "id": 290,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 64,
+  "id": 291,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 66,
+  "id": 292,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 67,
+  "id": 293,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 68,
+  "id": 294,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 69,
+  "id": 295,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 70,
+  "id": 296,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 72,
+  "id": 297,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 80,
+  "id": 298,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 84,
+  "id": 299,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 91,
+  "id": 300,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 98,
+  "id": 301,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 102,
+  "id": 302,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 104,
+  "id": 303,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 105,
+  "id": 304,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 106,
+  "id": 305,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 107,
+  "id": 306,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 109,
+  "id": 307,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 112,
+  "id": 308,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 113,
+  "id": 309,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 122,
+  "id": 310,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 123,
+  "id": 311,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 124,
+  "id": 312,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 125,
+  "id": 313,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 126,
+  "id": 314,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 130,
+  "id": 315,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 133,
+  "id": 316,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 134,
+  "id": 317,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 135,
+  "id": 318,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 136,
+  "id": 319,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 137,
+  "id": 320,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 139,
+  "id": 321,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 140,
+  "id": 322,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 141,
+  "id": 323,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 142,
+  "id": 324,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 144,
+  "id": 325,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 145,
+  "id": 326,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 146,
+  "id": 327,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 147,
+  "id": 328,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 148,
+  "id": 329,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 150,
+  "id": 330,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/client.py",
+  "line": 169,
+  "id": 331,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 5,
+  "id": 332,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 6,
+  "id": 333,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 7,
+  "id": 334,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 12,
+  "id": 335,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 13,
+  "id": 336,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 14,
+  "id": 337,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 15,
+  "id": 338,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 18,
+  "id": 339,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 19,
+  "id": 340,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 20,
+  "id": 341,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__init__.py",
+  "line": 23,
+  "id": 342,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 13,
+  "id": 343,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 14,
+  "id": 344,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 15,
+  "id": 345,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 17,
+  "id": 346,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 18,
+  "id": 347,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 19,
+  "id": 348,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 21,
+  "id": 349,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 22,
+  "id": 350,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 23,
+  "id": 351,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 24,
+  "id": 352,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 25,
+  "id": 353,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 26,
+  "id": 354,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 27,
+  "id": 355,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 36,
+  "id": 356,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 38,
+  "id": 357,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 39,
+  "id": 358,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 41,
+  "id": 359,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 42,
+  "id": 360,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 44,
+  "id": 361,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 46,
+  "id": 362,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 50,
+  "id": 363,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 57,
+  "id": 364,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 58,
+  "id": 365,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 59,
+  "id": 366,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 68,
+  "id": 367,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 85,
+  "id": 368,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 86,
+  "id": 369,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 87,
+  "id": 370,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 89,
+  "id": 371,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 90,
+  "id": 372,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 91,
+  "id": 373,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 92,
+  "id": 374,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 97,
+  "id": 375,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 99,
+  "id": 376,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 100,
+  "id": 377,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 101,
+  "id": 378,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 103,
+  "id": 379,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 105,
+  "id": 380,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 107,
+  "id": 381,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 108,
+  "id": 382,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 112,
+  "id": 383,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 113,
+  "id": 384,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 118,
+  "id": 385,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 134,
+  "id": 386,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 135,
+  "id": 387,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 136,
+  "id": 388,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 138,
+  "id": 389,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 140,
+  "id": 390,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 142,
+  "id": 391,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 144,
+  "id": 392,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 146,
+  "id": 393,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 148,
+  "id": 394,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 149,
+  "id": 395,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 154,
+  "id": 396,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 155,
+  "id": 397,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 156,
+  "id": 398,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 157,
+  "id": 399,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 161,
+  "id": 400,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 164,
+  "id": 401,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 165,
+  "id": 402,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 167,
+  "id": 403,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 169,
+  "id": 404,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 182,
+  "id": 405,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 183,
+  "id": 406,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 186,
+  "id": 407,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 187,
+  "id": 408,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 188,
+  "id": 409,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 189,
+  "id": 410,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 191,
+  "id": 411,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 193,
+  "id": 412,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 194,
+  "id": 413,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 196,
+  "id": 414,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 197,
+  "id": 415,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 199,
+  "id": 416,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 200,
+  "id": 417,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 202,
+  "id": 418,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 203,
+  "id": 419,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 204,
+  "id": 420,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 205,
+  "id": 421,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 207,
+  "id": 422,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 209,
+  "id": 423,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 210,
+  "id": 424,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 212,
+  "id": 425,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 213,
+  "id": 426,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 214,
+  "id": 427,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 215,
+  "id": 428,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 217,
+  "id": 429,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 218,
+  "id": 430,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 219,
+  "id": 431,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 220,
+  "id": 432,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 221,
+  "id": 433,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 223,
+  "id": 434,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 224,
+  "id": 435,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 230,
+  "id": 436,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 231,
+  "id": 437,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 232,
+  "id": 438,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 233,
+  "id": 439,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 235,
+  "id": 440,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 236,
+  "id": 441,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 237,
+  "id": 442,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 238,
+  "id": 443,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 239,
+  "id": 444,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 241,
+  "id": 445,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 242,
+  "id": 446,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 244,
+  "id": 447,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 245,
+  "id": 448,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 249,
+  "id": 449,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 250,
+  "id": 450,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 251,
+  "id": 451,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 252,
+  "id": 452,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 253,
+  "id": 453,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 255,
+  "id": 454,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 256,
+  "id": 455,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 257,
+  "id": 456,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 258,
+  "id": 457,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/core.py",
+  "line": 260,
+  "id": 458,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 7,
+  "id": 459,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 8,
+  "id": 460,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 9,
+  "id": 461,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 10,
+  "id": 462,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 11,
+  "id": 463,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 12,
+  "id": 464,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 13,
+  "id": 465,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 15,
+  "id": 466,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 16,
+  "id": 467,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 17,
+  "id": 468,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 18,
+  "id": 469,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 21,
+  "id": 470,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 24,
+  "id": 471,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 25,
+  "id": 472,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 31,
+  "id": 473,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 32,
+  "id": 474,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 33,
+  "id": 475,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 37,
+  "id": 476,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 52,
+  "id": 477,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 53,
+  "id": 478,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 55,
+  "id": 479,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 59,
+  "id": 480,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 61,
+  "id": 481,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 62,
+  "id": 482,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 65,
+  "id": 483,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 66,
+  "id": 484,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 67,
+  "id": 485,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 68,
+  "id": 486,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 80,
+  "id": 487,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 83,
+  "id": 488,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 86,
+  "id": 489,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 90,
+  "id": 490,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 96,
+  "id": 491,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 109,
+  "id": 492,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 110,
+  "id": 493,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 111,
+  "id": 494,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 113,
+  "id": 495,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 114,
+  "id": 496,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 115,
+  "id": 497,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 119,
+  "id": 498,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 120,
+  "id": 499,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 121,
+  "id": 500,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 122,
+  "id": 501,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 123,
+  "id": 502,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 125,
+  "id": 503,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 127,
+  "id": 504,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 129,
+  "id": 505,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 130,
+  "id": 506,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 132,
+  "id": 507,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 133,
+  "id": 508,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 135,
+  "id": 509,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 139,
+  "id": 510,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 140,
+  "id": 511,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 141,
+  "id": 512,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 142,
+  "id": 513,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 143,
+  "id": 514,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 144,
+  "id": 515,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 162,
+  "id": 516,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 163,
+  "id": 517,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 164,
+  "id": 518,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 165,
+  "id": 519,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 167,
+  "id": 520,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 168,
+  "id": 521,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 182,
+  "id": 522,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 183,
+  "id": 523,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 184,
+  "id": 524,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 185,
+  "id": 525,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 188,
+  "id": 526,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 189,
+  "id": 527,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 202,
+  "id": 528,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 206,
+  "id": 529,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 207,
+  "id": 530,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 209,
+  "id": 531,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 211,
+  "id": 532,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 212,
+  "id": 533,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 213,
+  "id": 534,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 219,
+  "id": 535,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 220,
+  "id": 536,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 221,
+  "id": 537,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 222,
+  "id": 538,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 224,
+  "id": 539,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 228,
+  "id": 540,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 229,
+  "id": 541,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 230,
+  "id": 542,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 232,
+  "id": 543,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 233,
+  "id": 544,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 237,
+  "id": 545,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 239,
+  "id": 546,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 244,
+  "id": 547,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 252,
+  "id": 548,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 260,
+  "id": 549,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 262,
+  "id": 550,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 265,
+  "id": 551,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 266,
+  "id": 552,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 267,
+  "id": 553,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 270,
+  "id": 554,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 274,
+  "id": 555,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 289,
+  "id": 556,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 296,
+  "id": 557,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 297,
+  "id": 558,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 298,
+  "id": 559,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 299,
+  "id": 560,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 300,
+  "id": 561,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 303,
+  "id": 562,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 304,
+  "id": 563,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 305,
+  "id": 564,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 306,
+  "id": 565,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 309,
+  "id": 566,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 310,
+  "id": 567,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 314,
+  "id": 568,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 317,
+  "id": 569,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 318,
+  "id": 570,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 319,
+  "id": 571,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 335,
+  "id": 572,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 336,
+  "id": 573,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 337,
+  "id": 574,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 338,
+  "id": 575,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 339,
+  "id": 576,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 340,
+  "id": 577,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 341,
+  "id": 578,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 342,
+  "id": 579,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 343,
+  "id": 580,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 344,
+  "id": 581,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 348,
+  "id": 582,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 351,
+  "id": 583,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 352,
+  "id": 584,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 353,
+  "id": 585,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 354,
+  "id": 586,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 356,
+  "id": 587,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 357,
+  "id": 588,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 361,
+  "id": 589,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 363,
+  "id": 590,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 364,
+  "id": 591,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 365,
+  "id": 592,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 366,
+  "id": 593,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 369,
+  "id": 594,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 371,
+  "id": 595,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 372,
+  "id": 596,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 377,
+  "id": 597,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 378,
+  "id": 598,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 380,
+  "id": 599,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 382,
+  "id": 600,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 383,
+  "id": 601,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 385,
+  "id": 602,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 386,
+  "id": 603,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 387,
+  "id": 604,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 388,
+  "id": 605,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 390,
+  "id": 606,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 397,
+  "id": 607,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 398,
+  "id": 608,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 400,
+  "id": 609,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 407,
+  "id": 610,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 409,
+  "id": 611,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 414,
+  "id": 612,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 416,
+  "id": 613,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 418,
+  "id": 614,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 420,
+  "id": 615,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 421,
+  "id": 616,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 426,
+  "id": 617,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 428,
+  "id": 618,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/downloads.py",
+  "line": 435,
+  "id": 619,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 1,
+  "id": 620,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 3,
+  "id": 621,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 4,
+  "id": 622,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 6,
+  "id": 623,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 19,
+  "id": 624,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 20,
+  "id": 625,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 21,
+  "id": 626,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 22,
+  "id": 627,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 23,
+  "id": 628,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 24,
+  "id": 629,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 25,
+  "id": 630,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 26,
+  "id": 631,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 27,
+  "id": 632,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 28,
+  "id": 633,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 29,
+  "id": 634,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 30,
+  "id": 635,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 31,
+  "id": 636,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 32,
+  "id": 637,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 33,
+  "id": 638,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 34,
+  "id": 639,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 35,
+  "id": 640,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 38,
+  "id": 641,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 40,
+  "id": 642,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 41,
+  "id": 643,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 44,
+  "id": 644,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 45,
+  "id": 645,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 49,
+  "id": 646,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 53,
+  "id": 647,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 61,
+  "id": 648,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 62,
+  "id": 649,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 65,
+  "id": 650,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 66,
+  "id": 651,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 68,
+  "id": 652,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 69,
+  "id": 653,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 70,
+  "id": 654,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 72,
+  "id": 655,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 73,
+  "id": 656,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 74,
+  "id": 657,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 75,
+  "id": 658,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 80,
+  "id": 659,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 81,
+  "id": 660,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 82,
+  "id": 661,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 83,
+  "id": 662,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 85,
+  "id": 663,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 86,
+  "id": 664,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 89,
+  "id": 665,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 90,
+  "id": 666,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 91,
+  "id": 667,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 92,
+  "id": 668,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 93,
+  "id": 669,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/context.py",
+  "line": 100,
+  "id": 670,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 6,
+  "id": 671,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 8,
+  "id": 672,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 11,
+  "id": 673,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 12,
+  "id": 674,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 13,
+  "id": 675,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 14,
+  "id": 676,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 15,
+  "id": 677,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 16,
+  "id": 678,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 37,
+  "id": 679,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 38,
+  "id": 680,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 41,
+  "id": 681,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 42,
+  "id": 682,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 44,
+  "id": 683,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 63,
+  "id": 684,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 71,
+  "id": 685,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 87,
+  "id": 686,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 100,
+  "id": 687,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 150,
+  "id": 688,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 155,
+  "id": 689,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 165,
+  "id": 690,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 183,
+  "id": 691,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 185,
+  "id": 692,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 197,
+  "id": 693,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 225,
+  "id": 694,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 227,
+  "id": 695,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 253,
+  "id": 696,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 264,
+  "id": 697,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 276,
+  "id": 698,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 288,
+  "id": 699,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 300,
+  "id": 700,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 312,
+  "id": 701,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 330,
+  "id": 702,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 344,
+  "id": 703,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 356,
+  "id": 704,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 373,
+  "id": 705,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 376,
+  "id": 706,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 380,
+  "id": 707,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 396,
+  "id": 708,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 412,
+  "id": 709,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 413,
+  "id": 710,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 424,
+  "id": 711,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 425,
+  "id": 712,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 457,
+  "id": 713,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 459,
+  "id": 714,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 472,
+  "id": 715,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 482,
+  "id": 716,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 492,
+  "id": 717,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 503,
+  "id": 718,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 525,
+  "id": 719,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 526,
+  "id": 720,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 536,
+  "id": 721,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 549,
+  "id": 722,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 561,
+  "id": 723,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 576,
+  "id": 724,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 578,
+  "id": 725,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 587,
+  "id": 726,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 596,
+  "id": 727,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 605,
+  "id": 728,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/cli.py",
+  "line": 614,
+  "id": 729,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 2,
+  "id": 730,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 4,
+  "id": 731,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 8,
+  "id": 732,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 9,
+  "id": 733,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 10,
+  "id": 734,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 15,
+  "id": 735,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 16,
+  "id": 736,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 17,
+  "id": 737,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 18,
+  "id": 738,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 19,
+  "id": 739,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 20,
+  "id": 740,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 21,
+  "id": 741,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 22,
+  "id": 742,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 23,
+  "id": 743,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 55,
+  "id": 744,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 64,
+  "id": 745,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 65,
+  "id": 746,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 67,
+  "id": 747,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 68,
+  "id": 748,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 69,
+  "id": 749,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/utils.py",
+  "line": 72,
+  "id": 750,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 4,
+  "id": 751,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 5,
+  "id": 752,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 6,
+  "id": 753,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 7,
+  "id": 754,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 8,
+  "id": 755,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 9,
+  "id": 756,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 10,
+  "id": 757,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 11,
+  "id": 758,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 12,
+  "id": 759,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 14,
+  "id": 760,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 18,
+  "id": 761,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 20,
+  "id": 762,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 21,
+  "id": 763,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 22,
+  "id": 764,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 27,
+  "id": 765,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 29,
+  "id": 766,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 30,
+  "id": 767,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 31,
+  "id": 768,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 32,
+  "id": 769,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 36,
+  "id": 770,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 37,
+  "id": 771,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 38,
+  "id": 772,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 39,
+  "id": 773,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 40,
+  "id": 774,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 41,
+  "id": 775,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 42,
+  "id": 776,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 43,
+  "id": 777,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 44,
+  "id": 778,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 47,
+  "id": 779,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 56,
+  "id": 780,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 62,
+  "id": 781,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 68,
+  "id": 782,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 80,
+  "id": 783,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 81,
+  "id": 784,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 82,
+  "id": 785,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 83,
+  "id": 786,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 85,
+  "id": 787,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 93,
+  "id": 788,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 99,
+  "id": 789,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 103,
+  "id": 790,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 104,
+  "id": 791,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 107,
+  "id": 792,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 114,
+  "id": 793,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 130,
+  "id": 794,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 131,
+  "id": 795,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 136,
+  "id": 796,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 137,
+  "id": 797,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 140,
+  "id": 798,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 141,
+  "id": 799,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 144,
+  "id": 800,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 145,
+  "id": 801,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 146,
+  "id": 802,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 147,
+  "id": 803,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 148,
+  "id": 804,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 149,
+  "id": 805,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 150,
+  "id": 806,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 151,
+  "id": 807,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 152,
+  "id": 808,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 153,
+  "id": 809,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 154,
+  "id": 810,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 157,
+  "id": 811,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 158,
+  "id": 812,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 159,
+  "id": 813,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 160,
+  "id": 814,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 161,
+  "id": 815,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 162,
+  "id": 816,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 163,
+  "id": 817,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 164,
+  "id": 818,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 166,
+  "id": 819,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 167,
+  "id": 820,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 169,
+  "id": 821,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 174,
+  "id": 822,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 179,
+  "id": 823,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 180,
+  "id": 824,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 181,
+  "id": 825,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 188,
+  "id": 826,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 189,
+  "id": 827,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 191,
+  "id": 828,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 193,
+  "id": 829,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 198,
+  "id": 830,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 199,
+  "id": 831,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 200,
+  "id": 832,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 204,
+  "id": 833,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 205,
+  "id": 834,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 206,
+  "id": 835,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 208,
+  "id": 836,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 210,
+  "id": 837,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 212,
+  "id": 838,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 213,
+  "id": 839,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 214,
+  "id": 840,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 222,
+  "id": 841,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 224,
+  "id": 842,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 225,
+  "id": 843,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 227,
+  "id": 844,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 228,
+  "id": 845,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 230,
+  "id": 846,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 232,
+  "id": 847,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 234,
+  "id": 848,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 235,
+  "id": 849,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 236,
+  "id": 850,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 249,
+  "id": 851,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 251,
+  "id": 852,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 252,
+  "id": 853,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 253,
+  "id": 854,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 254,
+  "id": 855,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 257,
+  "id": 856,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 258,
+  "id": 857,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 259,
+  "id": 858,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 260,
+  "id": 859,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 261,
+  "id": 860,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 263,
+  "id": 861,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 265,
+  "id": 862,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 266,
+  "id": 863,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 267,
+  "id": 864,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 275,
+  "id": 865,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 276,
+  "id": 866,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 278,
+  "id": 867,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 285,
+  "id": 868,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 287,
+  "id": 869,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 288,
+  "id": 870,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 289,
+  "id": 871,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 291,
+  "id": 872,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 294,
+  "id": 873,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 297,
+  "id": 874,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 299,
+  "id": 875,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 303,
+  "id": 876,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 304,
+  "id": 877,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 305,
+  "id": 878,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 309,
+  "id": 879,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 311,
+  "id": 880,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 316,
+  "id": 881,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 323,
+  "id": 882,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 324,
+  "id": 883,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 329,
+  "id": 884,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 330,
+  "id": 885,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 331,
+  "id": 886,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 333,
+  "id": 887,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 334,
+  "id": 888,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 335,
+  "id": 889,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 336,
+  "id": 890,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 338,
+  "id": 891,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 340,
+  "id": 892,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 341,
+  "id": 893,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 342,
+  "id": 894,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 346,
+  "id": 895,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 347,
+  "id": 896,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 349,
+  "id": 897,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 351,
+  "id": 898,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 352,
+  "id": 899,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 353,
+  "id": 900,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 354,
+  "id": 901,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 363,
+  "id": 902,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 364,
+  "id": 903,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 365,
+  "id": 904,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 370,
+  "id": 905,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 371,
+  "id": 906,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 373,
+  "id": 907,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 374,
+  "id": 908,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 375,
+  "id": 909,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 377,
+  "id": 910,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 383,
+  "id": 911,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 384,
+  "id": 912,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 386,
+  "id": 913,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 387,
+  "id": 914,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 389,
+  "id": 915,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 392,
+  "id": 916,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 396,
+  "id": 917,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 397,
+  "id": 918,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 399,
+  "id": 919,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 401,
+  "id": 920,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 404,
+  "id": 921,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 407,
+  "id": 922,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 408,
+  "id": 923,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 409,
+  "id": 924,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 410,
+  "id": 925,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 412,
+  "id": 926,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 416,
+  "id": 927,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 423,
+  "id": 928,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 424,
+  "id": 929,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 425,
+  "id": 930,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 426,
+  "id": 931,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 429,
+  "id": 932,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 432,
+  "id": 933,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 438,
+  "id": 934,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 442,
+  "id": 935,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 444,
+  "id": 936,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 445,
+  "id": 937,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 456,
+  "id": 938,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 459,
+  "id": 939,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 460,
+  "id": 940,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 461,
+  "id": 941,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 462,
+  "id": 942,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 485,
+  "id": 943,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 486,
+  "id": 944,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 487,
+  "id": 945,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 488,
+  "id": 946,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 489,
+  "id": 947,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 490,
+  "id": 948,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 491,
+  "id": 949,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 493,
+  "id": 950,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 495,
+  "id": 951,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 496,
+  "id": 952,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 498,
+  "id": 953,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 503,
+  "id": 954,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 505,
+  "id": 955,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 507,
+  "id": 956,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 508,
+  "id": 957,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 510,
+  "id": 958,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 511,
+  "id": 959,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 512,
+  "id": 960,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 513,
+  "id": 961,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 514,
+  "id": 962,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 516,
+  "id": 963,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 518,
+  "id": 964,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 520,
+  "id": 965,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 523,
+  "id": 966,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 526,
+  "id": 967,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 528,
+  "id": 968,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 531,
+  "id": 969,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 534,
+  "id": 970,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 543,
+  "id": 971,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 546,
+  "id": 972,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 549,
+  "id": 973,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 550,
+  "id": 974,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 553,
+  "id": 975,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 554,
+  "id": 976,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 560,
+  "id": 977,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 568,
+  "id": 978,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 569,
+  "id": 979,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 572,
+  "id": 980,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 583,
+  "id": 981,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 587,
+  "id": 982,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 588,
+  "id": 983,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 589,
+  "id": 984,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 590,
+  "id": 985,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 592,
+  "id": 986,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 603,
+  "id": 987,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 604,
+  "id": 988,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 605,
+  "id": 989,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 607,
+  "id": 990,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 608,
+  "id": 991,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 609,
+  "id": 992,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 613,
+  "id": 993,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 619,
+  "id": 994,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 620,
+  "id": 995,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 621,
+  "id": 996,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 622,
+  "id": 997,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 623,
+  "id": 998,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 626,
+  "id": 999,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 637,
+  "id": 1000,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 638,
+  "id": 1001,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 639,
+  "id": 1002,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 640,
+  "id": 1003,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 641,
+  "id": 1004,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 642,
+  "id": 1005,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 654,
+  "id": 1006,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 655,
+  "id": 1007,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 656,
+  "id": 1008,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 657,
+  "id": 1009,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 659,
+  "id": 1010,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 660,
+  "id": 1011,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 662,
+  "id": 1012,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 663,
+  "id": 1013,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 664,
+  "id": 1014,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 665,
+  "id": 1015,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 666,
+  "id": 1016,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 667,
+  "id": 1017,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 668,
+  "id": 1018,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 669,
+  "id": 1019,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 673,
+  "id": 1020,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 674,
+  "id": 1021,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 676,
+  "id": 1022,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 678,
+  "id": 1023,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 679,
+  "id": 1024,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 680,
+  "id": 1025,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 681,
+  "id": 1026,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 683,
+  "id": 1027,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 685,
+  "id": 1028,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 691,
+  "id": 1029,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 692,
+  "id": 1030,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 693,
+  "id": 1031,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 695,
+  "id": 1032,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 696,
+  "id": 1033,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 699,
+  "id": 1034,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 701,
+  "id": 1035,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 703,
+  "id": 1036,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 710,
+  "id": 1037,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 711,
+  "id": 1038,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 713,
+  "id": 1039,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/input.py",
+  "line": 714,
+  "id": 1040,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__main__.py",
+  "line": 5,
+  "id": 1041,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__main__.py",
+  "line": 6,
+  "id": 1042,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__main__.py",
+  "line": 9,
+  "id": 1043,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/__main__.py",
+  "line": 10,
+  "id": 1044,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 6,
+  "id": 1045,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 10,
+  "id": 1046,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 11,
+  "id": 1047,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 12,
+  "id": 1048,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 13,
+  "id": 1049,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 14,
+  "id": 1050,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 15,
+  "id": 1051,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 18,
+  "id": 1052,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 19,
+  "id": 1053,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/__init__.py",
+  "line": 21,
+  "id": 1054,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 1,
+  "id": 1055,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 3,
+  "id": 1056,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 5,
+  "id": 1057,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 10,
+  "id": 1058,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 22,
+  "id": 1059,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 24,
+  "id": 1060,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 28,
+  "id": 1061,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 29,
+  "id": 1062,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 30,
+  "id": 1063,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 35,
+  "id": 1064,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 36,
+  "id": 1065,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 39,
+  "id": 1066,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 44,
+  "id": 1067,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 45,
+  "id": 1068,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/builtin.py",
+  "line": 48,
+  "id": 1069,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 1,
+  "id": 1070,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 2,
+  "id": 1071,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 3,
+  "id": 1072,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 4,
+  "id": 1073,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 7,
+  "id": 1074,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 18,
+  "id": 1075,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 21,
+  "id": 1076,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 24,
+  "id": 1077,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 25,
+  "id": 1078,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 28,
+  "id": 1079,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 29,
+  "id": 1080,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 30,
+  "id": 1081,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 31,
+  "id": 1082,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 32,
+  "id": 1083,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 36,
+  "id": 1084,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 39,
+  "id": 1085,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 43,
+  "id": 1086,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 47,
+  "id": 1087,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 51,
+  "id": 1088,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 52,
+  "id": 1089,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 55,
+  "id": 1090,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 56,
+  "id": 1091,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 59,
+  "id": 1092,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/manager.py",
+  "line": 64,
+  "id": 1093,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 4,
+  "id": 1094,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 8,
+  "id": 1095,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 11,
+  "id": 1096,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 23,
+  "id": 1097,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 30,
+  "id": 1098,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 41,
+  "id": 1099,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 49,
+  "id": 1100,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 55,
+  "id": 1101,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 58,
+  "id": 1102,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 62,
+  "id": 1103,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 74,
+  "id": 1104,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 75,
+  "id": 1105,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 83,
+  "id": 1106,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/plugins/base.py",
+  "line": 92,
+  "id": 1107,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 1,
+  "id": 1108,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 2,
+  "id": 1109,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 4,
+  "id": 1110,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 5,
+  "id": 1111,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 6,
+  "id": 1112,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 7,
+  "id": 1113,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 9,
+  "id": 1114,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 12,
+  "id": 1115,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 24,
+  "id": 1116,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 29,
+  "id": 1117,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 31,
+  "id": 1118,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 33,
+  "id": 1119,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 35,
+  "id": 1120,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 36,
+  "id": 1121,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 37,
+  "id": 1122,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 38,
+  "id": 1123,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 47,
+  "id": 1124,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 48,
+  "id": 1125,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 49,
+  "id": 1126,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 50,
+  "id": 1127,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 51,
+  "id": 1128,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 53,
+  "id": 1129,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 54,
+  "id": 1130,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 55,
+  "id": 1131,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 63,
+  "id": 1132,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 64,
+  "id": 1133,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 65,
+  "id": 1134,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 66,
+  "id": 1135,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 67,
+  "id": 1136,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 68,
+  "id": 1137,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 70,
+  "id": 1138,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 71,
+  "id": 1139,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 73,
+  "id": 1140,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 74,
+  "id": 1141,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 79,
+  "id": 1142,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 81,
+  "id": 1143,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 83,
+  "id": 1144,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 84,
+  "id": 1145,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 89,
+  "id": 1146,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 92,
+  "id": 1147,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 94,
+  "id": 1148,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 103,
+  "id": 1149,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 104,
+  "id": 1150,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 110,
+  "id": 1151,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 111,
+  "id": 1152,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 123,
+  "id": 1153,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 125,
+  "id": 1154,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 139,
+  "id": 1155,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 140,
+  "id": 1156,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 141,
+  "id": 1157,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 142,
+  "id": 1158,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 143,
+  "id": 1159,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 147,
+  "id": 1160,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 151,
+  "id": 1161,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 155,
+  "id": 1162,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 156,
+  "id": 1163,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 157,
+  "id": 1164,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 159,
+  "id": 1165,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 160,
+  "id": 1166,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 161,
+  "id": 1167,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 162,
+  "id": 1168,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 163,
+  "id": 1169,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 164,
+  "id": 1170,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 166,
+  "id": 1171,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 167,
+  "id": 1172,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 168,
+  "id": 1173,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 174,
+  "id": 1174,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 175,
+  "id": 1175,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 178,
+  "id": 1176,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 179,
+  "id": 1177,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 182,
+  "id": 1178,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 193,
+  "id": 1179,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 197,
+  "id": 1180,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 199,
+  "id": 1181,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 201,
+  "id": 1182,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 204,
+  "id": 1183,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 207,
+  "id": 1184,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 211,
+  "id": 1185,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 213,
+  "id": 1186,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 214,
+  "id": 1187,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 216,
+  "id": 1188,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 229,
+  "id": 1189,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 232,
+  "id": 1190,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 233,
+  "id": 1191,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 234,
+  "id": 1192,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 235,
+  "id": 1193,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 238,
+  "id": 1194,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 242,
+  "id": 1195,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 243,
+  "id": 1196,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 244,
+  "id": 1197,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 245,
+  "id": 1198,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 246,
+  "id": 1199,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 247,
+  "id": 1200,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 248,
+  "id": 1201,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 249,
+  "id": 1202,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 251,
+  "id": 1203,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 252,
+  "id": 1204,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 253,
+  "id": 1205,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 254,
+  "id": 1206,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 255,
+  "id": 1207,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 256,
+  "id": 1208,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 257,
+  "id": 1209,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 258,
+  "id": 1210,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 259,
+  "id": 1211,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 260,
+  "id": 1212,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 263,
+  "id": 1213,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 266,
+  "id": 1214,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 267,
+  "id": 1215,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 268,
+  "id": 1216,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 279,
+  "id": 1217,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 284,
+  "id": 1218,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 285,
+  "id": 1219,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 287,
+  "id": 1220,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 288,
+  "id": 1221,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 289,
+  "id": 1222,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 290,
+  "id": 1223,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 291,
+  "id": 1224,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 292,
+  "id": 1225,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 294,
+  "id": 1226,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 295,
+  "id": 1227,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/streams.py",
+  "line": 297,
+  "id": 1228,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 1,
+  "id": 1229,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 3,
+  "id": 1230,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 4,
+  "id": 1231,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 7,
+  "id": 1232,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 11,
+  "id": 1233,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 17,
+  "id": 1234,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 18,
+  "id": 1235,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 19,
+  "id": 1236,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 20,
+  "id": 1237,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 33,
+  "id": 1238,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 34,
+  "id": 1239,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 35,
+  "id": 1240,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 36,
+  "id": 1241,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 37,
+  "id": 1242,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 38,
+  "id": 1243,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 39,
+  "id": 1244,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 42,
+  "id": 1245,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 43,
+  "id": 1246,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 44,
+  "id": 1247,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 47,
+  "id": 1248,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 48,
+  "id": 1249,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 49,
+  "id": 1250,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/processing.py",
+  "line": 50,
+  "id": 1251,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 2,
+  "id": 1252,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 3,
+  "id": 1253,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 5,
+  "id": 1254,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 8,
+  "id": 1255,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 9,
+  "id": 1256,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 12,
+  "id": 1257,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 22,
+  "id": 1258,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 23,
+  "id": 1259,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 24,
+  "id": 1260,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 25,
+  "id": 1261,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 26,
+  "id": 1262,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 27,
+  "id": 1263,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 28,
+  "id": 1264,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 29,
+  "id": 1265,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 30,
+  "id": 1266,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 31,
+  "id": 1267,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 33,
+  "id": 1268,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 34,
+  "id": 1269,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 36,
+  "id": 1270,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 43,
+  "id": 1271,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 45,
+  "id": 1272,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 46,
+  "id": 1273,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 49,
+  "id": 1274,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 51,
+  "id": 1275,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 53,
+  "id": 1276,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 54,
+  "id": 1277,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 55,
+  "id": 1278,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 57,
+  "id": 1279,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 58,
+  "id": 1280,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 59,
+  "id": 1281,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 60,
+  "id": 1282,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/xml.py",
+  "line": 61,
+  "id": 1283,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/headers.py",
+  "line": 1,
+  "id": 1284,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/headers.py",
+  "line": 12,
+  "id": 1285,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/headers.py",
+  "line": 13,
+  "id": 1286,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/headers.py",
+  "line": 14,
+  "id": 1287,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 2,
+  "id": 1288,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 4,
+  "id": 1289,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 7,
+  "id": 1290,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 13,
+  "id": 1291,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 14,
+  "id": 1292,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 15,
+  "id": 1293,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 17,
+  "id": 1294,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 21,
+  "id": 1295,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/json.py",
+  "line": 27,
+  "id": 1296,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 2,
+  "id": 1297,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 4,
+  "id": 1298,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 5,
+  "id": 1299,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 6,
+  "id": 1300,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 7,
+  "id": 1301,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 8,
+  "id": 1302,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 9,
+  "id": 1303,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 10,
+  "id": 1304,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 11,
+  "id": 1305,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 12,
+  "id": 1306,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 14,
+  "id": 1307,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 15,
+  "id": 1308,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 18,
+  "id": 1309,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 19,
+  "id": 1310,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 21,
+  "id": 1311,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 24,
+  "id": 1312,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 26,
+  "id": 1313,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 37,
+  "id": 1314,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 41,
+  "id": 1315,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 42,
+  "id": 1316,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 43,
+  "id": 1317,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 44,
+  "id": 1318,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 47,
+  "id": 1319,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 49,
+  "id": 1320,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 50,
+  "id": 1321,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 52,
+  "id": 1322,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 54,
+  "id": 1323,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 55,
+  "id": 1324,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 57,
+  "id": 1325,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 58,
+  "id": 1326,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 61,
+  "id": 1327,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 64,
+  "id": 1328,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 65,
+  "id": 1329,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 66,
+  "id": 1330,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 67,
+  "id": 1331,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 70,
+  "id": 1332,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 80,
+  "id": 1333,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 81,
+  "id": 1334,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 82,
+  "id": 1335,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 83,
+  "id": 1336,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 85,
+  "id": 1337,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 86,
+  "id": 1338,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 87,
+  "id": 1339,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 94,
+  "id": 1340,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 95,
+  "id": 1341,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 98,
+  "id": 1342,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 99,
+  "id": 1343,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 100,
+  "id": 1344,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 101,
+  "id": 1345,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 102,
+  "id": 1346,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 104,
+  "id": 1347,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 106,
+  "id": 1348,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 107,
+  "id": 1349,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 108,
+  "id": 1350,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 110,
+  "id": 1351,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 112,
+  "id": 1352,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 114,
+  "id": 1353,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 115,
+  "id": 1354,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 117,
+  "id": 1355,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 119,
+  "id": 1356,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 121,
+  "id": 1357,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 133,
+  "id": 1358,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 134,
+  "id": 1359,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 135,
+  "id": 1360,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 136,
+  "id": 1361,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 183,
+  "id": 1362,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 184,
+  "id": 1363,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 185,
+  "id": 1364,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 186,
+  "id": 1365,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 187,
+  "id": 1366,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 188,
+  "id": 1367,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 189,
+  "id": 1368,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 190,
+  "id": 1369,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 191,
+  "id": 1370,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 192,
+  "id": 1371,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 193,
+  "id": 1372,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 194,
+  "id": 1373,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 195,
+  "id": 1374,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 196,
+  "id": 1375,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 197,
+  "id": 1376,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 198,
+  "id": 1377,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 200,
+  "id": 1378,
+  "event_type": 0
+ },
+ {
+  "file": "httpie/output/formatters/colors.py",
+  "line": 201,
+  "id": 1379,
+  "event_type": 0
+ }
+]

@@ -1,0 +1,100 @@
+{
+ "httpie_3": {
+  "line_tcp": {
+   "Tarantula": {
+    "best_case": {
+     "top-1": 0.0,
+     "top-5": 0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "avg_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "worst_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    }
+   },
+   "Ochiai": {
+    "best_case": {
+     "top-1": 0.0,
+     "top-5": 0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "avg_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "worst_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    }
+   }
+  },
+  "line": {
+   "Tarantula": {
+    "best_case": {
+     "top-1": 0.0,
+     "top-5": 0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "avg_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "worst_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    }
+   },
+   "Ochiai": {
+    "best_case": {
+     "top-1": 0.0,
+     "top-5": 0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "avg_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    },
+    "worst_case": {
+     "top-1": 0.0,
+     "top-5": 0.0,
+     "top-10": 0.0,
+     "exam": 0.024168514412416853,
+     "wasted-effort": 66
+    }
+   }
+  }
+ }
+}

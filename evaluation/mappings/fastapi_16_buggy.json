@@ -1,0 +1,5786 @@
+[
+ {
+  "file": "fastapi/params.py",
+  "line": 1,
+  "id": 0,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 2,
+  "id": 1,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 4,
+  "id": 2,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 8,
+  "id": 3,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 9,
+  "id": 4,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 10,
+  "id": 5,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 11,
+  "id": 6,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 15,
+  "id": 7,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 34,
+  "id": 8,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 35,
+  "id": 9,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 52,
+  "id": 10,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 71,
+  "id": 11,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 72,
+  "id": 12,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 90,
+  "id": 13,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 109,
+  "id": 14,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 127,
+  "id": 15,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 147,
+  "id": 16,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 148,
+  "id": 17,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 166,
+  "id": 18,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 185,
+  "id": 19,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 221,
+  "id": 20,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 222,
+  "id": 21,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 223,
+  "id": 22,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 257,
+  "id": 23,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 293,
+  "id": 24,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 312,
+  "id": 25,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 317,
+  "id": 26,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/params.py",
+  "line": 318,
+  "id": 27,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 1,
+  "id": 28,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 3,
+  "id": 29,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 4,
+  "id": 30,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 5,
+  "id": 31,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 6,
+  "id": 32,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 7,
+  "id": 33,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 8,
+  "id": 34,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 9,
+  "id": 35,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 10,
+  "id": 36,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 11,
+  "id": 37,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 12,
+  "id": 38,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 16,
+  "id": 39,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 32,
+  "id": 40,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 33,
+  "id": 41,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 34,
+  "id": 42,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 35,
+  "id": 43,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 38,
+  "id": 44,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 39,
+  "id": 45,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 40,
+  "id": 46,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 42,
+  "id": 47,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 43,
+  "id": 48,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 44,
+  "id": 49,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 45,
+  "id": 50,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 46,
+  "id": 51,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 47,
+  "id": 52,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 48,
+  "id": 53,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 50,
+  "id": 54,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 52,
+  "id": 55,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 53,
+  "id": 56,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 54,
+  "id": 57,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 56,
+  "id": 58,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 57,
+  "id": 59,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 58,
+  "id": 60,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 59,
+  "id": 61,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 62,
+  "id": 62,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 63,
+  "id": 63,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 70,
+  "id": 64,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 73,
+  "id": 65,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 74,
+  "id": 66,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 79,
+  "id": 67,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 80,
+  "id": 68,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 87,
+  "id": 69,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 88,
+  "id": 70,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 95,
+  "id": 71,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 115,
+  "id": 72,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 150,
+  "id": 73,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 166,
+  "id": 74,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 168,
+  "id": 75,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 171,
+  "id": 76,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 189,
+  "id": 77,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 220,
+  "id": 78,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 251,
+  "id": 79,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 282,
+  "id": 80,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 313,
+  "id": 81,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 344,
+  "id": 82,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 375,
+  "id": 83,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/applications.py",
+  "line": 406,
+  "id": 84,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/__init__.py",
+  "line": 3,
+  "id": 85,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/__init__.py",
+  "line": 5,
+  "id": 86,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/__init__.py",
+  "line": 6,
+  "id": 87,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/__init__.py",
+  "line": 7,
+  "id": 88,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 1,
+  "id": 89,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 2,
+  "id": 90,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 3,
+  "id": 91,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 5,
+  "id": 92,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 6,
+  "id": 93,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 17,
+  "id": 94,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 18,
+  "id": 95,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 19,
+  "id": 96,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 24,
+  "id": 97,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 29,
+  "id": 98,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 30,
+  "id": 99,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 31,
+  "id": 100,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 32,
+  "id": 101,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 33,
+  "id": 102,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 34,
+  "id": 103,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 49,
+  "id": 104,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 50,
+  "id": 105,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 61,
+  "id": 106,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 62,
+  "id": 107,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 63,
+  "id": 108,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 64,
+  "id": 109,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 66,
+  "id": 110,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 67,
+  "id": 111,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 69,
+  "id": 112,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 70,
+  "id": 113,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 71,
+  "id": 114,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 73,
+  "id": 115,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 74,
+  "id": 116,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 75,
+  "id": 117,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 77,
+  "id": 118,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 78,
+  "id": 119,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/encoders.py",
+  "line": 79,
+  "id": 120,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 1,
+  "id": 121,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 2,
+  "id": 122,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 4,
+  "id": 123,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 5,
+  "id": 124,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 6,
+  "id": 125,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 7,
+  "id": 126,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 8,
+  "id": 127,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 9,
+  "id": 128,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 13,
+  "id": 129,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 14,
+  "id": 130,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 20,
+  "id": 131,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 21,
+  "id": 132,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 22,
+  "id": 133,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 23,
+  "id": 134,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 26,
+  "id": 135,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 27,
+  "id": 136,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 30,
+  "id": 137,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 31,
+  "id": 138,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 32,
+  "id": 139,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 33,
+  "id": 140,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 36,
+  "id": 141,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 42,
+  "id": 142,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 43,
+  "id": 143,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 44,
+  "id": 144,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 47,
+  "id": 145,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 48,
+  "id": 146,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 49,
+  "id": 147,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 50,
+  "id": 148,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/utils.py",
+  "line": 54,
+  "id": 149,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 1,
+  "id": 150,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 2,
+  "id": 151,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 3,
+  "id": 152,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 4,
+  "id": 153,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 6,
+  "id": 154,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 7,
+  "id": 155,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 8,
+  "id": 156,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 9,
+  "id": 157,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 10,
+  "id": 158,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 11,
+  "id": 159,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 12,
+  "id": 160,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 13,
+  "id": 161,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 14,
+  "id": 162,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 15,
+  "id": 163,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 16,
+  "id": 164,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 17,
+  "id": 165,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 18,
+  "id": 166,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 19,
+  "id": 167,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 20,
+  "id": 168,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 21,
+  "id": 169,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 22,
+  "id": 170,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 26,
+  "id": 171,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 27,
+  "id": 172,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 28,
+  "id": 173,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 29,
+  "id": 174,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 30,
+  "id": 175,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 31,
+  "id": 176,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 32,
+  "id": 177,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 33,
+  "id": 178,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 34,
+  "id": 179,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 35,
+  "id": 180,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 36,
+  "id": 181,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 38,
+  "id": 182,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 48,
+  "id": 183,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 49,
+  "id": 184,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 50,
+  "id": 185,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 53,
+  "id": 186,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 54,
+  "id": 187,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 55,
+  "id": 188,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 56,
+  "id": 189,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 57,
+  "id": 190,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 58,
+  "id": 191,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 59,
+  "id": 192,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 60,
+  "id": 193,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 61,
+  "id": 194,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 63,
+  "id": 195,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 64,
+  "id": 196,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 65,
+  "id": 197,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 67,
+  "id": 198,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 68,
+  "id": 199,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 69,
+  "id": 200,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 71,
+  "id": 201,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 72,
+  "id": 202,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 75,
+  "id": 203,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 78,
+  "id": 204,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 79,
+  "id": 205,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 80,
+  "id": 206,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 84,
+  "id": 207,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 85,
+  "id": 208,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 86,
+  "id": 209,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 88,
+  "id": 210,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 89,
+  "id": 211,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 90,
+  "id": 212,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 91,
+  "id": 213,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 94,
+  "id": 214,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 96,
+  "id": 215,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 118,
+  "id": 216,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 119,
+  "id": 217,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 120,
+  "id": 218,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 121,
+  "id": 219,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 122,
+  "id": 220,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 123,
+  "id": 221,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 124,
+  "id": 222,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 127,
+  "id": 223,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 128,
+  "id": 224,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 138,
+  "id": 225,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 139,
+  "id": 226,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 140,
+  "id": 227,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 141,
+  "id": 228,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 142,
+  "id": 229,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 143,
+  "id": 230,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 144,
+  "id": 231,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 145,
+  "id": 232,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 146,
+  "id": 233,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 147,
+  "id": 234,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 148,
+  "id": 235,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 149,
+  "id": 236,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 150,
+  "id": 237,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 152,
+  "id": 238,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 153,
+  "id": 239,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 156,
+  "id": 240,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 157,
+  "id": 241,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 158,
+  "id": 242,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 188,
+  "id": 243,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 204,
+  "id": 244,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 224,
+  "id": 245,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 240,
+  "id": 246,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 242,
+  "id": 247,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 245,
+  "id": 248,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 246,
+  "id": 249,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 247,
+  "id": 250,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 250,
+  "id": 251,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 251,
+  "id": 252,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 252,
+  "id": 253,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 268,
+  "id": 254,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 269,
+  "id": 255,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 293,
+  "id": 256,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 325,
+  "id": 257,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 357,
+  "id": 258,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 389,
+  "id": 259,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 421,
+  "id": 260,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 453,
+  "id": 261,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 485,
+  "id": 262,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/routing.py",
+  "line": 517,
+  "id": 263,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 1,
+  "id": 264,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 2,
+  "id": 265,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 3,
+  "id": 266,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 4,
+  "id": 267,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 5,
+  "id": 268,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 10,
+  "id": 269,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 11,
+  "id": 270,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 14,
+  "id": 271,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 15,
+  "id": 272,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 16,
+  "id": 273,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/open_id_connect_url.py",
+  "line": 19,
+  "id": 274,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 1,
+  "id": 275,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 3,
+  "id": 276,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 4,
+  "id": 277,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 5,
+  "id": 278,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 6,
+  "id": 279,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 7,
+  "id": 280,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 8,
+  "id": 281,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 9,
+  "id": 282,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 54,
+  "id": 283,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 55,
+  "id": 284,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 56,
+  "id": 285,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 57,
+  "id": 286,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 58,
+  "id": 287,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 59,
+  "id": 288,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 104,
+  "id": 289,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 118,
+  "id": 290,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 119,
+  "id": 291,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 122,
+  "id": 292,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 123,
+  "id": 293,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 124,
+  "id": 294,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 127,
+  "id": 295,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 132,
+  "id": 296,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 133,
+  "id": 297,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 134,
+  "id": 298,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 135,
+  "id": 299,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 138,
+  "id": 300,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 139,
+  "id": 301,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 140,
+  "id": 302,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 141,
+  "id": 303,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/oauth2.py",
+  "line": 144,
+  "id": 304,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/__init__.py",
+  "line": 1,
+  "id": 305,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/__init__.py",
+  "line": 2,
+  "id": 306,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/__init__.py",
+  "line": 9,
+  "id": 307,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/__init__.py",
+  "line": 10,
+  "id": 308,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 1,
+  "id": 309,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 2,
+  "id": 310,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 3,
+  "id": 311,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 4,
+  "id": 312,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 5,
+  "id": 313,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 9,
+  "id": 314,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 14,
+  "id": 315,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 15,
+  "id": 316,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 18,
+  "id": 317,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 19,
+  "id": 318,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 20,
+  "id": 319,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 23,
+  "id": 320,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 28,
+  "id": 321,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 29,
+  "id": 322,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 32,
+  "id": 323,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 33,
+  "id": 324,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 34,
+  "id": 325,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 37,
+  "id": 326,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 42,
+  "id": 327,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 43,
+  "id": 328,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 46,
+  "id": 329,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 47,
+  "id": 330,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 48,
+  "id": 331,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/api_key.py",
+  "line": 51,
+  "id": 332,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/utils.py",
+  "line": 1,
+  "id": 333,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/utils.py",
+  "line": 5,
+  "id": 334,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/utils.py",
+  "line": 6,
+  "id": 335,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/utils.py",
+  "line": 7,
+  "id": 336,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/utils.py",
+  "line": 8,
+  "id": 337,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 1,
+  "id": 338,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 2,
+  "id": 339,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 4,
+  "id": 340,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 8,
+  "id": 341,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 9,
+  "id": 342,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 10,
+  "id": 343,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 11,
+  "id": 344,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 12,
+  "id": 345,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 13,
+  "id": 346,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 17,
+  "id": 347,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 18,
+  "id": 348,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 22,
+  "id": 349,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 23,
+  "id": 350,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 28,
+  "id": 351,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 29,
+  "id": 352,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 32,
+  "id": 353,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 33,
+  "id": 354,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 34,
+  "id": 355,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 35,
+  "id": 356,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 38,
+  "id": 357,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 43,
+  "id": 358,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 44,
+  "id": 359,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 45,
+  "id": 360,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 48,
+  "id": 361,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 49,
+  "id": 362,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 52,
+  "id": 363,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 55,
+  "id": 364,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 56,
+  "id": 365,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 59,
+  "id": 366,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 60,
+  "id": 367,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 62,
+  "id": 368,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 63,
+  "id": 369,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 64,
+  "id": 370,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 65,
+  "id": 371,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 66,
+  "id": 372,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 71,
+  "id": 373,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 72,
+  "id": 374,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 75,
+  "id": 375,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 76,
+  "id": 376,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 77,
+  "id": 377,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 78,
+  "id": 378,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 81,
+  "id": 379,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 82,
+  "id": 380,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 86,
+  "id": 381,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 91,
+  "id": 382,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 92,
+  "id": 383,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 95,
+  "id": 384,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 96,
+  "id": 385,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 97,
+  "id": 386,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 98,
+  "id": 387,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 101,
+  "id": 388,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 102,
+  "id": 389,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/http.py",
+  "line": 106,
+  "id": 390,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/base.py",
+  "line": 1,
+  "id": 391,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/base.py",
+  "line": 5,
+  "id": 392,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/security/base.py",
+  "line": 6,
+  "id": 393,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 1,
+  "id": 394,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 3,
+  "id": 395,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 4,
+  "id": 396,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 6,
+  "id": 397,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 11,
+  "id": 398,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 12,
+  "id": 399,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 30,
+  "id": 400,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 31,
+  "id": 401,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 32,
+  "id": 402,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 33,
+  "id": 403,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 34,
+  "id": 404,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 35,
+  "id": 405,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 36,
+  "id": 406,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 37,
+  "id": 407,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 38,
+  "id": 408,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/models.py",
+  "line": 39,
+  "id": 409,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 1,
+  "id": 410,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 2,
+  "id": 411,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 3,
+  "id": 412,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 4,
+  "id": 413,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 5,
+  "id": 414,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 6,
+  "id": 415,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 7,
+  "id": 416,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 9,
+  "id": 417,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 10,
+  "id": 418,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 11,
+  "id": 419,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 12,
+  "id": 420,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 13,
+  "id": 421,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 14,
+  "id": 422,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 15,
+  "id": 423,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 16,
+  "id": 424,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 17,
+  "id": 425,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 18,
+  "id": 426,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 19,
+  "id": 427,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 20,
+  "id": 428,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 22,
+  "id": 429,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 37,
+  "id": 430,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 38,
+  "id": 431,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 39,
+  "id": 432,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 41,
+  "id": 433,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 42,
+  "id": 434,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 43,
+  "id": 435,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 44,
+  "id": 436,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 47,
+  "id": 437,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 48,
+  "id": 438,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 52,
+  "id": 439,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 60,
+  "id": 440,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 61,
+  "id": 441,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 62,
+  "id": 442,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 63,
+  "id": 443,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 64,
+  "id": 444,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 65,
+  "id": 445,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 66,
+  "id": 446,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 67,
+  "id": 447,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 68,
+  "id": 448,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 72,
+  "id": 449,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 73,
+  "id": 450,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 74,
+  "id": 451,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 75,
+  "id": 452,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 76,
+  "id": 453,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 77,
+  "id": 454,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 78,
+  "id": 455,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 79,
+  "id": 456,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 80,
+  "id": 457,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 81,
+  "id": 458,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 82,
+  "id": 459,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 83,
+  "id": 460,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 86,
+  "id": 461,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 90,
+  "id": 462,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 91,
+  "id": 463,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 97,
+  "id": 464,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 105,
+  "id": 465,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 108,
+  "id": 466,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 109,
+  "id": 467,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 110,
+  "id": 468,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 111,
+  "id": 469,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 112,
+  "id": 470,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 113,
+  "id": 471,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 119,
+  "id": 472,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 122,
+  "id": 473,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 125,
+  "id": 474,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 126,
+  "id": 475,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 127,
+  "id": 476,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 128,
+  "id": 477,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 129,
+  "id": 478,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 139,
+  "id": 479,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 140,
+  "id": 480,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 141,
+  "id": 481,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 142,
+  "id": 482,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 143,
+  "id": 483,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 144,
+  "id": 484,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 145,
+  "id": 485,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 146,
+  "id": 486,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 147,
+  "id": 487,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 148,
+  "id": 488,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 150,
+  "id": 489,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 151,
+  "id": 490,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 152,
+  "id": 491,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 153,
+  "id": 492,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 154,
+  "id": 493,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 155,
+  "id": 494,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 156,
+  "id": 495,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 157,
+  "id": 496,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 159,
+  "id": 497,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 160,
+  "id": 498,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 170,
+  "id": 499,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 171,
+  "id": 500,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 172,
+  "id": 501,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 173,
+  "id": 502,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 174,
+  "id": 503,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 175,
+  "id": 504,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 177,
+  "id": 505,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 180,
+  "id": 506,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 184,
+  "id": 507,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 185,
+  "id": 508,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 186,
+  "id": 509,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 187,
+  "id": 510,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 188,
+  "id": 511,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 189,
+  "id": 512,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 191,
+  "id": 513,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 192,
+  "id": 514,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 193,
+  "id": 515,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 194,
+  "id": 516,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 204,
+  "id": 517,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 208,
+  "id": 518,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 209,
+  "id": 519,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 210,
+  "id": 520,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 211,
+  "id": 521,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 212,
+  "id": 522,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 213,
+  "id": 523,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 219,
+  "id": 524,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 220,
+  "id": 525,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 221,
+  "id": 526,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 222,
+  "id": 527,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 225,
+  "id": 528,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 226,
+  "id": 529,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 227,
+  "id": 530,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 228,
+  "id": 531,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 229,
+  "id": 532,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 230,
+  "id": 533,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 232,
+  "id": 534,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 233,
+  "id": 535,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 234,
+  "id": 536,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 235,
+  "id": 537,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 238,
+  "id": 538,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 241,
+  "id": 539,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 244,
+  "id": 540,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 247,
+  "id": 541,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 248,
+  "id": 542,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 249,
+  "id": 543,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 250,
+  "id": 544,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 251,
+  "id": 545,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 252,
+  "id": 546,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 253,
+  "id": 547,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 256,
+  "id": 548,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 257,
+  "id": 549,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 258,
+  "id": 550,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 259,
+  "id": 551,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 260,
+  "id": 552,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 267,
+  "id": 553,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 268,
+  "id": 554,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 269,
+  "id": 555,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 270,
+  "id": 556,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 273,
+  "id": 557,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 275,
+  "id": 558,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 276,
+  "id": 559,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 277,
+  "id": 560,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 278,
+  "id": 561,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 279,
+  "id": 562,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 280,
+  "id": 563,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 288,
+  "id": 564,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 289,
+  "id": 565,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 290,
+  "id": 566,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 291,
+  "id": 567,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 292,
+  "id": 568,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 293,
+  "id": 569,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 294,
+  "id": 570,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 296,
+  "id": 571,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 297,
+  "id": 572,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 303,
+  "id": 573,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 304,
+  "id": 574,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 305,
+  "id": 575,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 306,
+  "id": 576,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 307,
+  "id": 577,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 308,
+  "id": 578,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 309,
+  "id": 579,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 310,
+  "id": 580,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 311,
+  "id": 581,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 312,
+  "id": 582,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 313,
+  "id": 583,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 314,
+  "id": 584,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 315,
+  "id": 585,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 316,
+  "id": 586,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 324,
+  "id": 587,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 325,
+  "id": 588,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 326,
+  "id": 589,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 327,
+  "id": 590,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 328,
+  "id": 591,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 329,
+  "id": 592,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 330,
+  "id": 593,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 332,
+  "id": 594,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 333,
+  "id": 595,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 337,
+  "id": 596,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 338,
+  "id": 597,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 339,
+  "id": 598,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 340,
+  "id": 599,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 341,
+  "id": 600,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 342,
+  "id": 601,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 343,
+  "id": 602,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 344,
+  "id": 603,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 345,
+  "id": 604,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 346,
+  "id": 605,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 347,
+  "id": 606,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 348,
+  "id": 607,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 349,
+  "id": 608,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 350,
+  "id": 609,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 351,
+  "id": 610,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 352,
+  "id": 611,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 354,
+  "id": 612,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 356,
+  "id": 613,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/dependencies/utils.py",
+  "line": 366,
+  "id": 614,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 1,
+  "id": 615,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 2,
+  "id": 616,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 3,
+  "id": 617,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 5,
+  "id": 618,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 6,
+  "id": 619,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 8,
+  "id": 620,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 9,
+  "id": 621,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 11,
+  "id": 622,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 12,
+  "id": 623,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 14,
+  "id": 624,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 20,
+  "id": 625,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 24,
+  "id": 626,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 25,
+  "id": 627,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 26,
+  "id": 628,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 30,
+  "id": 629,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 31,
+  "id": 630,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 35,
+  "id": 631,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 36,
+  "id": 632,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 37,
+  "id": 633,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 38,
+  "id": 634,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 39,
+  "id": 635,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 40,
+  "id": 636,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 44,
+  "id": 637,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 45,
+  "id": 638,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 46,
+  "id": 639,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 50,
+  "id": 640,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 51,
+  "id": 641,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 52,
+  "id": 642,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 56,
+  "id": 643,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 60,
+  "id": 644,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 61,
+  "id": 645,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 65,
+  "id": 646,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 66,
+  "id": 647,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 67,
+  "id": 648,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 68,
+  "id": 649,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 69,
+  "id": 650,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 73,
+  "id": 651,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 74,
+  "id": 652,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 78,
+  "id": 653,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 79,
+  "id": 654,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 80,
+  "id": 655,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 81,
+  "id": 656,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 82,
+  "id": 657,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 83,
+  "id": 658,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 84,
+  "id": 659,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 85,
+  "id": 660,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 86,
+  "id": 661,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 87,
+  "id": 662,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 88,
+  "id": 663,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 89,
+  "id": 664,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 90,
+  "id": 665,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 91,
+  "id": 666,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 92,
+  "id": 667,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 93,
+  "id": 668,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 94,
+  "id": 669,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 95,
+  "id": 670,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 96,
+  "id": 671,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 97,
+  "id": 672,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 98,
+  "id": 673,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 99,
+  "id": 674,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 100,
+  "id": 675,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 101,
+  "id": 676,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 102,
+  "id": 677,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 103,
+  "id": 678,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 104,
+  "id": 679,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 105,
+  "id": 680,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 106,
+  "id": 681,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 107,
+  "id": 682,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 108,
+  "id": 683,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 109,
+  "id": 684,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 110,
+  "id": 685,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 111,
+  "id": 686,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 112,
+  "id": 687,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 113,
+  "id": 688,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 117,
+  "id": 689,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 118,
+  "id": 690,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 119,
+  "id": 691,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 120,
+  "id": 692,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 121,
+  "id": 693,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 122,
+  "id": 694,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 123,
+  "id": 695,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 127,
+  "id": 696,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 128,
+  "id": 697,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 129,
+  "id": 698,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 130,
+  "id": 699,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 134,
+  "id": 700,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 135,
+  "id": 701,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 136,
+  "id": 702,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 137,
+  "id": 703,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 141,
+  "id": 704,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 143,
+  "id": 705,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 144,
+  "id": 706,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 145,
+  "id": 707,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 146,
+  "id": 708,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 150,
+  "id": 709,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 153,
+  "id": 710,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 154,
+  "id": 711,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 155,
+  "id": 712,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 159,
+  "id": 713,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 160,
+  "id": 714,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 161,
+  "id": 715,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 163,
+  "id": 716,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 164,
+  "id": 717,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 165,
+  "id": 718,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 166,
+  "id": 719,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 169,
+  "id": 720,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 170,
+  "id": 721,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 172,
+  "id": 722,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 176,
+  "id": 723,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 177,
+  "id": 724,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 181,
+  "id": 725,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 186,
+  "id": 726,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 190,
+  "id": 727,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 191,
+  "id": 728,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 192,
+  "id": 729,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 196,
+  "id": 730,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 197,
+  "id": 731,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 198,
+  "id": 732,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 199,
+  "id": 733,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 200,
+  "id": 734,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 201,
+  "id": 735,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 205,
+  "id": 736,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 206,
+  "id": 737,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 207,
+  "id": 738,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 208,
+  "id": 739,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 212,
+  "id": 740,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 216,
+  "id": 741,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 217,
+  "id": 742,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 218,
+  "id": 743,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 219,
+  "id": 744,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 220,
+  "id": 745,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 221,
+  "id": 746,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 222,
+  "id": 747,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 223,
+  "id": 748,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 225,
+  "id": 749,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 226,
+  "id": 750,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 227,
+  "id": 751,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 228,
+  "id": 752,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 232,
+  "id": 753,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 233,
+  "id": 754,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 234,
+  "id": 755,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 235,
+  "id": 756,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 236,
+  "id": 757,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 237,
+  "id": 758,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 238,
+  "id": 759,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 239,
+  "id": 760,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 240,
+  "id": 761,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 241,
+  "id": 762,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 242,
+  "id": 763,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 243,
+  "id": 764,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 244,
+  "id": 765,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 249,
+  "id": 766,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 253,
+  "id": 767,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 254,
+  "id": 768,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 255,
+  "id": 769,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 256,
+  "id": 770,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 260,
+  "id": 771,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 261,
+  "id": 772,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 265,
+  "id": 773,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 266,
+  "id": 774,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 267,
+  "id": 775,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 271,
+  "id": 776,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 272,
+  "id": 777,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 273,
+  "id": 778,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 277,
+  "id": 779,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 278,
+  "id": 780,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 282,
+  "id": 781,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 283,
+  "id": 782,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 287,
+  "id": 783,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 288,
+  "id": 784,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 292,
+  "id": 785,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 296,
+  "id": 786,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 300,
+  "id": 787,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 304,
+  "id": 788,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 305,
+  "id": 789,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 309,
+  "id": 790,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 310,
+  "id": 791,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 311,
+  "id": 792,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 312,
+  "id": 793,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 316,
+  "id": 794,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 317,
+  "id": 795,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 321,
+  "id": 796,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 322,
+  "id": 797,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 325,
+  "id": 798,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 329,
+  "id": 799,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 330,
+  "id": 800,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 331,
+  "id": 801,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 332,
+  "id": 802,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 333,
+  "id": 803,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 334,
+  "id": 804,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 335,
+  "id": 805,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 336,
+  "id": 806,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 337,
+  "id": 807,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 341,
+  "id": 808,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 342,
+  "id": 809,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 343,
+  "id": 810,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 347,
+  "id": 811,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 348,
+  "id": 812,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 349,
+  "id": 813,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 350,
+  "id": 814,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 351,
+  "id": 815,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 352,
+  "id": 816,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 353,
+  "id": 817,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/models.py",
+  "line": 354,
+  "id": 818,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/constants.py",
+  "line": 1,
+  "id": 819,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/constants.py",
+  "line": 2,
+  "id": 820,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/docs.py",
+  "line": 1,
+  "id": 821,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/docs.py",
+  "line": 5,
+  "id": 822,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/docs.py",
+  "line": 44,
+  "id": 823,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 1,
+  "id": 824,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 3,
+  "id": 825,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 4,
+  "id": 826,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 5,
+  "id": 827,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 6,
+  "id": 828,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 7,
+  "id": 829,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 8,
+  "id": 830,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 9,
+  "id": 831,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 10,
+  "id": 832,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 11,
+  "id": 833,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 12,
+  "id": 834,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 13,
+  "id": 835,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 14,
+  "id": 836,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 15,
+  "id": 837,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 16,
+  "id": 838,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 18,
+  "id": 839,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 29,
+  "id": 840,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 43,
+  "id": 841,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 44,
+  "id": 842,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 53,
+  "id": 843,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 54,
+  "id": 844,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 55,
+  "id": 845,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 56,
+  "id": 846,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 61,
+  "id": 847,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 62,
+  "id": 848,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 63,
+  "id": 849,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 64,
+  "id": 850,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 70,
+  "id": 851,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 71,
+  "id": 852,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 72,
+  "id": 853,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 73,
+  "id": 854,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 74,
+  "id": 855,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 75,
+  "id": 856,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 76,
+  "id": 857,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 77,
+  "id": 858,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 83,
+  "id": 859,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 84,
+  "id": 860,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 85,
+  "id": 861,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 86,
+  "id": 862,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 87,
+  "id": 863,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 88,
+  "id": 864,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 94,
+  "id": 865,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 95,
+  "id": 866,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 96,
+  "id": 867,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 97,
+  "id": 868,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 100,
+  "id": 869,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 101,
+  "id": 870,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 102,
+  "id": 871,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 105,
+  "id": 872,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 106,
+  "id": 873,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 107,
+  "id": 874,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 108,
+  "id": 875,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 109,
+  "id": 876,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 110,
+  "id": 877,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 111,
+  "id": 878,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 115,
+  "id": 879,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 116,
+  "id": 880,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 117,
+  "id": 881,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 118,
+  "id": 882,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 119,
+  "id": 883,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 120,
+  "id": 884,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 121,
+  "id": 885,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 125,
+  "id": 886,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 126,
+  "id": 887,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 127,
+  "id": 888,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 131,
+  "id": 889,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 132,
+  "id": 890,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 133,
+  "id": 891,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 134,
+  "id": 892,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 135,
+  "id": 893,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 136,
+  "id": 894,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 137,
+  "id": 895,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 138,
+  "id": 896,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 139,
+  "id": 897,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 140,
+  "id": 898,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 146,
+  "id": 899,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 147,
+  "id": 900,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 148,
+  "id": 901,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 149,
+  "id": 902,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 150,
+  "id": 903,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 151,
+  "id": 904,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 152,
+  "id": 905,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 153,
+  "id": 906,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 154,
+  "id": 907,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 155,
+  "id": 908,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 158,
+  "id": 909,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 159,
+  "id": 910,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 160,
+  "id": 911,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 161,
+  "id": 912,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 162,
+  "id": 913,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 163,
+  "id": 914,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 166,
+  "id": 915,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 167,
+  "id": 916,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 168,
+  "id": 917,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 169,
+  "id": 918,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 170,
+  "id": 919,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 171,
+  "id": 920,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 174,
+  "id": 921,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 175,
+  "id": 922,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 176,
+  "id": 923,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 177,
+  "id": 924,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 178,
+  "id": 925,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 181,
+  "id": 926,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 182,
+  "id": 927,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 183,
+  "id": 928,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 184,
+  "id": 929,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 185,
+  "id": 930,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 191,
+  "id": 931,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 192,
+  "id": 932,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 193,
+  "id": 933,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 199,
+  "id": 934,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 200,
+  "id": 935,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 208,
+  "id": 936,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 209,
+  "id": 937,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 220,
+  "id": 938,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 221,
+  "id": 939,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 222,
+  "id": 940,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 223,
+  "id": 941,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 224,
+  "id": 942,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 225,
+  "id": 943,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 226,
+  "id": 944,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 227,
+  "id": 945,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 228,
+  "id": 946,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 231,
+  "id": 947,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 232,
+  "id": 948,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 233,
+  "id": 949,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 234,
+  "id": 950,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 235,
+  "id": 951,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 236,
+  "id": 952,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 237,
+  "id": 953,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 238,
+  "id": 954,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 239,
+  "id": 955,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 242,
+  "id": 956,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 243,
+  "id": 957,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 244,
+  "id": 958,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 245,
+  "id": 959,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 246,
+  "id": 960,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 247,
+  "id": 961,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 248,
+  "id": 962,
+  "event_type": 0
+ },
+ {
+  "file": "fastapi/openapi/utils.py",
+  "line": 249,
+  "id": 963,
+  "event_type": 0
+ }
+]

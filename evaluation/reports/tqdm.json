@@ -1,0 +1,949 @@
+{
+ "tqdm_1": {
+  "status": "completed",
+  "time": {
+   "purification": 4.340195178985596,
+   "instrument": 4.135202884674072,
+   "test": 1.7786378860473633
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_contrib.py::test_enumerate": [
+    {
+     "file": "tests_contrib_test_enumerate_assertion_21.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_2": {
+  "status": "completed",
+  "time": {
+   "purification": 635.3258640766144,
+   "instrument": 5.065559148788452,
+   "test": 63.74708914756775
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_tqdm.py::test_format_meter": [
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_259.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_263.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_265.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_268.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_270.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_273.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_275.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_317.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_320.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_325.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_327.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_330.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_333.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_336.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_si_format": [
+    {
+     "file": "tests_tqdm_test_si_format_assertion_358.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_359.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_360.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_361.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_362.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_363.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_364.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_365.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_366.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_367.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_368.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_369.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_370.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_372.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_374.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_376.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_378.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_all_defaults": [
+    {
+     "file": "tests_tqdm_test_all_defaults_assertion_396.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_file_output": [
+    {
+     "file": "tests_tqdm_test_file_output_assertion_481.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_leave_option": [
+    {
+     "file": "tests_tqdm_test_leave_option_assertion_491.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_leave_option_assertion_492.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_leave_option_assertion_497.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_trange": [
+    {
+     "file": "tests_tqdm_test_trange_assertion_506.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_trange_assertion_511.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_min_interval": [
+    {
+     "file": "tests_tqdm_test_min_interval_assertion_520.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_max_interval": [
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_544.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_545.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_558.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_559.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_575.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_591.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_611.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_618.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_648.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_max_interval_assertion_649.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_min_iters": [
+    {
+     "file": "tests_tqdm_test_min_iters_assertion_661.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_min_iters_assertion_667.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_dynamic_min_iters": [
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_688.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_691.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_692.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_693.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_694.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_695.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_709.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_710.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_711.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_712.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_721.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_729.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_dynamic_min_iters_assertion_736.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_big_min_interval": [
+    {
+     "file": "tests_tqdm_test_big_min_interval_assertion_745.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_big_min_interval_assertion_751.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_smoothed_dynamic_min_iters": [
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_773.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_774.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_775.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_776.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_777.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_778.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_779.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_780.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_assertion_781.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_smoothed_dynamic_min_iters_with_min_interval": [
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_with_min_interval_assertion_804.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_with_min_interval_assertion_819.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_with_min_interval_assertion_820.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_with_min_interval_assertion_821.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_with_min_interval_assertion_823.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothed_dynamic_min_iters_with_min_interval_assertion_824.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_nototal": [
+    {
+     "file": "tests_tqdm_test_nototal_assertion_894.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_nototal_assertion_900.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_unit": [
+    {
+     "file": "tests_tqdm_test_unit_assertion_909.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_ascii": [
+    {
+     "file": "tests_tqdm_test_ascii_assertion_918.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_ascii_assertion_926.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_ascii_assertion_927.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_ascii_assertion_928.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_ascii_assertion_936.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_ascii_assertion_937.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_ascii_assertion_938.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_ascii_assertion_948.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_update": [
+    {
+     "file": "tests_tqdm_test_update_assertion_958.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_update_assertion_960.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_update_assertion_966.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_update_assertion_967.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_close": [
+    {
+     "file": "tests_tqdm_test_close_assertion_978.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_979.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_981.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_982.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_989.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_993.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_996.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_999.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_1000.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_1002.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_close_assertion_1006.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_smoothing": [
+    {
+     "file": "tests_tqdm_test_smoothing_assertion_1032.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothing_assertion_1060.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothing_assertion_1114.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_smoothing_assertion_1115.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_bar_format": [
+    {
+     "file": "tests_tqdm_test_bar_format_assertion_1146.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bar_format_assertion_1152.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_custom_format": [
+    {
+     "file": "tests_tqdm_test_custom_format_assertion_1172.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_unpause": [
+    {
+     "file": "tests_tqdm_test_unpause_assertion_1195.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_reset": [
+    {
+     "file": "tests_tqdm_test_reset_assertion_1209.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_reset_assertion_1210.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_set_description": [
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1340.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1342.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1344.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1346.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1347.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1352.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1354.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1356.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_set_description_assertion_1357.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_deprecated_gui": [
+    {
+     "file": "tests_tqdm_test_deprecated_gui_assertion_1371.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_deprecated_gui_assertion_1405.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_cmp": [
+    {
+     "file": "tests_tqdm_test_cmp_assertion_1416.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_cmp_assertion_1417.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_cmp_assertion_1418.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_cmp_assertion_1426.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_cmp_assertion_1427.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_cmp_assertion_1428.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_repr": [
+    {
+     "file": "tests_tqdm_test_repr_assertion_1442.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_autodisable_enable": [
+    {
+     "file": "tests_tqdm_test_autodisable_enable_assertion_1617.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_file_redirection": [
+    {
+     "file": "tests_tqdm_test_file_redirection_assertion_1740.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_file_redirection_assertion_1741.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_file_redirection_assertion_1742.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_external_write": [
+    {
+     "file": "tests_tqdm_test_external_write_assertion_1755.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_external_write_assertion_1756.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_external_write_assertion_1757.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_unit_scale": [
+    {
+     "file": "tests_tqdm_test_unit_scale_assertion_1768.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_bool": [
+    {
+     "file": "tests_tqdm_test_bool_assertion_1790.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1792.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1794.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1796.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1798.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1800.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1802.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1804.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_float_progress": [
+    {
+     "file": "tests_tqdm_test_float_progress_assertion_1872.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_float_progress_assertion_1873.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_float_progress_assertion_1874.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_3": {
+  "status": "completed",
+  "time": {
+   "purification": 30.85801124572754,
+   "instrument": 5.377086877822876,
+   "test": 19.65151309967041
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_tqdm.py::test_bool": [
+    {
+     "file": "tests_tqdm_test_bool_assertion_1716.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1718.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1726.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1727.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1728.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1729.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1730.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1731.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_4": {
+  "status": "completed",
+  "time": {
+   "purification": 4.8480682373046875,
+   "instrument": 4.17490029335022,
+   "test": 16.130944967269897
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_tqdm.py::test_nototal": [
+    {
+     "file": "tests_tqdm_test_nototal_assertion_781.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_5": {
+  "status": "completed",
+  "time": {
+   "purification": 22.377261877059937,
+   "instrument": 4.766830205917358,
+   "test": 15.782376050949097
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_tqdm.py::test_bool": [
+    {
+     "file": "tests_tqdm_test_bool_assertion_1568.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1570.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1572.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1574.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1576.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_bool_assertion_1578.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_6": {
+  "status": "completed",
+  "time": {
+   "purification": 3.4223952293395996,
+   "instrument": 4.547231912612915,
+   "test": 5.451467990875244
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_synchronisation.py::test_imap": [
+    {
+     "file": "tests_synchronisation_test_imap_assertion_181.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_7": {
+  "status": "completed",
+  "time": {
+   "purification": 5.661514043807983,
+   "instrument": 4.458781957626343,
+   "test": 14.231907844543457
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_main.py::test_main": [
+    {
+     "file": "tests_main_test_main_assertion_27.py",
+     "params": null
+    },
+    {
+     "file": "tests_main_test_main_assertion_52.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_8": {
+  "status": "completed",
+  "time": {
+   "purification": 9.674526929855347,
+   "instrument": 4.34247899055481,
+   "test": 10.982844114303589
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_tqdm.py::test_format_meter": [
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_218.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_format_meter_assertion_221.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ },
+ "tqdm_9": {
+  "status": "completed",
+  "time": {
+   "purification": 16.04100203514099,
+   "instrument": 4.9285149574279785,
+   "test": 3.9310951232910156
+  },
+  "checkout": "successful",
+  "build": "successful",
+  "purification": "successful",
+  "purified_tests": {
+   "tqdm/tests/tests_tqdm.py::test_si_format": [
+    {
+     "file": "tests_tqdm_test_si_format_assertion_52.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_54.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_55.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_56.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_57.py",
+     "params": null
+    },
+    {
+     "file": "tests_tqdm_test_si_format_assertion_58.py",
+     "params": null
+    }
+   ],
+   "tqdm/tests/tests_tqdm.py::test_update": [
+    {
+     "file": "tests_tqdm_test_update_assertion_195.py",
+     "params": null
+    }
+   ]
+  },
+  "test": "successful",
+  "check": "successful"
+ }
+}
