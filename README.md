@@ -12,11 +12,15 @@ A Python package for purifying test cases to improve fault localization effectiv
 ## Installation
 
 ```bash
-# Install from source
+# Install from PyPI (when published)
+pip install test-case-purification
+
+# Or install from source
+git clone https://github.com/smythi93/test-purification.git
 cd test-purification
 pip install -e .
 
-# Or with test dependencies
+# With test dependencies
 pip install -e ".[test]"
 ```
 
@@ -25,19 +29,18 @@ pip install -e ".[test]"
 ### Command Line
 
 ```bash
-# Basic purification (atomization only)
+# Basic purification with slicing (default)
 tcp --src-dir tests/ --dst-dir purified/ \
     --failing-tests "test_math.py::test_add"
 
-# With dynamic slicing enabled
+# Disable dynamic slicing (atomization only)
 tcp --src-dir tests/ --dst-dir purified/ \
     --failing-tests "test_math.py::test_add" \
-    --enable-slicing
+    --disable-slicing
 
 # Multiple tests
 tcp --src-dir tests/ --dst-dir purified/ \
-    --failing-tests "test_math.py::test_add" "test_math.py::test_subtract" \
-    --enable-slicing
+    --failing-tests "test_math.py::test_add" "test_math.py::test_subtract"
 ```
 
 ### Python API
@@ -55,15 +58,20 @@ result = purify_tests(
 )
 
 # Check results
-for test_id, purified_files in result.items():
-    print(f"{test_id}: {len(purified_files)} purified file(s)")
+for test_id, file_param_tuples in result.items():
+    print(f"{test_id}:")
+    for purified_file, param_suffix in file_param_tuples:
+        if param_suffix:
+            print(f"  - {purified_file} [params: {param_suffix}]")
+        else:
+            print(f"  - {purified_file}")
 ```
 
 ## How It Works
 
 ### 1. Test Case Atomization
 
-Splits tests with multiple assertions into separate tests:
+Splits tests with multiple assertions into separate tests. Each atomized test keeps one assertion active and wraps the others in try-except blocks to suppress them:
 
 **Before:**
 ```python
@@ -77,51 +85,66 @@ def test_math():
 
 **After (2 files):**
 ```python
-# test_math_assertion_5.py
+# test_math_assertion_5.py - First assertion active
 def test_math():
     x = 1
     y = 2
     z = x + y
     assert z == 3
+    try:
+        assert x == 1
+    except AssertionError:
+        pass
 
-# test_math_assertion_6.py  
+# test_math_assertion_6.py - Second assertion active
 def test_math():
     x = 1
     y = 2
     z = x + y
+    try:
+        assert z == 3
+    except AssertionError:
+        pass
     assert x == 1
 ```
 
 ### 2. Dynamic Slicing (Optional)
 
-Removes code not relevant to each assertion:
+Removes code not relevant to each assertion. After atomization with try-except blocks, slicing further removes irrelevant statements:
 
-**With Slicing:**
+**After Atomization:**
 ```python
-# test_math_assertion_5.py
+# test_math_assertion_6.py
 def test_math():
     x = 1
     y = 2
     z = x + y
-    assert z == 3
+    try:
+        assert z == 3
+    except AssertionError:
+        pass
+    assert x == 1
+```
 
+**After Slicing:**
+```python
 # test_math_assertion_6.py  
 def test_math():
     x = 1
-    # y and z removed - not needed for this assertion
+    # y, z, and first assertion removed - not needed for second assertion
     assert x == 1
 ```
 
 ## CLI Options
 
 ```
---src-dir PATH           Source directory containing tests (required)
---dst-dir PATH           Destination for purified tests (required)
---failing-tests TEST...  Space-separated test identifiers (required)
---enable-slicing         Enable dynamic slicing
---test-base PATH         Base directory for tests (default: src-dir)
---python PATH            Python executable (default: python)
---verbose, -v            Enable verbose output
+-s, --src-dir PATH           Source directory containing tests (required)
+-d, --dst-dir PATH           Destination for purified tests (required)
+-f, --failing-tests TEST...  Space-separated test identifiers (required)
+--disable-slicing            Disable dynamic slicing (slicing enabled by default)
+--test-base PATH             Base directory for tests (default: src-dir)
+--python PATH                Python executable (default: python)
+-v, --verbose                Enable verbose output
 ```
 
 ## API Reference
@@ -135,9 +158,9 @@ def purify_tests(
     failing_tests: List[str],
     enable_slicing: bool = False,
     test_base: Optional[Path] = None,
-    venv_python: str = "python",
+    venv_python: str = None,
     venv: Optional[dict] = None,
-) -> Dict[str, List[Path]]
+) -> Dict[str, List[tuple[Path, Optional[str]]]]
 ```
 
 **Parameters:**
@@ -146,19 +169,37 @@ def purify_tests(
 - `failing_tests`: List of test identifiers (e.g., `["test.py::test_func"]`)
 - `enable_slicing`: Whether to apply dynamic slicing (default: False)
 - `test_base`: Base directory for tests (default: src_dir)
-- `venv_python`: Python executable path (default: "python")
-- `venv`: Environment variables dict (default: os.environ)
+- `venv_python`: Python executable path (default: None, uses sys.executable)
+- `venv`: Environment variables dict (default: None, uses os.environ)
 
 **Returns:**
-- Dict mapping test IDs to lists of purified test file paths
+- Dict mapping test IDs to lists of (purified_file, param_suffix) tuples
+- For parameterized tests, `param_suffix` contains parameter values
+- For non-parameterized tests, `param_suffix` is None
 
 ### PytestSlicer
 
 ```python
+from pathlib import Path
 from tcp import PytestSlicer
 
-slicer = PytestSlicer(test_file_path)
-results = slicer.slice_test("test.py::test_func", target_line=10)
+# Initialize slicer
+slicer = PytestSlicer(
+    test_file=Path("test.py"),
+    python_executable="python",  # Optional
+    env=None,                     # Optional: environment variables
+    base_dir=None,                # Optional: base directory
+)
+
+# Slice a test
+results = slicer.slice_test(
+    test_pattern="test_func",     # Optional: pytest pattern
+    target_line=10                # Optional: specific line to slice
+)
+
+# Access results
+print(f"Test file: {results['test_file']}")
+print(f"Slices: {results['slices']}")
 ```
 
 ## Development
@@ -196,8 +237,8 @@ black --check src/tcp tests/
 ## Requirements
 
 - Python 3.10+
-- pytest 8.3+
+- pytest 9.0+ (for testing)
 
 ## License
 
-MIT License - see LICENSE file for details.
+Apache License 2.0 - see LICENSE file for details.
