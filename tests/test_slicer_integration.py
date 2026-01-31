@@ -10,8 +10,8 @@ from pathlib import Path
 
 import pytest
 
-from tcp.purification import purify_tests
-from tcp.slicer import DynamicTracer, PytestSlicer
+from pyurify.purification import purify_tests
+from pyurify.slicer import DynamicTracer, PytestSlicer
 
 
 class TestSlicerIntegration:
@@ -61,8 +61,8 @@ def test_with_loop():
     def test_imports_successful(self):
         """Test that all necessary imports work correctly."""
         # Should not raise any ImportError
-        from tcp.slicer import PytestSlicer, DynamicTracer
-        from tcp.purification import purify_tests
+        from pyurify.slicer import PytestSlicer, DynamicTracer
+        from pyurify.purification import purify_tests
 
         assert PytestSlicer is not None
         assert DynamicTracer is not None

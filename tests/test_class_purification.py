@@ -34,7 +34,7 @@ class TestFindHooks:
 
 def test_function_finder():
     """Test that FunctionFinder can find test methods in classes."""
-    from tcp.purification import FunctionFinder
+    from pyurify.purification import FunctionFinder
 
     tree = ast.parse(TEST_CODE)
     finder = FunctionFinder(target_test="test_find_hook")
@@ -55,7 +55,7 @@ def test_function_finder():
 
 def test_single_assertion_extractor():
     """Test that SingleAssertionExtractor preserves class structure."""
-    from tcp.purification import SingleAssertionExtractor
+    from pyurify.purification import SingleAssertionExtractor
 
     tree = ast.parse(TEST_CODE)
     extractor = SingleAssertionExtractor("test_find_hook", target_assertion_line=14)
@@ -78,7 +78,7 @@ def test_single_assertion_extractor():
 
 def test_test_disabler():
     """Test that TestDisabler can disable class methods."""
-    from tcp.purification import TestDisabler
+    from pyurify.purification import TestDisabler
 
     tree = ast.parse(TEST_CODE)
     # NEW: TestDisabler takes list of (class_name, test_name) tuples
@@ -99,7 +99,7 @@ def test_test_disabler():
 
 def test_purify_tests_integration():
     """Test full purify_tests with class-based test."""
-    from tcp.purification import purify_tests
+    from pyurify.purification import purify_tests
 
     # Create temporary directories
     with tempfile.TemporaryDirectory() as tmpdir:

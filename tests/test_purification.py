@@ -5,7 +5,7 @@ Test that purification with slicing produces the correct output.
 
 from pathlib import Path
 import tempfile
-from tcp.purification import purify_tests
+from pyurify.purification import purify_tests
 
 test_code = """
 def test_three_calculations():

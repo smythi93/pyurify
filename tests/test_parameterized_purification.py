@@ -29,7 +29,7 @@ def process(value):
 
 def test_parametrize_finder():
     """Test that ParameterizeFinder can detect parametrize decorator."""
-    from tcp.purification import FunctionFinder
+    from pyurify.purification import FunctionFinder
 
     tree = ast.parse(TEST_CODE)
     finder = FunctionFinder(target_test="test_click_invocation")
@@ -78,7 +78,7 @@ def test_parameter_handling():
 
 def test_full_purify_parameterized():
     """Test full purify_tests with parameterized test."""
-    from tcp.purification import purify_tests
+    from pyurify.purification import purify_tests
 
     # Create temporary directories
     with tempfile.TemporaryDirectory() as tmpdir:

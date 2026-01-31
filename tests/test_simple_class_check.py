@@ -1,7 +1,7 @@
 """Test to verify SingleAssertionExtractor works with optional class_name parameter."""
 
 import ast
-from tcp.purification import SingleAssertionExtractor
+from pyurify.purification import SingleAssertionExtractor
 
 
 def test_extractor_with_none_class_name():

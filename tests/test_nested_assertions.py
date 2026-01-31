@@ -1,7 +1,7 @@
 """Test to verify SingleAssertionExtractor handles nested assertions correctly."""
 
 import ast
-from tcp.purification import SingleAssertionExtractor
+from pyurify.purification import SingleAssertionExtractor
 
 # Test case with nested assertions (like cookiecutter)
 CODE_WITH_NESTED_ASSERTIONS = """

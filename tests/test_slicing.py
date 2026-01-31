@@ -6,8 +6,8 @@ import ast
 import tempfile
 from pathlib import Path
 
-from tcp.purification import purify_tests
-from tcp.slicer import DynamicTracer
+from pyurify.purification import purify_tests
+from pyurify.slicer import DynamicTracer
 
 
 def test_slicing_basic():

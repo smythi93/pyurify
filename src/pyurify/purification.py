@@ -6,6 +6,24 @@ The main phases are:
 1. Test Case Atomization - Create single-assertion tests with try-except
 2. Test Case Slicing - Use dynamic slicing to remove irrelevant statements
 3. Rank Refinement - Combine original scores with purified test spectra
+
+Classes and Functions:
+- AtomizedTest: Represents an atomized test with one target assertion.
+- ParameterizeInfo: Information about pytest.mark.parametrize decorators.
+- ParameterizeFinder: Finds pytest.mark.parametrize decorators.
+- AssertionFinder: Finds all assertions in a test function.
+- FunctionFinder: Finds test functions in a module.
+- AssertionAtomizer: Transforms tests to neutralize non-target assertions.
+- SingleAssertionExtractor: Extracts a single assertion from a test function.
+- TestFunctionFilter: Filters AST to keep only the target test function.
+- StatementFilter: Filters AST to keep only relevant statements.
+- TestDisabler: Renames test functions to disable them.
+- rank_refinement: Refines rankings based on purified test spectra.
+- purify_tests: Main function to purify failing tests.
+
+Usage:
+    from pyurify import purify_tests
+    result = purify_tests(src_dir, dst_dir, failing_tests, enable_slicing=True)
 """
 
 import ast
@@ -25,13 +43,23 @@ from .slicer import PytestSlicer
 
 
 def safe_name(s: str):
+    """
+    Generate a safe filename from a string by replacing punctuation and spaces.
+
+    :param s: Input string to sanitize.
+    :returns: Sanitized string suitable for filenames.
+    """
+    # Encode to ASCII, ignore non-ASCII characters
     s = s.encode("ascii", "ignore")
     if len(s) > 255:
+        # If too long, use MD5 hash
         return hashlib.md5(s).hexdigest()
     s = s.decode("ascii")
+    # Replace punctuation with underscores
     for c in string.punctuation:
         if c in s:
             s = s.replace(c, "_")
+    # Replace spaces with underscores
     s = s.replace(" ", "_")
     return s
 
@@ -45,12 +73,11 @@ class AtomizedTest:
     - Keeping all function calls to preserve side effects
     - Maintaining the exact same line structure as the original test
 
-    Attributes:
-        code: The atomized test code
-        assertion_line: Line number of the target assertion (in original file)
-        failing_line: Line number where the failure actually occurred (may differ from assertion_line)
-        test_name: Name of the test function
-        class_name: Name of the containing class (None for module-level functions)
+    :param code: The atomized test code.
+    :param assertion_line: Line number of the target assertion (in original file).
+    :param test_name: Name of the test function.
+    :param class_name: Name of the containing class (None for module-level functions).
+    :param failing_line: Line number where the failure actually occurred (may differ from assertion_line).
     """
 
     def __init__(
@@ -61,10 +88,15 @@ class AtomizedTest:
         class_name: Optional[str] = None,
         failing_line: Optional[int] = None,
     ):
+        # Store the atomized test code
         self.code = code
+        # Line number of the target assertion in the original file
         self.assertion_line = assertion_line
+        # Line number where the failure actually occurred (may differ)
         self.failing_line = failing_line if failing_line is not None else assertion_line
+        # Name of the test function
         self.test_name = test_name
+        # Name of the containing class (if any)
         self.class_name = class_name
 
 
@@ -74,26 +106,44 @@ class AtomizedTest:
 
 
 class ParameterizeInfo:
-    """Information about a pytest.mark.parametrize decorator."""
+    """
+    Information about a pytest.mark.parametrize decorator.
+
+    :param param_names: List of parameter names.
+    :param param_values: List of parameter values (extracted later).
+    """
 
     def __init__(self, param_names: list[str], param_values: list):
+        # Store parameter names
         self.param_names = param_names
+        # Store parameter values (to be filled later)
         self.param_values = param_values
 
 
 class ParameterizeFinder(ast.NodeVisitor):
-    """Find pytest.mark.parametrize decorators on a test function."""
+    """
+    Find pytest.mark.parametrize decorators on a test function.
+
+    :param parametrize_info: Information about the parametrize decorator found.
+    """
 
     def __init__(self):
+        # Initialize to None, will be set if found
         self.parametrize_info: Optional[ParameterizeInfo] = None
 
     @staticmethod
     def extract_parametrize_info(decorator: ast.expr) -> Optional[ParameterizeInfo]:
-        """Extract parameter info from @pytest.mark.parametrize decorator."""
+        """
+        Extract parameter info from @pytest.mark.parametrize decorator.
+
+        :param decorator: The decorator AST node.
+        :returns: ParameterizeInfo if found, None otherwise.
+        """
+        # Check if it's a Call node (function call)
         if not isinstance(decorator, ast.Call):
             return None
 
-        # Check if this is pytest.mark.parametrize
+        # Check if it's pytest.mark.parametrize
         if isinstance(decorator.func, ast.Attribute):
             if (
                 isinstance(decorator.func.value, ast.Attribute)
@@ -123,27 +173,42 @@ class ParameterizeFinder(ast.NodeVisitor):
 
 
 class AssertionFinder(ast.NodeVisitor):
-    """Find all assertions in a test function."""
+    """
+    Find all assertions in a test function.
+
+    :param assertions: List of (line_number, ast_node) tuples for assertions.
+    """
 
     def __init__(self):
+        # List to store found assertions
         self.assertions: list[tuple[int, ast.AST]] = []  # (line_number, node)
 
     def visit_Assert(self, node: ast.Assert):
         """Visit assert statements."""
+        # Add the assertion to the list
         self.assertions.append((node.lineno, node))
+        # Continue visiting children
         self.generic_visit(node)
 
     def visit_Expr(self, node: ast.Expr):
         """Visit expression statements (for pytest assertions like assert_equal)."""
+        # Check if it's a call to an assertion function
         if isinstance(node.value, ast.Call):
             func_name = self._get_func_name(node.value.func)
             if func_name and "assert" in func_name.lower():
+                # Add the assertion to the list
                 self.assertions.append((node.lineno, node))
+        # Continue visiting children
         self.generic_visit(node)
 
     @staticmethod
     def _get_func_name(node):
-        """Extract function name from a call node."""
+        """
+        Extract function name from a call node.
+
+        :param node: The function call node.
+        :returns: Function name as string or None.
+        """
         if isinstance(node, ast.Name):
             return node.id
         elif isinstance(node, ast.Attribute):
@@ -152,12 +217,23 @@ class AssertionFinder(ast.NodeVisitor):
 
 
 class FunctionFinder(ast.NodeVisitor):
-    """Find test functions in a module (including methods in test classes)."""
+    """
+    Find test functions in a module (including methods in test classes).
+
+    :param test_functions: Dictionary of test function names to AST nodes.
+    :param test_classes: Dictionary of test class names to AST nodes.
+    :param target_test: Optional target test name to filter.
+    :param current_class: Current class being visited.
+    """
 
     def __init__(self, target_test: Optional[str] = None):
+        # Dictionary to store test functions
         self.test_functions: dict[str, ast.FunctionDef] = {}
+        # Dictionary to store test classes
         self.test_classes: dict[str, ast.ClassDef] = {}
+        # Optional target test to filter
         self.target_test = target_test
+        # Current class context
         self.current_class = None
 
     def visit_ClassDef(self, node: ast.ClassDef):
@@ -166,6 +242,7 @@ class FunctionFinder(ast.NodeVisitor):
         old_class = self.current_class
         # Any class can contain test methods, not just those starting with "Test"
         self.current_class = node
+        # Store the class
         self.test_classes[node.name] = node
 
         # Visit children (test methods inside the class)
@@ -176,8 +253,10 @@ class FunctionFinder(ast.NodeVisitor):
 
     def visit_FunctionDef(self, node: ast.FunctionDef):
         """Visit function definitions (including methods)."""
+        # Check if it's a test function
         if node.name.startswith("test_"):
             if self.target_test is None or node.name == self.target_test:
+                # Store the test function
                 self.test_functions[node.name] = node
                 # Store reference to parent class if inside a class
                 if self.current_class is not None:
@@ -189,8 +268,10 @@ class FunctionFinder(ast.NodeVisitor):
                     param_info = ParameterizeFinder.extract_parametrize_info(decorator)
                     if param_info:
                         break
+                # Store parametrize info on the node
                 node._parametrize_info = param_info
 
+        # Continue visiting children
         self.generic_visit(node)
 
 
@@ -205,26 +286,38 @@ class AssertionAtomizer(ast.NodeTransformer):
     - The target assertion runs normally and can fail if it should
 
     Handles both module-level functions and class methods.
+
+    :param target_assertion_line: Line number of the target assertion.
+    :param in_target_function: Flag indicating if we're in the target function.
+    :param in_class: Flag indicating if we're in a class.
     """
 
     def __init__(self, target_assertion_line: int):
+        # Line number of the target assertion
         self.target_assertion_line = target_assertion_line
+        # Flag for being in the target function
         self.in_target_function = False
+        # Flag for being in a class
         self.in_class = False
 
     def visit_ClassDef(self, node: ast.ClassDef):
         """Visit class definitions."""
         # Any class can contain test methods
         self.in_class = True
+        # Visit children
         node = self.generic_visit(node)
         self.in_class = False
         return node
 
     def visit_FunctionDef(self, node: ast.FunctionDef):
         """Visit function definitions."""
+        # Check if it's a test function
         if node.name.startswith("test_"):
+            # Enter the target function
             self.in_target_function = True
+            # Visit children
             node = self.generic_visit(node)
+            # Exit the target function
             self.in_target_function = False
             return node
         # Keep non-test methods in classes (like setup_method, teardown_method)
@@ -281,7 +374,12 @@ class AssertionAtomizer(ast.NodeTransformer):
 
     @staticmethod
     def _get_func_name(node):
-        """Extract function name from a call node."""
+        """
+        Extract function name from a call node.
+
+        :param node: The function call node.
+        :returns: Function name as string or None.
+        """
         if isinstance(node, ast.Name):
             return node.id
         elif isinstance(node, ast.Attribute):
@@ -295,6 +393,13 @@ class SingleAssertionExtractor(ast.NodeTransformer):
     This creates a clean test with only one assertion (no try-except).
     Handles both module-level functions and class methods.
     REMOVES all other test functions to keep only the target test.
+
+    :param target_test_name: Name of the target test function.
+    :param target_assertion_line: Line number of the target assertion.
+    :param target_class_name: Optional name of the containing class.
+    :param in_target_function: Flag indicating if we're in the target function.
+    :param found_target: Flag indicating if the target assertion was found.
+    :param current_class_name: Name of the current class being visited.
     """
 
     def __init__(
@@ -303,11 +408,17 @@ class SingleAssertionExtractor(ast.NodeTransformer):
         target_assertion_line: int,
         target_class_name: Optional[str] = None,
     ):
+        # Name of the target test function
         self.target_test_name = target_test_name
+        # Line number of the target assertion
         self.target_assertion_line = target_assertion_line
+        # Optional class name
         self.target_class_name = target_class_name
+        # Flag for being in the target function
         self.in_target_function = False
+        # Flag for finding the target
         self.found_target = False
+        # Current class name
         self.current_class_name = None
 
     def visit_ClassDef(self, node: ast.ClassDef):
@@ -315,12 +426,14 @@ class SingleAssertionExtractor(ast.NodeTransformer):
         # Any class can contain test methods
         old_class_name = self.current_class_name
         self.current_class_name = node.name
+        # Visit children
         self.generic_visit(node)
         self.current_class_name = old_class_name
         return node
 
     def visit_FunctionDef(self, node: ast.FunctionDef):
         """Visit function definitions."""
+        # Check if it's a test function
         if node.name.startswith("test_"):
             # This is a test function
             if (
@@ -383,7 +496,12 @@ class SingleAssertionExtractor(ast.NodeTransformer):
 
     @staticmethod
     def _get_func_name(node):
-        """Extract function name from a call node."""
+        """
+        Extract function name from a call node.
+
+        :param node: The function call node.
+        :returns: Function name as string or None.
+        """
         if isinstance(node, ast.Name):
             return node.id
         elif isinstance(node, ast.Attribute):
@@ -421,13 +539,10 @@ def rank_refinement(
     """
     Refine rankings based on purified test spectra.
 
-    Args:
-        original_scores: dictionary mapping statements to suspiciousness scores
-        purified_spectra: list of spectra (dicts mapping statements to coverage bools)
-        technique: "combined", "ratio_only", or "original_only"
-
-    Returns:
-        dictionary mapping statements to refined scores
+    :param original_scores: Dictionary mapping statements to suspiciousness scores.
+    :param purified_spectra: List of spectra (dicts mapping statements to coverage bools).
+    :param technique: "combined", "ratio_only", or "original_only".
+    :returns: Dictionary mapping statements to refined scores.
     """
     if not original_scores:
         return {}
@@ -504,12 +619,9 @@ def _resolve_test_file_path(test_base: Path, test_file_rel: str) -> Path:
         test_base='tmp/cookiecutter_2/tests/t', test_file_rel='t/test_hooks.py'
         -> 'tmp/cookiecutter_2/tests/t/test_hooks.py'
 
-    Args:
-        test_base: Base directory for tests
-        test_file_rel: Relative test file path from test identifier
-
-    Returns:
-        Resolved absolute path to test file
+    :param test_base: Base directory for tests.
+    :param test_file_rel: Relative test file path from test identifier.
+    :returns: Resolved absolute path to test file.
     """
     test_base = Path(test_base)
     # Fix: If test_base is a file, use its parent directory
@@ -564,13 +676,10 @@ def _remove_other_test_functions(
     This is used when slicing is not available/fails, but we still want to
     remove unnecessary test functions from the file.
 
-    Args:
-        original_code: Original test code
-        test_name: Name of the test function to keep
-        class_name: Optional name of the class containing the test
-
-    Returns:
-        Code with only the target test function (and necessary imports/fixtures)
+    :param original_code: Original test code.
+    :param test_name: Name of the test function to keep.
+    :param class_name: Optional name of the class containing the test.
+    :returns: Code with only the target test function (and necessary imports/fixtures).
     """
     tree = ast.parse(original_code)
 
@@ -593,14 +702,11 @@ def _build_sliced_code(
     This function uses AST-based filtering to preserve syntactic correctness
     while removing irrelevant statements.
 
-    Args:
-        original_code: Original test code
-        relevant_lines: Set of relevant line numbers (from slicer)
-        test_name: Name of the test function
-        class_name: Optional name of the class containing the test
-
-    Returns:
-        Sliced code as a string
+    :param original_code: Original test code.
+    :param relevant_lines: Set of relevant line numbers (from slicer).
+    :param test_name: Name of the test function.
+    :param class_name: Optional name of the class containing the test.
+    :returns: Sliced code as a string.
     """
     tree = ast.parse(original_code)
 
@@ -618,17 +724,24 @@ class TestFunctionFilter(ast.NodeTransformer):
     This is used when slicing is not available but we still want to remove
     unnecessary test functions. Unlike StatementFilter, this does NOT filter
     statements within the test function.
+
+    :param test_name: Name of the target test function.
+    :param class_name: Optional name of the containing class.
+    :param in_target_class: Flag indicating if we're in the target class.
     """
 
     def __init__(self, test_name: str, class_name: Optional[str] = None):
+        # Name of the target test function
         self.test_name = test_name
+        # Optional class name
         self.class_name = class_name
+        # Flag for being in the target class
         self.in_target_class = False
 
     def visit_FunctionDef(self, node: ast.FunctionDef) -> Optional[ast.FunctionDef]:
         """Visit function definitions."""
         if node.name == self.test_name:
-            # This is our test functio
+            # This is our test function
             return node
         elif node.name.startswith("test_"):
             return None
@@ -653,14 +766,23 @@ class StatementFilter(ast.NodeTransformer):
     - Keeping function/class definitions that contain relevant statements
     - Keeping import statements (they're usually needed)
     - Removing statements not in the relevant set
+
+    :param relevant_lines: Set of relevant line numbers.
+    :param test_name: Name of the test function.
+    :param class_name: Optional name of the containing class.
+    :param in_target_test: Flag indicating if we're in the target test.
     """
 
     def __init__(
         self, relevant_lines: Set[int], test_name: str, class_name: Optional[str] = None
     ):
+        # Set of relevant line numbers
         self.relevant_lines = relevant_lines
+        # Name of the test function
         self.test_name = test_name
+        # Optional class name
         self.class_name = class_name
+        # Flag for being in the target test
         self.in_target_test = False
 
     def visit_FunctionDef(self, node: ast.FunctionDef) -> Optional[ast.FunctionDef]:
@@ -773,6 +895,12 @@ class StatementFilter(ast.NodeTransformer):
 
 
 def _install_and_verify_packages(venv_python: str, venv: dict[str, str]):
+    """
+    Check if required pytest plugins are installed in the venv and install if not.
+
+    :param venv_python: Path to Python executable in virtual environment.
+    :param venv: Environment variables for subprocess.
+    """
     # Check if required pytest plugins are installed in the venv and install if not
     if venv_python is None:
         venv_python = "python"
@@ -835,17 +963,14 @@ def purify_tests(
     """
     Purify failing tests.
 
-    Args:
-        src_dir: Source directory containing tests
-        dst_dir: Destination directory for purified tests
-        failing_tests: List of failing test identifiers (e.g., "test_file.py::test_name[params]")
-        enable_slicing: Whether to enable dynamic slicing
-        test_base: Base directory for tests (defaults to src_dir if None)
-        venv_python: Path to virtual environment Python (defaults to sys.executable)
-        venv: Environment variables for subprocesses (defaults to os.environ)
-
-    Returns:
-        Dictionary mapping test identifiers to lists of (purified_file, param_suffix) tuples.
+    :param src_dir: Source directory containing tests.
+    :param dst_dir: Destination directory for purified tests.
+    :param failing_tests: List of failing test identifiers (e.g., "test_file.py::test_name[params]").
+    :param enable_slicing: Whether to enable dynamic slicing.
+    :param test_base: Base directory for tests (defaults to src_dir if None).
+    :param venv_python: Path to virtual environment Python (defaults to sys.executable).
+    :param venv: Environment variables for subprocesses (defaults to os.environ).
+    :returns: Dictionary mapping test identifiers to lists of (purified_file, param_suffix) tuples.
         For parameterized tests, param_suffix contains the parameter values (e.g., "param1-param2").
         For non-parameterized tests, param_suffix is None.
     """
@@ -1155,13 +1280,10 @@ def _extract_failing_line_from_junit_xml(
 
     For multi-line assertions, maps the failing line to the assertion's start line.
 
-    Args:
-        junit_xml_path: Path to the JUnit XML report file
-        test_file_path: Path to the test file (to filter traceback entries)
-        assertions: List of (line_number, ast_node) tuples for assertions in original file
-
-    Returns:
-        Line number (start line) of the failing assertion, or None if not found
+    :param junit_xml_path: Path to the JUnit XML report file.
+    :param test_file_path: Path to the test file (to filter traceback entries).
+    :param assertions: List of (line_number, ast_node) tuples for assertions in original file.
+    :returns: Line number (start line) of the failing assertion, or None if not found.
     """
 
     try:
@@ -1216,12 +1338,9 @@ def _map_to_assertion_start_line(
     This handles multi-line assertions where the failure might occur on any line
     within the assertion, but we need to return the start line for comparison.
 
-    Args:
-        failing_line: The line number where the failure occurred
-        assertions: List of (start_line, ast_node) tuples
-
-    Returns:
-        The start line of the assertion containing the failing line, or the failing_line itself
+    :param failing_line: The line number where the failure occurred.
+    :param assertions: List of (start_line, ast_node) tuples.
+    :returns: The start line of the assertion containing the failing line, or the failing_line itself.
     """
     for assertion_start, assertion_node in assertions:
         # Get the end line of this assertion
@@ -1255,16 +1374,13 @@ def _find_failing_assertions(
     - Side effects from all assertions
     - Ability to run and detect which assertion fails
 
-    Args:
-        test_file: Path to the original test file
-        assertions: List of (line_number, ast_node) tuples for assertions
-        test_pattern: Pytest pattern for the specific test (e.g., "TestClass::test_method")
-        src_dir: Source directory for running tests
-        venv_python: Path to Python executable
-        venv: Environment variables for subprocess
-
-    Returns:
-        Dictionary mapping assertion line numbers to AtomizedTest objects.
+    :param test_file: Path to the original test file.
+    :param assertions: List of (line_number, ast_node) tuples for assertions.
+    :param test_pattern: Pytest pattern for the specific test (e.g., "TestClass::test_method").
+    :param src_dir: Source directory for running tests.
+    :param venv_python: Path to Python executable.
+    :param venv: Environment variables for subprocess.
+    :returns: Dictionary mapping assertion line numbers to AtomizedTest objects.
         Key = assertion_line (the target assertion being tested)
         Value = AtomizedTest (contains code, assertion_line, failing_line, etc.)
     """
@@ -1377,10 +1493,17 @@ def _find_failing_assertions(
 
 
 class TestDisabler(ast.NodeTransformer):
-    """Rename a test function to disable it (handles both module-level and class methods)."""
+    """
+    Rename a test function to disable it (handles both module-level and class methods).
+
+    :param tests: List of (class_name, test_name) tuples to disable.
+    :param current_class: Name of the current class being visited.
+    """
 
     def __init__(self, tests: list[tuple[Optional[str], str]]):
+        # List of tests to disable
         self.tests = tests
+        # Current class context
         self.current_class = None
 
     def visit_ClassDef(self, node: ast.ClassDef):

@@ -18,7 +18,7 @@ from pathlib import Path
 
 import pytest
 
-from tcp.slicer import PytestSlicer
+from pyurify.slicer import PytestSlicer
 
 
 class TestSlicerFunctionality:

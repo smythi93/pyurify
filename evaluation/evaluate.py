@@ -33,8 +33,8 @@ from tests4py.sfl import (
 from tests4py.sfl.constants import DEFAULT_EXCLUDES
 from tests4py.tests.utils import get_pytest_skip
 
-from tcp import purify_tests
-from tcp.purification import rank_refinement
+from pyurify import purify_tests
+from pyurify.purification import rank_refinement
 
 
 def parse_test_id(test_id: str) -> tuple:
@@ -336,10 +336,10 @@ def collect(
     project: Project,
     identifier: str,
     report: dict,
-    tcp: bool = False,
+    purification: bool = False,
 ):
     sfl_path = Path("tmp", f"sfl_{identifier}")
-    if tcp:
+    if purification:
         events_base = Path(
             "sflkit_events", project.project_name, "tcp", str(project.bug_id)
         )
@@ -359,7 +359,7 @@ def collect(
         report[identifier]["test"] = "successful"
 
         # For TCP, save mapping of event files to purified test names
-        if tcp and (events_base / "failing").exists():
+        if purification and (events_base / "failing").exists():
             test_event_mapping = {}
             # Map each event file to its corresponding test name
             # Event files are numbered starting from 0
@@ -450,7 +450,7 @@ def get_events(
                     project,
                     identifier,
                     report,
-                    tcp=False,
+                    purification=False,
                 )
 
                 if events_path is None:
@@ -471,7 +471,7 @@ def get_events(
                     project,
                     identifier,
                     report,
-                    tcp=True,
+                    purification=True,
                 )
                 if events_path is None:
                     report[identifier]["status"] = "error"
@@ -541,10 +541,10 @@ def analyze_project(
     project: Project,
     analysis_file: os.PathLike,
     report: dict,
-    tcp: bool = False,
+    purification: bool = False,
 ) -> Analyzer:
     os.makedirs("analysis", exist_ok=True)
-    if tcp:
+    if purification:
         events = Path(
             "sflkit_events",
             project.project_name,
@@ -570,13 +570,13 @@ def analyze_project(
         factory=LineFactory(),
     )
     analyzer.analyze()
-    report[project.get_identifier()][f"lines{'_tcp' if tcp else ''}"] = (
+    report[project.get_identifier()][f"lines{'_tcp' if purification else ''}"] = (
         time.time() - start
     )
     analyzer.dump(analysis_file, indent=1)
 
     # For TCP, extract and save purified spectra
-    if tcp:
+    if purification:
         identifier = project.get_identifier()
         purified_spectra = []
 
@@ -640,12 +640,12 @@ def analyze(project_name, bug_id=None):
             continue
         project.buggy = True
         report[project.get_identifier()] = dict()
-        for tcp in [True, False]:
-            suffix = "_tcp" if tcp else ""
+        for purification in [True, False]:
+            suffix = "_tcp" if purification else ""
             analysis_file = Path("analysis", f"{project}{suffix}.json")
             if analysis_file.exists():
                 continue
-            analyze_project(project, analysis_file, report, tcp=tcp)
+            analyze_project(project, analysis_file, report, purification=purification)
 
     with open(report_dir / f"analysis_{project_name}.json", "w") as f:
         json.dump(report, f, indent=1)
@@ -658,7 +658,7 @@ def get_results_for_type(
     location,
     faulty_lines,
     eval_metric=max,
-    tcp=False,
+    purification=False,
 ):
     results = dict()
     times = dict()
@@ -672,7 +672,7 @@ def get_results_for_type(
         times[metric.__name__] = time.time() - time_start
 
         # If TCP, adjust ranks using rank_refinement
-        if tcp:
+        if purification:
             try:
                 # Build mapping: statement string -> (original Suggestion, Location)
                 stmt_to_location = {}
@@ -781,8 +781,8 @@ def evaluate(project_name, bug_id, start=None, end=None):
             if not report.successful:
                 raise report.raised
             location = report.location
-        for tcp in [True, False]:
-            suffix = "_tcp" if tcp else ""
+        for purification in [True, False]:
+            suffix = "_tcp" if purification else ""
             analysis_file = Path("analysis", f"{project}{suffix}.json")
             if analysis_file.exists():
                 analyzer = Analyzer.load(analysis_file)
@@ -793,7 +793,12 @@ def evaluate(project_name, bug_id, start=None, end=None):
                 subject_results[f"line{suffix}"],
                 subject_times[f"line{suffix}"],
             ) = get_results_for_type(
-                AnalysisType.LINE, analyzer, project, location, faulty_lines, tcp=tcp
+                AnalysisType.LINE,
+                analyzer,
+                project,
+                location,
+                faulty_lines,
+                purification=purification,
             )
         results[project.get_identifier()] = subject_results
         time_report[project.get_identifier()] = subject_times
@@ -825,14 +830,14 @@ def summarize_all():
     results = {
         "subjects": list(),
         **{
-            f"line{'_tcp' if tcp else ''}": {
+            f"line{'_tcp' if purification else ''}": {
                 metric: {
                     scenario: {m: {"avg": 0.0, "all": list()} for m in localizations}
                     for scenario in scenarios
                 }
                 for metric in metrics
             }
-            for tcp in [False, True]
+            for purification in [False, True]
         },
     }
     number_of_subjects = 0
@@ -846,8 +851,8 @@ def summarize_all():
             for s in subject_data:
                 results["subjects"].append(s)
                 number_of_subjects += 1
-                for tcp in [False, True]:
-                    t = f"line{'_tcp' if tcp else ''}"
+                for purification in [False, True]:
+                    t = f"line{'_tcp' if purification else ''}"
                     for m in metrics:
                         for sce in scenarios:
                             for loc in localizations:
@@ -855,8 +860,8 @@ def summarize_all():
                                     subject_data[s][t][m][sce][loc]
                                 )
 
-    for tcp in [False, True]:
-        t = f"line{'_tcp' if tcp else ''}"
+    for purification in [False, True]:
+        t = f"line{'_tcp' if purification else ''}"
         for m in metrics:
             for sce in scenarios:
                 for loc in localizations:

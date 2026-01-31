@@ -6,7 +6,7 @@ import ast
 import tempfile
 from pathlib import Path
 
-from tcp.purification import (
+from pyurify.purification import (
     AssertionFinder,
     FunctionFinder,
     AssertionAtomizer,

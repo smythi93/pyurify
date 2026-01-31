@@ -4,11 +4,6 @@ Dynamic Slicer for Python Test Code
 This module implements dynamic slicing using execution tracing and dependency tracking.
 It builds a dynamic dependency graph from actual test execution and can slice test code
 to include only statements relevant to specific assertions.
-
-Usage:
-    python -m pwfl_eval.slicer pytest test.py
-    python -m pwfl_eval.slicer pytest test.py::test_function
-    python -m pwfl_eval.slicer pytest test.py::TestClass::test_method
 """
 
 from __future__ import annotations
@@ -17,18 +12,22 @@ import ast
 import json
 import subprocess
 import sys
-import coverage
 from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, Set, List, Tuple, Optional, Any
 
-from tcp.logger import LOGGER
+from pyurify.logger import LOGGER
 
 
 @dataclass
 class Variable:
-    """Represents a variable in the program."""
+    """
+    Represents a variable in the program.
+
+    :param name: The name of the variable.
+    :param scope: The scope of the variable (e.g., function name or 'global').
+    """
 
     name: str
     scope: str  # function name or 'global'
@@ -46,7 +45,15 @@ class Variable:
 
 @dataclass
 class Statement:
-    """Represents a statement with its dependencies."""
+    """
+    Represents a statement with its dependencies.
+
+    :param line: The line number of the statement in the source code.
+    :param code: The source code of the statement.
+    :param defines: Variables defined by this statement.
+    :param uses: Variables used by this statement.
+    :param control_deps: Control dependencies for this statement.
+    """
 
     line: int
     code: str
@@ -62,7 +69,14 @@ class Statement:
 
 @dataclass
 class DependencyGraph:
-    """Dynamic dependency graph built from execution trace."""
+    """
+    Dynamic dependency graph built from execution trace.
+
+    :param statements: A dictionary mapping line numbers to statements.
+    :param data_deps: Data dependencies between lines.
+    :param control_deps: Control dependencies between lines.
+    :param executed_lines: Lines executed during the test run.
+    """
 
     statements: Dict[int, Statement] = field(default_factory=dict)
     data_deps: Dict[int, Set[int]] = field(
@@ -128,6 +142,7 @@ class DependencyGraph:
 class VariableTracker(ast.NodeVisitor):
     """
     Static AST visitor to track variable definitions and uses.
+
     This is STATIC ANALYSIS - done once before tracing, not during execution.
 
     Simplified approach: just check ast.Store vs ast.Load context on Name nodes.
@@ -177,7 +192,14 @@ class VariableTracker(ast.NodeVisitor):
 
 
 class DynamicTracer:
-    """Traces test execution to build dynamic dependency graph."""
+    """
+    Traces test execution to build dynamic dependency graph.
+
+    :param test_file: Path to the test file to analyze.
+    :param python_executable: Path to the Python executable to use.
+    :param env: Optional environment variables for the subprocess.
+    :param base_dir: Base directory for the test file.
+    """
 
     def __init__(
         self,
@@ -186,33 +208,29 @@ class DynamicTracer:
         env: Optional[Dict[str, str]] = None,
         base_dir: Optional[Path] = None,
     ):
+        # Store the test file path
         self.test_file = test_file
+        # Set base directory, default to test file's parent
         self.base_dir = base_dir or test_file.parent  # Default to test file directory
+        # Initialize dependency graph
         self.graph = DependencyGraph()
+        # Set Python executable, default to sys.executable
         self.python_executable = python_executable or sys.executable
+        # Store environment variables
         self.env = env
+        # Track variable definitions
         self.var_definitions: Dict[Variable, int] = (
             {}
         )  # variable -> line where last defined
-        self.current_scope = "global"
-        self.control_stack: List[int] = []  # stack of controlling conditions
 
     def trace_execution(self, test_pattern: Optional[str] = None) -> DependencyGraph:
         """
         Execute tests with coverage tracking and build dependency graph.
 
-        Uses pytest-cov to collect coverage data via subprocess (supports venv).
-
-        This performs DYNAMIC ANALYSIS (runtime):
-        - Which lines were actually executed (via coverage.py)
-
-        STATIC ANALYSIS is done BEFORE tracing:
-        - Variable definitions/uses (from AST)
-        - Control dependencies (from AST)
-
-        Args:
-            test_pattern: Optional pytest pattern (e.g., "test.py::test_func")
+        :param test_pattern: Optional pytest pattern (e.g., "test.py::test_func").
+        :returns: A DependencyGraph object representing the test execution.
         """
+        # Log the analysis start
         LOGGER.info(f"Analyzing test file: {self.test_file}")
 
         # STATIC ANALYSIS - Parse AST once before tracing
@@ -241,7 +259,7 @@ class DynamicTracer:
             test_file_abs = self.test_file.resolve()
 
             # Get absolute path for tcpcov file
-            tcpcov_py = Path(__file__).parent.absolute() / "tcpcov.py"
+            tcpcov_py = Path(__file__).parent.absolute() / "pcov.py"
 
             cmd = [
                 self.python_executable,
@@ -262,6 +280,7 @@ class DynamicTracer:
             env["TCP_COVERAGE_FILE"] = str(coverage_data_file)
 
             try:
+                # Log the coverage run
                 LOGGER.debug(f"Running coverage: {test_pattern or 'all tests'}")
                 LOGGER.debug(f"Working directory: {self.base_dir}")
                 LOGGER.debug(f"Test file: {test_file_abs}")
@@ -311,11 +330,8 @@ class DynamicTracer:
         """
         Parse coverage.py data file to extract executed lines.
 
-        Args:
-            coverage_file: Path to .coverage data file
-
-        Returns:
-            Set of executed line numbers for the test file
+        :param coverage_file: Path to .coverage data file.
+        :returns: Set of executed line numbers for the test file.
         """
         if not coverage_file.exists():
             LOGGER.warning(f"Coverage file not found: {coverage_file}")
@@ -342,11 +358,11 @@ class DynamicTracer:
         """
         Build dependency graph from trace data and static variable analysis.
 
-        Args:
-            trace_data: Dynamic trace data (executed lines)
-            variable_events: Static variable analysis (from AST)
-            source_code: Source code of the test file
+        :param trace_data: Dynamic trace data (executed lines).
+        :param variable_events: Static variable analysis (from AST).
+        :param source_code: Source code of the test file.
         """
+
         source_lines = source_code.splitlines()
 
         # Mark executed lines (DYNAMIC)
@@ -384,9 +400,11 @@ class DynamicTracer:
     def _add_control_dependencies(self):
         """
         Add control dependencies by analyzing code structure.
+
         This is STATIC ANALYSIS - done once at analysis time, not during execution.
         Much more efficient than doing it at runtime.
         """
+
         with open(self.test_file) as f:
             tree = ast.parse(f.read())
 
@@ -396,73 +414,96 @@ class DynamicTracer:
 
 
 class ControlFlowVisitor(ast.NodeVisitor):
-    """Visitor to add control dependencies to the graph."""
+    """
+    Visitor to add control dependencies to the graph.
+
+    :param graph: The DependencyGraph object to update with control dependencies.
+    """
 
     def __init__(self, graph: DependencyGraph):
+        # Store the dependency graph
         self.graph = graph
+        # Initialize control stack
         self.control_stack: List[int] = []
 
     def visit_If(self, node: ast.If):
         """Add control dependencies for if statements."""
-        control_line = node.lineno
-        self.control_stack.append(control_line)
+        if isinstance(node, ast.AST) and hasattr(node, "lineno"):
+            control_line = node.lineno
+            self.control_stack.append(control_line)
 
-        # All statements in body depend on the condition
-        for stmt in ast.walk(node):
-            if hasattr(stmt, "lineno") and stmt.lineno != control_line:
-                self.graph.add_control_dependency(stmt.lineno, control_line)
+            # All statements in body depend on the condition
+            for stmt in ast.walk(node):
+                if (
+                    isinstance(stmt, ast.AST)
+                    and hasattr(stmt, "lineno")
+                    and stmt.lineno != control_line
+                ):
+                    self.graph.add_control_dependency(stmt.lineno, control_line)  # type: ignore[attr-defined]
 
-        self.generic_visit(node)
-        self.control_stack.pop()
+            self.generic_visit(node)
+            self.control_stack.pop()
 
     def visit_For(self, node: ast.For):
         """Add control dependencies for for loops."""
-        control_line = node.lineno
-        self.control_stack.append(control_line)
+        if isinstance(node, ast.AST) and hasattr(node, "lineno"):
+            control_line = node.lineno
+            self.control_stack.append(control_line)
 
-        for stmt in ast.walk(node):
-            if hasattr(stmt, "lineno") and stmt.lineno != control_line:
-                self.graph.add_control_dependency(stmt.lineno, control_line)
+            for stmt in ast.walk(node):
+                if (
+                    isinstance(stmt, ast.AST)
+                    and hasattr(stmt, "lineno")
+                    and stmt.lineno != control_line
+                ):
+                    self.graph.add_control_dependency(stmt.lineno, control_line)  # type: ignore[attr-defined]
 
-        self.generic_visit(node)
-        self.control_stack.pop()
+            self.generic_visit(node)
+            self.control_stack.pop()
 
     def visit_While(self, node: ast.While):
         """Add control dependencies for while loops."""
-        control_line = node.lineno
-        self.control_stack.append(control_line)
+        if isinstance(node, ast.AST) and hasattr(node, "lineno"):
+            control_line = node.lineno
+            self.control_stack.append(control_line)
 
-        for stmt in ast.walk(node):
-            if hasattr(stmt, "lineno") and stmt.lineno != control_line:
-                self.graph.add_control_dependency(stmt.lineno, control_line)
+            for stmt in ast.walk(node):
+                if (
+                    isinstance(stmt, ast.AST)
+                    and hasattr(stmt, "lineno")
+                    and stmt.lineno != control_line
+                ):
+                    self.graph.add_control_dependency(stmt.lineno, control_line)  # type: ignore[attr-defined]
 
-        self.generic_visit(node)
-        self.control_stack.pop()
+            self.generic_visit(node)
+            self.control_stack.pop()
 
     def visit_With(self, node: ast.With):
         """Add control dependencies for with statements."""
-        control_line = node.lineno
-        self.control_stack.append(control_line)
+        if isinstance(node, ast.AST) and hasattr(node, "lineno"):
+            control_line = node.lineno
+            self.control_stack.append(control_line)
 
-        for stmt in ast.walk(node):
-            if hasattr(stmt, "lineno") and stmt.lineno != control_line:
-                self.graph.add_control_dependency(stmt.lineno, control_line)
+            for stmt in ast.walk(node):
+                if (
+                    isinstance(stmt, ast.AST)
+                    and hasattr(stmt, "lineno")
+                    and stmt.lineno != control_line
+                ):
+                    self.graph.add_control_dependency(stmt.lineno, control_line)  # type: ignore[attr-defined]
 
-        self.generic_visit(node)
-        self.control_stack.pop()
+            self.generic_visit(node)
+            self.control_stack.pop()
 
 
 class PytestSlicer:
     """
     Slices test code based on assertions.
 
-    The test_file parameter can be:
-    - Original test file (when used standalone)
-    - Atomized test file (when used from purification pipeline)
-
-    When used with atomized tests, the line numbers in the results
-    correspond to the original test file since atomization preserves
-    line numbers.
+    :param test_file: Path to the test file to slice.
+    :param python_executable: Path to the Python executable to use.
+    :param env: Optional environment variables for the subprocess.
+    :param base_dir: Base directory for the test file.
     """
 
     def __init__(
@@ -472,8 +513,11 @@ class PytestSlicer:
         env: Optional[Dict[str, str]] = None,
         base_dir: Optional[Path] = None,
     ):
+        # Store the test file path
         self.test_file = test_file
+        # Set base directory, default to test file's parent
         self.base_dir = base_dir or test_file.parent  # Default to test file directory
+        # Initialize the dynamic tracer
         self.tracer = DynamicTracer(test_file, python_executable, env, base_dir)
 
     def slice_test(
@@ -482,12 +526,9 @@ class PytestSlicer:
         """
         Slice a test to find dependencies.
 
-        Args:
-            test_pattern: pytest pattern for specific test
-            target_line: specific line to slice (e.g., assertion line)
-
-        Returns:
-            Dictionary with slice results
+        :param test_pattern: pytest pattern for specific test.
+        :param target_line: Specific line to slice (e.g., assertion line).
+        :returns: Dictionary with slice results.
         """
         # Build dependency graph
         LOGGER.info(
@@ -524,7 +565,13 @@ class PytestSlicer:
         return results
 
     def _find_assertions(self, graph: DependencyGraph) -> List[int]:
-        """Find assertion lines in executed code."""
+        """
+        Find assertion lines in executed code.
+
+        :param graph: The DependencyGraph object to analyze.
+        :returns: List of line numbers containing assertions.
+        """
+
         assertions = []
         for line, stmt in graph.statements.items():
             if "assert" in stmt.code.lower():
@@ -532,7 +579,12 @@ class PytestSlicer:
         return assertions
 
     def _extract_sliced_code(self, relevant_lines: Set[int]) -> str:
-        """Extract code for relevant lines."""
+        """
+        Extract code for relevant lines.
+
+        :param relevant_lines: Set of line numbers to include in the slice.
+        :returns: String representation of the sliced code.
+        """
         with open(self.test_file) as f:
             source_lines = f.readlines()
 

@@ -10,7 +10,7 @@ from pathlib import Path
 
 import pytest
 
-from tcp.purification import purify_tests
+from pyurify.purification import purify_tests
 
 
 class TestPurificationSlicingIntegration:

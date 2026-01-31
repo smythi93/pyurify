@@ -4,7 +4,7 @@ Example/Test for Test Case Purification
 This demonstrates how to use the purification module with integrated pipeline.
 """
 
-from tcp.purification import rank_refinement
+from pyurify.purification import rank_refinement
 
 
 def test_purification_example():

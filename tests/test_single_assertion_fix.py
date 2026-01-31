@@ -1,7 +1,7 @@
 """Test to verify SingleAssertionExtractor only keeps one assertion."""
 
 import ast
-from tcp.purification import SingleAssertionExtractor
+from pyurify.purification import SingleAssertionExtractor
 
 TEST_CODE = """
 def test_find_hook(self):

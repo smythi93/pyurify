@@ -51,7 +51,7 @@ def test_module_level():
 
 def test_single_assertion_extractor():
     """Test that SingleAssertionExtractor only keeps the target test."""
-    from tcp.purification import SingleAssertionExtractor
+    from pyurify.purification import SingleAssertionExtractor
 
     # Extract test_second, assertion at line 23
     tree = ast.parse(TEST_CODE)
@@ -92,7 +92,7 @@ def test_single_assertion_extractor():
 
 def test_module_level_extraction():
     """Test extraction of module-level test."""
-    from tcp.purification import SingleAssertionExtractor
+    from pyurify.purification import SingleAssertionExtractor
 
     # Extract test_module_level, assertion at line 35
     tree = ast.parse(TEST_CODE)

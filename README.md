@@ -1,4 +1,4 @@
-# TCP: Test Case Purification for Improving Fault Localization
+# Pyurify: Purifying Python Tests for Precise Fault Localization
 
 A Python package for purifying test cases to improve fault localization effectiveness through test case atomization and dynamic program slicing.
 
@@ -13,10 +13,10 @@ A Python package for purifying test cases to improve fault localization effectiv
 
 ```bash
 # Install from PyPI (when published)
-pip install test-case-purification
+pip install pyurify
 
 # Or install from source
-git clone https://github.com/smythi93/test-purification.git
+git clone https://github.com/smythi93/pyurify.git
 cd test-purification
 pip install -e .
 
@@ -30,16 +30,16 @@ pip install -e ".[test]"
 
 ```bash
 # Basic purification with slicing (default)
-tcp --src-dir tests/ --dst-dir purified/ \
+pyurify --src-dir tests/ --dst-dir purified/ \
     --failing-tests "test_math.py::test_add"
 
 # Disable dynamic slicing (atomization only)
-tcp --src-dir tests/ --dst-dir purified/ \
+pyurify --src-dir tests/ --dst-dir purified/ \
     --failing-tests "test_math.py::test_add" \
     --disable-slicing
 
 # Multiple tests
-tcp --src-dir tests/ --dst-dir purified/ \
+pyurify --src-dir tests/ --dst-dir purified/ \
     --failing-tests "test_math.py::test_add" "test_math.py::test_subtract"
 ```
 
@@ -47,7 +47,7 @@ tcp --src-dir tests/ --dst-dir purified/ \
 
 ```python
 from pathlib import Path
-from tcp import purify_tests
+from pyurify import purify_tests
 
 # Purify tests
 result = purify_tests(
@@ -181,20 +181,20 @@ def purify_tests(
 
 ```python
 from pathlib import Path
-from tcp import PytestSlicer
+from pyurify import PytestSlicer
 
 # Initialize slicer
 slicer = PytestSlicer(
     test_file=Path("test.py"),
     python_executable="python",  # Optional
-    env=None,                     # Optional: environment variables
-    base_dir=None,                # Optional: base directory
+    env=None,  # Optional: environment variables
+    base_dir=None,  # Optional: base directory
 )
 
 # Slice a test
 results = slicer.slice_test(
-    test_pattern="test_func",     # Optional: pytest pattern
-    target_line=10                # Optional: specific line to slice
+    test_pattern="test_func",  # Optional: pytest pattern
+    target_line=10  # Optional: specific line to slice
 )
 
 # Access results
@@ -211,7 +211,7 @@ print(f"Slices: {results['slices']}")
 pytest tests/
 
 # Run with coverage
-pytest tests/ --cov=tcp --cov-report=html
+pytest tests/ --cov=pyurify --cov-report=html
 
 # Run specific test
 pytest tests/test_purification.py -v
@@ -221,10 +221,10 @@ pytest tests/test_purification.py -v
 
 ```bash
 # Format code
-black src/tcp tests/
+black src/pyurify tests/
 
 # Check formatting
-black --check src/tcp tests/
+black --check src/pyurify tests/
 ```
 
 ## Use Cases
@@ -242,3 +242,4 @@ black --check src/tcp tests/
 ## License
 
 Apache License 2.0 - see LICENSE file for details.
+

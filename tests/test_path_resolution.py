@@ -9,7 +9,7 @@ import sys
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from tcp.purification import _resolve_test_file_path
+from pyurify.purification import _resolve_test_file_path
 
 
 def test_path_resolution():

@@ -1,7 +1,7 @@
 """Test to verify class check in SingleAssertionExtractor works correctly."""
 
 import ast
-from tcp.purification import SingleAssertionExtractor
+from pyurify.purification import SingleAssertionExtractor
 
 # Test code with multiple classes and same test name
 CODE_WITH_MULTIPLE_CLASSES = """

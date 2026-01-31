@@ -1,7 +1,7 @@
 """Quick test to verify SingleAssertionExtractor basic functionality."""
 
 import ast
-from tcp.purification import SingleAssertionExtractor
+from pyurify.purification import SingleAssertionExtractor
 
 
 def test_simple_assertion_extraction():

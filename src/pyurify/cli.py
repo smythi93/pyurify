@@ -1,40 +1,61 @@
 #!/usr/bin/env python3
-"""Command-line interface for test case purification."""
+"""
+Command-line Interface for Test Case Purification
+
+This module provides the command-line interface (CLI) for the Pyurify tool.
+
+The CLI allows users to interact with the Pyurify library to purify test cases
+and perform related operations.
+
+Functions:
+- main: Entry point for the CLI.
+
+Usage:
+    pyurify --help
+"""
 
 import argparse
 import sys
 from pathlib import Path
 
-from tcp.logger import LOGGER, debug
+from pyurify.logger import LOGGER, debug
 
 
-def main():
-    """Main entry point for the CLI."""
+def main(args: list[str] | None = None) -> int:
+    """
+    Main entry point for the CLI.
+
+    Parses command-line arguments and invokes the test purification process.
+    :param args: Optional list of command-line arguments.
+    :returns: Exit code (0 for success, non-zero for failure).
+    """
+    # Create the argument parser
     parser = argparse.ArgumentParser(
         description="TCP: Test Case Purification for Improving Fault Localization",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
   # Basic purification without slicing
-  tcp purify --src-dir tests/ --dst-dir purified/ \\
+  pyurify --src-dir tests/ --dst-dir purified/ \\
       --failing-tests "test_math.py::test_add"
   
   # With dynamic slicing enabled
-  tcp purify --src-dir tests/ --dst-dir purified/ \\
+  pyurify --src-dir tests/ --dst-dir purified/ \\
       --failing-tests "test_math.py::test_add" \\
       --enable-slicing
   
   # Multiple failing tests
-  tcp purify --src-dir tests/ --dst-dir purified/ \\
+  pyurify --src-dir tests/ --dst-dir purified/ \\
       --failing-tests "test_math.py::test_add" "test_math.py::test_subtract"
   
   # With custom Python executable
-  tcp purify --src-dir tests/ --dst-dir purified/ \\
+  pyurify --src-dir tests/ --dst-dir purified/ \\
       --failing-tests "test_math.py::test_add" \\
       --python /path/to/venv/bin/python
         """,
     )
 
+    # Add source directory argument
     parser.add_argument(
         "-s",
         "--src-dir",
@@ -43,6 +64,7 @@ Examples:
         help="Source directory containing test files",
     )
 
+    # Add destination directory argument
     parser.add_argument(
         "-d",
         "--dst-dir",
@@ -51,6 +73,7 @@ Examples:
         help="Destination directory for purified tests",
     )
 
+    # Add failing tests argument
     parser.add_argument(
         "-f",
         "--failing-tests",
@@ -59,6 +82,7 @@ Examples:
         help="List of failing test identifiers (e.g., test_file.py::test_name)",
     )
 
+    # Add slicing option
     parser.add_argument(
         "--disable-slicing",
         default=True,
@@ -66,26 +90,30 @@ Examples:
         help="Enable dynamic slicing to remove irrelevant code",
     )
 
+    # Add test base directory argument
     parser.add_argument(
         "--test-base", type=Path, help="Base directory for tests (defaults to src-dir)"
     )
 
+    # Add Python executable argument
     parser.add_argument(
         "--python",
         default="python",
         help="Path to Python executable for running tests (default: python)",
     )
 
+    # Add verbose option
     parser.add_argument(
         "--verbose", "-v", action="store_true", help="Enable verbose output"
     )
 
-    args = parser.parse_args()
+    # Parse the arguments
+    args = parser.parse_args(args or sys.argv[1:])
 
     # Import here to avoid circular imports
-    from tcp import purify_tests
+    from pyurify import purify_tests
 
-    # Configure logging
+    # Configure logging if verbose
     if args.verbose:
         debug()
 
@@ -104,6 +132,7 @@ Examples:
     LOGGER.info()
 
     try:
+        # Call the purify_tests function
         result = purify_tests(
             src_dir=args.src_dir,
             dst_dir=args.dst_dir,
@@ -134,6 +163,7 @@ Examples:
         return 0
 
     except Exception as e:
+        # Handle errors
         LOGGER.info(f"Error during purification: {e}", file=sys.stderr)
         if args.verbose:
             import traceback

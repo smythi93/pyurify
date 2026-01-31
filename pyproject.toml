@@ -6,12 +6,12 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "test-case-purification"
+name = "pyurify"
 version = "0.0.1"
 authors = [
     { name = "Marius Smytzek", email = "marius.smytzek@cispa.de" },
 ]
-description = "TCP: Reimplementation of Test Case Purification for Improving Fault Localization for Python"
+description = "Pyurify: Purifying Python Tests for Precise Fault Localization"
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
@@ -25,7 +25,7 @@ classifiers = [
 dependencies = []
 
 [project.scripts]
-tcp = "tcp.cli:main"
+pyurify = "pyurify.cli:main"
 
 [project.optional-dependencies]
 test = [

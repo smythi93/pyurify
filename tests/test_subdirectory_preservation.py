@@ -6,7 +6,7 @@ Test to verify purification preserves subdirectory structure.
 import tempfile
 from pathlib import Path
 
-from tcp.purification import purify_tests
+from pyurify.purification import purify_tests
 
 
 def test_single_subdirectory_preservation():
